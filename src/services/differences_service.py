@@ -1,10 +1,33 @@
 import json
 import os
-from typing import List, Dict
+from typing import List, Dict, Optional, Tuple
 from pathlib import Path
+from src.services.cache_service import timed_cache
+from functools import lru_cache
+from datetime import datetime
 
 class DifferencesService:
+    _differences_cache: Dict[Tuple[int, int], List[dict]] = {}
+    _differences_timestamps: Dict[Tuple[int, int], datetime] = {}
+    _CACHE_DURATION = 3600
+
     @staticmethod
+    def _get_cached_differences(start_year: int, end_year: int) -> Optional[List[dict]]:
+        key = (start_year, end_year)
+        current_time = datetime.now()
+        if (key in DifferencesService._differences_cache and 
+            (current_time - DifferencesService._differences_timestamps[key]).total_seconds() < DifferencesService._CACHE_DURATION):
+            return DifferencesService._differences_cache[key]
+        return None
+
+    @staticmethod
+    def _set_differences_cache(start_year: int, end_year: int, data: List[dict]) -> None:
+        key = (start_year, end_year)
+        DifferencesService._differences_cache[key] = data
+        DifferencesService._differences_timestamps[key] = datetime.now()
+
+    @staticmethod
+    @timed_cache(expire=3600, cache_name="differences_cache")
     async def get_differences_between_years(start_year: int, end_year: int) -> List[dict]:
         """
         Calculate differences between consecutive years for agencies, chapters, and rules.
@@ -16,6 +39,10 @@ class DifferencesService:
         Returns:
             List[dict]: A list of year-over-year differences
         """
+        cached_result = DifferencesService._get_cached_differences(start_year, end_year)
+        if cached_result:
+            return cached_result
+
         differences = []
         data_dir = Path("src/data/rules")
         
@@ -35,8 +62,8 @@ class DifferencesService:
                     
                 # Calculate agency-level differences
                 agency_differences = DifferencesService._calculate_agency_differences(
-                    previous_data['agencies'],
-                    current_data['agencies']
+                    json.dumps(previous_data['agencies']),
+                    json.dumps(current_data['agencies'])
                 )
                 
                 # Calculate total differences across all agencies
@@ -59,19 +86,22 @@ class DifferencesService:
                 print(f"Warning: Could not find data file for year {year} or {previous_year}")
                 continue
                 
+        DifferencesService._set_differences_cache(start_year, end_year, differences)
         return differences
 
     @staticmethod
-    def _calculate_agency_differences(previous_agencies: List[dict], current_agencies: List[dict]) -> List[dict]:
+    @lru_cache(maxsize=128)
+    def _calculate_agency_differences(prev_agencies_str: str, curr_agencies_str: str) -> List[dict]:
         """
-        Calculate differences between agencies.
-        Positive numbers indicate additions, negative numbers indicate reductions.
+        Memoized version of difference calculation
         """
+        prev_agencies = json.loads(prev_agencies_str)
+        curr_agencies = json.loads(curr_agencies_str)
         differences = []
         
         # Create lookup dictionaries
-        prev_lookup = {agency['agencyId']: agency for agency in previous_agencies}
-        curr_lookup = {agency['agencyId']: agency for agency in current_agencies}
+        prev_lookup = {agency['agencyId']: agency for agency in prev_agencies}
+        curr_lookup = {agency['agencyId']: agency for agency in curr_agencies}
         
         # Get all unique agency IDs
         all_agency_ids = set(prev_lookup.keys()) | set(curr_lookup.keys())
@@ -123,6 +153,7 @@ class DifferencesService:
         return curr_total - prev_total
 
     @staticmethod
+    @timed_cache(expire=3600)
     async def get_simple_differences_between_years(start_year: int, end_year: int) -> List[dict]:
         """
         Calculate total differences between consecutive years for chapters and rules,
@@ -182,6 +213,7 @@ class DifferencesService:
         return differences
 
     @staticmethod
+    @timed_cache(expire=3600)
     async def get_detailed_changes_between_years(year1: int, year2: int) -> dict:
         """
         Get specific agencies, chapters and rules that were added or removed between two years.

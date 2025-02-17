@@ -1,23 +1,45 @@
-from typing import List, Union, Optional
+from typing import List, Union, Optional, Dict, Any
 from src.database.config import supabase
 import os
 import json
 from glob import glob
 import asyncio
+from src.services.cache_service import timed_cache
+from src.services.file_service import FileService
+from datetime import datetime
 
 class AgencyService:
+    _db_cache: Dict[str, Any] = {}
+    _db_cache_timestamps: Dict[str, datetime] = {}
+    _CACHE_DURATION = 3600  # 1 hour in seconds
+
     @staticmethod
+    def _get_cached_db_result(cache_key: str) -> Optional[Any]:
+        current_time = datetime.now()
+        if (cache_key in AgencyService._db_cache and 
+            (current_time - AgencyService._db_cache_timestamps[cache_key]).total_seconds() < AgencyService._CACHE_DURATION):
+            return AgencyService._db_cache[cache_key]
+        return None
+
+    @staticmethod
+    def _set_db_cache(cache_key: str, data: Any) -> None:
+        AgencyService._db_cache[cache_key] = data
+        AgencyService._db_cache_timestamps[cache_key] = datetime.now()
+
+    @staticmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_all_agencies() -> List[dict]:
-        """
-        Retrieve all agencies from the database.
-        
-        Returns:
-            List[dict]: A list of agency records
-        """
+        cache_key = "all_agencies"
+        cached_result = AgencyService._get_cached_db_result(cache_key)
+        if cached_result is not None:
+            return cached_result
+
         response = supabase.table('agencies').select('*').execute()
+        AgencyService._set_db_cache(cache_key, response.data)
         return response.data
 
     @staticmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_agencies_by_year(year: int) -> List[dict]:
         """
         Retrieve all agencies that have records for a specific year.
@@ -53,6 +75,7 @@ class AgencyService:
         return list(unique_agencies.values())
 
     @staticmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_chapters_by_agency_year(agency_year_id: int) -> List[dict]:
         """
         Retrieve all chapters for a specific agency year.
@@ -72,6 +95,7 @@ class AgencyService:
         return response.data
 
     @staticmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_rules_with_subrules_by_chapter(chapter_id: int) -> List[dict]:
         """
         Retrieve all rules with their nested subrules for a specific chapter.
@@ -103,6 +127,7 @@ class AgencyService:
         return rules
 
     @classmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_agency_stats(cls):
         """
         Aggregates rules and word count statistics for agencies that appear in the most recent year.
@@ -115,42 +140,50 @@ class AgencyService:
     @classmethod
     def _get_agency_stats_sync(cls):
         base_path = "src/data/rules/word_counts/"
-        # Use glob to find all relevant files with the pattern grouped_word_count_*.json.
-        file_pattern = os.path.join(base_path, "grouped_word_count_*.json")
-        files = glob(file_pattern)
-        years = []
-        for file in files:
-            basename = os.path.basename(file)
-            try:
-                year_str = basename.replace("grouped_word_count_", "").replace(".json", "")
-                year = int(year_str)
-                years.append(year)
-            except ValueError:
-                continue
+        years = FileService.get_available_years(base_path, "grouped_word_count")
         if not years:
             raise Exception("No word count files found.")
         recent_year = max(years)
         
-        # Load data for the most recent year.
+        # Load nested data
+        nested_file = f"src/data/rules/nested_{recent_year}.json"
+        nested_data = FileService.read_json_file(nested_file)
+        nested_agencies_lookup = {}
+        if nested_data.get("agencies", []):
+            for agency in nested_data.get("agencies", []):
+                agency_id = agency.get("agencyId")
+                if agency_id is not None:
+                    total_rule_count = 0
+                    for chapter in agency.get("chapters", []):
+                        total_rule_count += chapter.get("ruleCount", len(chapter.get("rules", [])))
+                    nested_agencies_lookup[str(agency_id)] = total_rule_count
+        
+        # Load data for the most recent year
         recent_file = os.path.join(base_path, f"grouped_word_count_{recent_year}.json")
         with open(recent_file, "r") as f:
             recent_data = json.load(f)
         recent_agencies = recent_data.get("agencies", [])
         
-        # Build a stats dictionary for each agency appearing in the recent year.
         stats = {}
         for agency in recent_agencies:
             agency_id = agency.get("agency_id")
             agency_name = agency.get("agency")
-            # Assume agency-level totals are provided in "total_words" and count rules by counting the chapters.
             recent_total_word_count = agency.get("total_words", 0)
-            recent_rules_count = len(agency.get("chapters", []))
+            
+            # Get rule count from nested data if available, otherwise fall back to chapter count
+            recent_rules_count = nested_agencies_lookup.get(str(agency_id))
+            if recent_rules_count is None:
+                recent_rules_count = len(agency.get("chapters", []))
+            
+            complexity_score = cls._get_complexity_score(agency_id, agency_name)
             stats[agency_id] = {
+                "agency_id": agency_id,
                 "agency": agency_name,
                 "recent_year": recent_year,
                 "recent_total_word_count": recent_total_word_count,
                 "recent_rules_count": recent_rules_count,
-                "yearly_stats": []  # This will hold an array of objects for each year's stats.
+                "complexity_score": complexity_score,
+                "yearly_stats": []
             }
         
         # For each year from 2012 up to the most recent year, populate the agency's yearly stats.
@@ -172,6 +205,7 @@ class AgencyService:
         return list(stats.values())
 
     @staticmethod
+    @timed_cache(expire=3600, cache_name="db_cache")
     async def get_agency_data_for_year(agency_id: int, year: int) -> dict:
         """
         Retrieve all chapters and associated rules for a specific agency in a given year.
@@ -229,7 +263,7 @@ class AgencyService:
             chapter["rules"] = rules
 
         # Get complexity score before return
-        complexity_score = AgencyService._get_complexity_score(agency_id)
+        complexity_score = AgencyService._get_complexity_score(agency_id, agency_record.get("agency_name"))
 
         # Return the combined result.
         return {
@@ -267,7 +301,10 @@ class AgencyService:
                 # Use "agencyId" to match the JSON file structure
                 if str(agency.get("agencyId")) == str(agency_id):
                     # Add complexity score before returning
-                    complexity_score = AgencyService._get_complexity_score(agency_id)
+                    complexity_score = AgencyService._get_complexity_score(
+                        agency_id, 
+                        agency.get("agencyName")
+                    )
                     agency["complexity_score"] = complexity_score
                     return agency
             return None
@@ -275,12 +312,13 @@ class AgencyService:
         return await asyncio.to_thread(_sync)
 
     @staticmethod
-    def _get_complexity_score(agency_id: Union[str, int]) -> Optional[float]:
+    def _get_complexity_score(agency_id: Union[str, int], agency_name: str = None) -> Optional[float]:
         """
         Get the complexity score for an agency from the complexity data file.
         
         Args:
             agency_id (Union[str, int]): The ID of the agency
+            agency_name (str, optional): The name of the agency, used as fallback for specific cases
             
         Returns:
             Optional[float]: The complexity score if found, None otherwise
@@ -293,9 +331,17 @@ class AgencyService:
             with open(file_path, "r") as f:
                 data = json.load(f)
             
+            # First try to match by ID
             for agency in data.get("agencies", []):
                 if str(agency.get("agency_id")) == str(agency_id):
                     return agency.get("complexity_index")
+            
+            # If ID match fails and we have a name, try name matching for specific cases
+            if agency_name and "Engineering and Land Surveying Examining Board" in agency_name:
+                for agency in data.get("agencies", []):
+                    if "Engineering and Land Surveying Examining Board" in agency.get("agency", ""):
+                        return agency.get("complexity_index")
+                    
             return None
         except Exception:
             return None

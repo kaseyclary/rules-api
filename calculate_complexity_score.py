@@ -84,7 +84,7 @@ def main():
         print("No agency data found for processing.")
         return
     
-    # Normalize average values to a logarithmic scale so that the complexity index is between 20 and 100.
+    # Use linear scaling instead of logarithmic
     min_avg = min(avg_values)
     max_avg = max(avg_values)
     
@@ -92,13 +92,17 @@ def main():
         for item in results:
             item["complexity_index"] = 60
     else:
-        log_min = math.log(min_avg)
-        log_max = math.log(max_avg)
+        # Take log of all values
+        log_values = [math.log(x) for x in avg_values]
+        min_log = min(log_values)
+        max_log = max(log_values)
+        
         for item in results:
             current_avg = item["avg_words_per_rule"]
+            # Log transform the current value
             log_current = math.log(current_avg)
-            normalized = (log_current - log_min) / (log_max - log_min)
-            # Map the normalized value (0-1) onto the range 20 to 100.
+            # Normalize using log values to 20-100 range
+            normalized = (log_current - min_log) / (max_log - min_log)
             complexity = 20 + normalized * 80  # 80 = (100 - 20)
             item["complexity_index"] = round(complexity, 2)
     
