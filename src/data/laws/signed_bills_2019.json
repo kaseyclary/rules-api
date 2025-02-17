@@ -1,0 +1,841 @@
+{
+  "year": 2019,
+  "totalBills": 167,
+  "bills": [
+    {
+      "billNumber": "HF 306",
+      "billTitle": "A bill for an act relating to public school funding by establishing the state percent of growth and the categorical state percent of growth for the budget year beginning July 1, 2019, modifying provisions relating to the property tax replacement payments, and including effective date provisions. (FormerlyHSB 109.) Effective 2-19-19.",
+      "dateSigned": "2019-02-19"
+    },
+    {
+      "billNumber": "HF 307",
+      "billTitle": "A bill for an act relating to public school funding by modifying provisions relating to the regular program state cost per pupil, making appropriations to the transportation equity fund, establishing transportation data review and reporting requirements, and including effective date provisions. (FormerlyHSB 111.) Effective 2-19-19.",
+      "dateSigned": "2019-02-19"
+    },
+    {
+      "billNumber": "SF 519",
+      "billTitle": "A bill for an act relating to an offense involving trespass to agricultural production facilities, providing penalties, and including effective date provisions. (FormerlySSB 1227.) Effective 3-14-19.",
+      "dateSigned": "2019-03-14"
+    },
+    {
+      "billNumber": "SF 220",
+      "billTitle": "A bill for an act relating to the increased expensing allowance deduction by corporations, financial institutions, and partnerships and limited liability companies taxed as corporations, and including effective date and retroactive applicability provisions. (FormerlySSB 1098.) Effective 3-15-19.",
+      "dateSigned": "2019-03-15"
+    },
+    {
+      "billNumber": "SF 113",
+      "billTitle": "A bill for an act allowing certain operating-while-intoxicated offenders to be sentenced as habitual offenders, and making penalties applicable. (FormerlySSB 1002.) Effective 7-1-19.",
+      "dateSigned": "2019-03-21"
+    },
+    {
+      "billNumber": "SF 367",
+      "billTitle": "A bill for an act eliminating the education telecommunications council and regional telecommunications councils established under the Iowa communications network. (FormerlySSB 1153.) Effective 7-1-19.",
+      "dateSigned": "2019-03-21"
+    },
+    {
+      "billNumber": "HF 482",
+      "billTitle": "A bill for an act relating to department of transportation employees designated as peace officers, and including effective date provisions. (FormerlyHSB 37.) Effective 3-21-19.",
+      "dateSigned": "2019-03-21"
+    },
+    {
+      "billNumber": "HF 668",
+      "billTitle": "A bill for an act concerning alcoholic beverage control, relating to limitations on business interests of certain manufacturers, wholesalers, and retailers of alcoholic beverages. (FormerlyHSB 210.) Effective 7-1-19.",
+      "dateSigned": "2019-03-21"
+    },
+    {
+      "billNumber": "HF 288",
+      "billTitle": "A bill for an act relating to military and veterans benefits. (FormerlyHSB 65.) Effective 7-1-19.",
+      "dateSigned": "2019-03-22"
+    },
+    {
+      "billNumber": "HF 487",
+      "billTitle": "A bill for an act related to installations of certain wireless telecommunications infrastructure in the state, and including effective date provisions. (FormerlyHSB 155.) Effective 3-25-19.",
+      "dateSigned": "2019-03-25"
+    },
+    {
+      "billNumber": "SF 274",
+      "billTitle": "A bill for an act relating to speech and expression at public institutions of higher education, providing for remedies, and including effective date provisions. (FormerlySSB 1099.)  Effective 3-27-19.",
+      "dateSigned": "2019-03-27"
+    },
+    {
+      "billNumber": "SF 556",
+      "billTitle": "A bill for an act relating to the membership of the life and health insurance guaranty association, assessments to member insurers for insurance written by impaired or insolvent member insurers, and including applicability and effective date provisions. (FormerlySSB 1222.)  Effective 3-29-19.",
+      "dateSigned": "2019-03-29"
+    },
+    {
+      "billNumber": "SJR 17",
+      "billTitle": "A joint resolution authorizing the temporary sale of merchandise at a toy benefit for Iowa children on the state capitol complex grounds. (FormerlySSB 1115.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "SF 304",
+      "billTitle": "A bill for an act relating to licensing sanctions against individuals who default or are delinquent on student loan debt or on a related service obligation. (FormerlySSB 1133.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "SF 534",
+      "billTitle": "A bill for an act relating to the use of gasification and pyrolysis facilities for the conversion of certain recoverable waste materials. (FormerlySSB 1194.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "SF 555",
+      "billTitle": "A bill for an act relating to weight limitations for certain implements of husbandry. (FormerlySSB 1217.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "SF 559",
+      "billTitle": "A bill for an act relating to insurance notices and documents delivered by electronic means to a consumer that purchases portable electronics insurance in a retail transaction. (FormerlySSB 1206.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "HF 266",
+      "billTitle": "A bill for an act relating to the civil commitment of sexually violent predators. (FormerlyHSB 11.) Effective 7-1-19.",
+      "dateSigned": "2019-04-08"
+    },
+    {
+      "billNumber": "SF 210",
+      "billTitle": "A bill for an act providing for the designation of a lay caregiver relating to a patient\u2019s inpatient stay at a hospital. (FormerlySF 84.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-09"
+    },
+    {
+      "billNumber": "SF 558",
+      "billTitle": "A bill for an act relating to requirements for domestic surplus lines insurers. (FormerlySSB 1207.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-09"
+    },
+    {
+      "billNumber": "HF 264",
+      "billTitle": "A bill for an act relating to the division of domestic stock insurers. (FormerlyHSB 35.) Effective 7-1-19.",
+      "dateSigned": "2019-04-09"
+    },
+    {
+      "billNumber": "HF 327",
+      "billTitle": "A bill for an act relating to franchisor-franchisee relationships for the purposes of certain employment laws and including applicability provisions. (FormerlyHSB 5.) Effective 7-1-19.",
+      "dateSigned": "2019-04-09"
+    },
+    {
+      "billNumber": "SF 140",
+      "billTitle": "A bill for an act relating to special minor\u2019s driver\u2019s licenses for students attending accredited nonpublic schools. (FormerlySSB 1033.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "SF 208",
+      "billTitle": "A bill for an act increasing the maximum allowable length for stinger-steered automobile transporters. (FormerlySSB 1048.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "SF 333",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections. (FormerlySSB 1140.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "SF 532",
+      "billTitle": "A bill for an act relating to notice and opportunity to repair construction defects in new construction, and including effective date and applicability provisions. (FormerlySSB 1146.)  Effective 4-15-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "SF 569",
+      "billTitle": "A bill for an act relating to business entities, by providing for different types of limited liability companies and the dissolution of limited liability companies, and including effective date provisions. (FormerlySSB 1199.)  Various effective dates; see sections 41 and 53 of bill.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "HF 260",
+      "billTitle": "A bill for an act relating to permissible interest rates and charges for certain loans. (FormerlyHSB 31.) Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "HF 390",
+      "billTitle": "A bill for an act relating to required notices to the department of transportation regarding certain registered aircraft. (FormerlyHSB 45.) Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "HF 698",
+      "billTitle": "A bill for an act relating to the jurisdiction and management of pioneer cemeteries. (FormerlyHSB 234.) Effective 7-1-19.",
+      "dateSigned": "2019-04-15"
+    },
+    {
+      "billNumber": "SF 159",
+      "billTitle": "A bill for an act relating to assessment scores set by the department of education for successful completion of a practitioner preparation program and for initial teacher licensure and providing for related matters. (FormerlySSB 1031.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-16"
+    },
+    {
+      "billNumber": "SF 245",
+      "billTitle": "A bill for an act relating to eligibility and reporting requirements for the skilled workforce shortage tuition grant program. (FormerlySSB 1051.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-16"
+    },
+    {
+      "billNumber": "SF 246",
+      "billTitle": "A bill for an act relating to requirements for eligibility under the all Iowa opportunity scholarship program. (FormerlySSB 1052.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-16"
+    },
+    {
+      "billNumber": "HF 650",
+      "billTitle": "A bill for an act relating to the liability of private employers, general contractors, and premises owners for negligently hiring employees, agents, or independent contractors convicted of a public offense. (FormerlyHF 471.) Effective 7-1-19.",
+      "dateSigned": "2019-04-17"
+    },
+    {
+      "billNumber": "SF 112",
+      "billTitle": "A bill for an act relating to the requirements for certifications of trust and including applicability provisions. (FormerlySSB 1003.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "SF 402",
+      "billTitle": "A bill for an act providing for the good-faith submission of information, records, applications, and documents to the credit union division. (FormerlySSB 1176.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "SF 403",
+      "billTitle": "A bill for an act relating to the subpoena powers of the superintendent of credit unions, and making penalties applicable. (FormerlySSB 1175.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "SF 506",
+      "billTitle": "A bill for an act relating to procedural requirements for the merger of state credit unions. (FormerlySSB 1177.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "SF 507",
+      "billTitle": "A bill for an act relating to the definition of personal injuries arising out of and in the course of the employment for the purposes of compensable acts for workers\u2019 compensation. (FormerlySSB 1205.)  Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "HF 323",
+      "billTitle": "A bill for an act relating to the exploitation of a dependent adult by a caretaker. (FormerlyHSB 21.) Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "HF 393",
+      "billTitle": "A bill for an act relating to the reporting of certain gifts and bequests received by the executive branch. (FormerlyHSB 53.) Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "HF 418",
+      "billTitle": "A bill for an act relating to commercial driver\u2019s license requirements, and including applicability provisions. (FormerlyHSB 43.) Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "HF 518",
+      "billTitle": "A bill for an act relating to reimbursement for dually eligible Medicare and Medicaid members receiving the Medicare hospice benefit and Medicaid-only members electing the hospice benefit in a nursing facility. (FormerlyHF 295.) Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "HF 701",
+      "billTitle": "A bill for an act relating to the continuance of lawful preexisting nonconforming uses by manufactured, modular, and mobile homes and site-built dwelling units. (FormerlyHSB 100.) Effective 7-1-19.",
+      "dateSigned": "2019-04-23"
+    },
+    {
+      "billNumber": "SF 475",
+      "billTitle": "A bill for an act providing for notarial acts, including by providing for the use of electronic media, providing penalties, and including effective date provisions. (FormerlySSB 1116.)  Various effective dates; see section 11 of bill.",
+      "dateSigned": "2019-04-29"
+    },
+    {
+      "billNumber": "SF 158",
+      "billTitle": "A bill for an act relating to postconviction relief procedure and the underlying trial court record of the proceedings challenged. (FormerlySSB 1005.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 282",
+      "billTitle": "A bill for an act providing for the repeal of the honey creek premier destination park bond program. (FormerlySSB 1121.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 346",
+      "billTitle": "A bill for an act creating the criminal offense of female genital mutilation and providing penalties. (FormerlySF 212.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 379",
+      "billTitle": "A bill for an act relating to qualifications to practice law in Iowa and regulation of persons admitted to practice law in a jurisdiction of the United States other than Iowa. (FormerlySSB 1069.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 412",
+      "billTitle": "A bill for an act relating to post-loss assignment of rights to residential contractors for repair or services performed on residential real estate covered by property and casualty insurance, and making penalties applicable. (FormerlySSB 1161.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 528",
+      "billTitle": "A bill for an act relating to self-service storage facilities, including the creation and enforcement of liens on personal property within leased spaces. (FormerlySSB 1200.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 590",
+      "billTitle": "A bill for an act relating to payments from the indigent defense fund by the state public defender for costs incurred by a privately retained attorney representing an indigent person. (FormerlySSB 1135.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 600",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure- related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund, and including effective date provisions. (FormerlySSB 1243.)  Various effective dates; see section 2 of bill.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 391",
+      "billTitle": "A bill for an act increasing the required amount for a surety bond necessary for the issuance of a travel trailer dealer\u2019s license, and including applicability provisions. (FormerlyHSB 13.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 392",
+      "billTitle": "A bill for an act relating to competitive bidding requirements applicable to certain governmental officials and employees. (FormerlyHSB 51.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 532",
+      "billTitle": "A bill for an act relating to the physician workforce in the state including the awarding of medical residency positions in the state. (FormerlyHF 372.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 591",
+      "billTitle": "A bill for an act providing for juvenile court jurisdiction over minor guardianship proceedings and including effective date and applicability provisions. (FormerlyHSB 118.) Effective 1-1-20.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 610",
+      "billTitle": "A bill for an act relating to the opening of guardianships for adults and conservatorships for adults and minors and the administration of guardianships and conservatorships and including effective date and applicability provisions. (FormerlyHSB 22.) Effective 1-1-20.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 623",
+      "billTitle": "A bill for an act relating to prior authorization for medication-assisted treatment under the Medicaid program. (FormerlyHSB 200.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 679",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including retroactive applicability provisions. (FormerlyHSB 203.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 681",
+      "billTitle": "A bill for an act permitting qualified entities to request national criminal history checks of certain covered individuals. (FormerlyHSB 208.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 690",
+      "billTitle": "A bill for an act relating to mental health and disability services, including the establishment of a children\u2019s behavioral health system and a children\u2019s behavioral health system state board, and requiring certain children\u2019s behavioral health core services. (FormerlyHSB 206.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 691",
+      "billTitle": "A bill for an act relating to funding of county mental health and disability services by modifying provisions relating to the use of specified excess cash flow funds, and including effective date and retroactive applicability provisions. (FormerlyHF 548.) Effective 5-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "HF 719",
+      "billTitle": "A bill for an act relating to participation in conciliation related to a dissolution of marriage. (FormerlyHF 544.) Effective 7-1-19.",
+      "dateSigned": "2019-05-01"
+    },
+    {
+      "billNumber": "SF 170",
+      "billTitle": "A bill for an act relating to the publication duties of and the filling of vacancies on county agricultural extension councils and including effective date and applicability provisions.  Effective 5-2-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "SF 341",
+      "billTitle": "A bill for an act relating to assistance animals and service animals in housing, service animals and service-animals-in-training in public accommodations, and misrepresentation of an animal as a service animal or a service-animal-in-training, providing penalties, and including effective date and applicability provisions. (FormerlySF 63.)  Various effective dates; see section 9 of bill.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "SF 364",
+      "billTitle": "A bill for an act relating to the Iowa sobriety and drug monitoring program. (FormerlySSB 1055.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "SF 435",
+      "billTitle": "A bill for an act relating to towable recreational vehicles, travel trailers, and fifth-wheel travel trailers, making penalties applicable, and including applicability provisions. (FormerlySSB 1180.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "SF 447",
+      "billTitle": "A bill for an act relating to the power of cities to regulate certain building restrictions, and including effective date provisions. (FormerlySSB 1212.)  Effective 5-2-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "HF 304",
+      "billTitle": "A bill for an act relating to reports of personal degradation by caretakers of dependent adults in facilities and programs regulated by the department of inspections and appeals. (FormerlyHSB 74.) Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "HF 325",
+      "billTitle": "A bill for an act relating to weapons requirements for nonambulatory hunters. (FormerlyHF 49.) Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "HF 516",
+      "billTitle": "A bill for an act relating to voting membership on joint 911 service boards. (FormerlyHSB 156.) Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "HF 598",
+      "billTitle": "A bill for an act relating to the assignment of pupils who are siblings to classrooms by school districts. (FormerlyHF 197.) Effective 7-1-19.",
+      "dateSigned": "2019-05-02"
+    },
+    {
+      "billNumber": "SF 283",
+      "billTitle": "A bill for an act relating to conflicts of interest in certain government public contracts. (FormerlySSB 1094.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "SF 302",
+      "billTitle": "A bill for an act relating to motor vehicles operated by an automated driving system, and making penalties applicable. (FormerlySSB 1128.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "SF 303",
+      "billTitle": "A bill for an act relating to the replacement of a person\u2019s driver\u2019s license or nonoperator\u2019s identification card on the person\u2019s twenty-first birthday anniversary. (FormerlySF 62.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "SF 319",
+      "billTitle": "A bill for an act relating to peace officers and retired peace officers who provide street or highway driving instruction. (FormerlySF 207.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "SF 531",
+      "billTitle": "A bill for an act relating to pediatric congenital heart surgery including data reporting and the provision of patient education by hospitals. (FormerlySF 387.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 387",
+      "billTitle": "A bill for an act relating to distance requirements for certain motor vehicles following other vehicles. (FormerlyHSB 127.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 389",
+      "billTitle": "A bill for an act relating to the process and fees associated with the registration and title of vessels, snowmobiles, and all-terrain vehicles. (FormerlyHSB 44.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 423",
+      "billTitle": "A bill for an act relating to the suspension of Medicaid coverage for an inmate of a public institution. (FormerlyHF 209.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 570",
+      "billTitle": "A bill for an act relating to the brain injury home and community-based services waiver monthly budget maximum. (FormerlyHF 294.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 606",
+      "billTitle": "A bill for an act relating to continuing education requirements for certain professions. (FormerlyHSB 159.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 643",
+      "billTitle": "A bill for an act relating to driver\u2019s licenses and nonoperator\u2019s identification cards marked to reflect deaf or hard-of-hearing status. (FormerlyHSB 194.) Effective 7-1-19.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "HF 766",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and veterans and including other related provisions and appropriations, providing penalties, and including effective date and retroactive and other applicability date provisions. (FormerlyHSB 253.) Various effective dates, see bill.",
+      "dateSigned": "2019-05-03"
+    },
+    {
+      "billNumber": "SF 86",
+      "billTitle": "A bill for an act requiring the department of natural resources to include anatomical donor symbols on certain licenses.  Effective 7-1-19.",
+      "dateSigned": "2019-05-06"
+    },
+    {
+      "billNumber": "SF 265",
+      "billTitle": "A bill for an act providing for the sale of certain mushrooms at farmers markets, and providing an effective date. (FormerlySSB 1111.)  Effective 5-3-19.",
+      "dateSigned": "2019-05-06"
+    },
+    {
+      "billNumber": "HF 637",
+      "billTitle": "A bill for an act relating to reports relating to misconduct of certain school employees required to be submitted to the board of educational examiners. (FormerlyHF 145.) Effective 7-1-19.",
+      "dateSigned": "2019-05-06"
+    },
+    {
+      "billNumber": "SF 563",
+      "billTitle": "A bill for an act relating to pharmacy benefit managers and information related to the management of prescription drug benefits, and including applicability provisions. (FormerlySF 347.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-08"
+    },
+    {
+      "billNumber": "SF 638",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for legal and regulatory responsibilities, providing for other properly related matters, and including effective date, applicability, and retroactive applicability provisions. (FormerlySSB 1262.)  Various effective dates; see sections 22, 23, 30, 44, and 60 of bill.",
+      "dateSigned": "2019-05-08"
+    },
+    {
+      "billNumber": "HF 694",
+      "billTitle": "A bill for an act establishing an emergency medical services personnel licensure interstate compact. (FormerlyHSB 192.) Effective 7-1-19.",
+      "dateSigned": "2019-05-08"
+    },
+    {
+      "billNumber": "HF 731",
+      "billTitle": "A bill for an act relating to mandatory child abuse and dependent adult abuse reporter training requirements. (FormerlyHF 538.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-08"
+    },
+    {
+      "billNumber": "HF 743",
+      "billTitle": "A bill for an act requiring that the general assembly provide for the publication of certain material and associated electronic records pertaining to official legal publications. (FormerlyHSB 226.) Effective 7-1-19.",
+      "dateSigned": "2019-05-08"
+    },
+    {
+      "billNumber": "SF 139",
+      "billTitle": "A bill for an act relating to a financial literacy requirement under the state\u2019s educational standards. (FormerlySSB 1029.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 188",
+      "billTitle": "A bill for an act prohibiting a governing board of a public college or university from adopting or enforcing any policy or rule that prohibits a person from carrying, transporting, or possessing a dangerous weapon producing a nonprojectile high-voltage pulse designed to immobilize a person in the buildings or on the grounds of such a college or university. (FormerlySF 120.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 306",
+      "billTitle": "A bill for an act establishing a lake Manawa state park user fee pilot program and a Waubonsie state park user fee pilot program. (FormerlySF 132.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 394",
+      "billTitle": "A bill for an act relating to requirements school districts and accredited nonpublic schools must meet to provide distance learning classes that meet the requirements of Iowa\u2019s education program. (FormerlySSB 1165.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 409",
+      "billTitle": "A bill for an act relating to administrative procedures within the department of natural resources. (FormerlySSB 1119.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 548",
+      "billTitle": "A bill for an act relating to the acquisition, donation, or sale of real property for specified purposes. (FormerlySSB 1221.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 567",
+      "billTitle": "A bill for an act relating to disqualifications from holding certain professional licenses for persons convicted of certain crimes. (FormerlySSB 1112.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "HF 421",
+      "billTitle": "A bill for an act relating to institutions under the control of the department of human services, including providing for the transfer of dangerous persons with mental illness from a hospital for persons with mental illness to the Iowa medical and classification center. (FormerlyHSB 73.) Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "HF 596",
+      "billTitle": "A bill for an act relating to incentives for whole grade sharing and school district reorganization or dissolution. (FormerlyHSB 130.) Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "HF 604",
+      "billTitle": "A bill for an act relating to commercial fishing to remove underused, undesirable, and injurious organisms from waters of the state, and including applicability provisions. (FormerlyHF 318.) Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "HF 609",
+      "billTitle": "A bill for an act to legalize the participation in the instructional support program by the Bennett community school district, and providing an effective date. WHEREAS, section 257.18 authorizes a school district to participate in the instructional support program, if the board of directors of the school district takes action by adopting a resolution to participate in the program and after twenty-eight days following the board\u2019s action, the secretary of the board does not receive a petition asking that the question to approve or disapprove the board\u2019s action be submitted to the voters of the school district; and WHEREAS, on April 9, 2018, the board of directors of the Bennett community school district duly adopted a resolution to participate in the instructional support program in compliance with section 257.18; and WHEREAS, on April 12, 2018, the action of the board of directors of the Bennett community school district was certified to the department of management; and WHEREAS, the certification of the board\u2019s action was in error since it did not comply with the twenty-eight-day requirement; and WHEREAS, the secretary of the board has not received a petition asking that the question to approve or disapprove the board\u2019s action be submitted to the voters of the school district; NOW THEREFORE, Effective 5-9-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "HF 689",
+      "billTitle": "A bill for an act relating to the removal of county veterans service officers. (FormerlyHSB 229.) Effective 7-1-19.",
+      "dateSigned": "2019-05-09"
+    },
+    {
+      "billNumber": "SF 93",
+      "billTitle": "A bill for an act relating to abandoned structures and abatement of public nuisances.  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 267",
+      "billTitle": "A bill for an act relating to the practice of massage therapy, and providing penalties. (FormerlySSB 1037.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 323",
+      "billTitle": "A bill for an act relating to canned cocktails and including effective date provisions. (FormerlySSB 1118.)  Effective 5-10-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 337",
+      "billTitle": "A bill for an act providing for exceptions to the state child labor law. (FormerlySSB 1085.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 502",
+      "billTitle": "A bill for an act relating to disclosures of certain information, including reprisals with respect to employees of the state and a political subdivision of the state and providing information to employees concerning the office of ombudsman. (FormerlySF 400.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 505",
+      "billTitle": "A bill for an act modifying provisions relating to the licensure of professional landscape architects. (FormerlySSB 1173.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 570",
+      "billTitle": "A bill for an act providing for immunity from civil liability for licensed architects and professional engineers providing disaster emergency assistance under specified circumstances and including effective date provisions. (FormerlySF 68.)  Effective 5-10-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 605",
+      "billTitle": "A bill for an act relating to the application fee and annual fee imposed for nonassistance child support cases. (FormerlySSB 1211,SF 543.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 618",
+      "billTitle": "A bill for an act relating to alcoholic beverage control and matters under the purview of the alcoholic beverages division of the department of commerce and including effective date provisions. (FormerlySSB 1076,SF 413.)  Various effective dates; see section 68 of bill.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 224",
+      "billTitle": "A bill for an act relating to the criminal offense of lascivious conduct with a minor, and providing penalties. (FormerlyHSB 23.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 263",
+      "billTitle": "A bill for an act relating to application fees for certain consumer loans. (FormerlyHSB 34.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 291",
+      "billTitle": "A bill for an act relating to the community spouse resource allowance under the Medicaid program. (FormerlyHSB 75.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 303",
+      "billTitle": "A bill for an act relating to a statewide welcome center program. (FormerlyHSB 66.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 328",
+      "billTitle": "A bill for an act relating to the definition of vulnerable elder. (FormerlyHSB 30.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 422",
+      "billTitle": "A bill for an act relating to the provision of health care services via telehealth for the civil commitment unit for sexual offenders. (FormerlyHF 211.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 486",
+      "billTitle": "A bill for an act relating to community catalyst building remediation grants for emergency projects. (FormerlyHSB 91.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 537",
+      "billTitle": "A bill for an act relating to the imposition of certain fees on public utilities for the use of public rights-of-way. (FormerlyHSB 32.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 569",
+      "billTitle": "A bill for an act relating to personal degradation of a dependent adult as a form of dependent adult abuse by a caretaker regulated by the department of human services, and making penalties applicable. (FormerlyHSB 112.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 595",
+      "billTitle": "A bill for an act related to allowable annual salaries for deputy county auditors in charge of elections administration. (FormerlyHSB 170.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 625",
+      "billTitle": "A bill for an act relating to the integration of Medicaid and healthy and well kids in Iowa program eligibility, payment, and administrative functions under the department of human services. (FormerlyHSB 183.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 642",
+      "billTitle": "A bill for an act relating to the release of certain confidential information by the department of human services to multidisciplinary teams and making penalties applicable. (FormerlyHF 435.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 644",
+      "billTitle": "A bill for an act relating to juvenile justice, including provisions relating to child foster care and parent visitation in child in need of assistance proceedings. (FormerlyHSB 184.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 707",
+      "billTitle": "A bill for an act relating to service of process relating to juvenile delinquency proceedings and termination of the parent-child relationship proceedings. (FormerlyHSB 224.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 750",
+      "billTitle": "A bill for an act relating to the powers and duties of the department of agriculture and land stewardship, by changing the name of the weather bureau, modifying provisions applicable to demonstration projects involving alternative fuels, transferring certain Code sections, providing for the use of certain appropriated moneys for surface water quality, and eliminating certain watershed demonstration pilot projects. (FormerlyHF 640andHSB 207.) Effective 7-1-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "HF 764",
+      "billTitle": "A bill for an act relating to publication and procedural provisions relating to proposed constitutional amendments and including effective date provisions. (FormerlyHSB 247.) Effective 5-10-19.",
+      "dateSigned": "2019-05-10"
+    },
+    {
+      "billNumber": "SF 599",
+      "billTitle": "A bill for an act relating to hemp, including the regulation of hemp, providing for enforcement and the confiscation and destruction or disposal of certain property, providing for fees, including penalties, and providing implementation and effective date provisions. (FormerlySF 279.)  Various effective dates; see sections 19 and 33 of bill.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "SF 609",
+      "billTitle": "A bill for an act relating to and making appropriations and related statutory changes involving state government entities involved with agriculture, natural resources, and environmental protection, and including effective date provisions. (FormerlySSB 1251.)  Various effective dates; see section 31 of bill.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "SF 617",
+      "billTitle": "A bill for an act relating to gambling regulation and wagering, by providing for sports wagering and fantasy sports contests, providing for taxes and fees, making penalties applicable, and including implementation and effective date provisions. (FormerlySSB 1168,SF 366.)  Various effective dates; see sections 23, 46, and 52 of bill.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "SF 632",
+      "billTitle": "A bill for an act making appropriations to the department of public health for the gambling treatment program. (FormerlySSB 1257.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "HF 756",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other nonstate sources, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. (FormerlyHSB 246.) Effective 7-1-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "HF 758",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, providing for related matters, and including effective date provisions. (FormerlyHSB 248.) Effective 7-1-19, with exception of sections 7, 8 & 29 effective 5-13-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "HF 759",
+      "billTitle": "A bill for an act relating to and making appropriations and related statutory changes involving certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters. (FormerlyHSB 249.) Effective 7-1-19, with exception of Division III effective 5-13-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "HF 765",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund and the technology reinvestment fund, providing for related matters, and including effective date and applicability provisions. (FormerlyHSB 251.) Effective 7-1-19, with exception of Division III effective 5-13-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "HF 769",
+      "billTitle": "A bill for an act relating to the gross weight of special trucks, and providing fees. (FormerlyHF 483andHF 75.) Effective 7-1-19.",
+      "dateSigned": "2019-05-13"
+    },
+    {
+      "billNumber": "SF 228",
+      "billTitle": "A bill for an act relating to bioscience-based economic development, the establishment of a bioscience development corporation, and membership on the Iowa innovation council. (FormerlySSB 1084.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "SF 589",
+      "billTitle": "A bill for an act relating to criminal law and procedure including certain related administrative proceedings, providing penalties, and including effective date and applicability provisions. (FormerlySF 405.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "SF 597",
+      "billTitle": "A bill for an act exempting from the sales tax certain items and services sold or furnished to nonprofit blood centers. (FormerlySSB 1114.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "SF 619",
+      "billTitle": "A bill for an act modifying provisions applicable to certain service contract providers regulated by the commissioner of insurance, providing fees, making penalties applicable, making an appropriation, and including effective date provisions. (FormerlySSB 1223,SF 595.)  Effective 5-16-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 289",
+      "billTitle": "A bill for an act concerning the distribution of gambling game receipts for charitable purposes. (FormerlyHSB 67.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 305",
+      "billTitle": "A bill for an act relating to the enhance Iowa board and moneys allocated by the board. (FormerlyHSB 63.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 485",
+      "billTitle": "A bill for an act concerning state purchasing requirements relating to targeted small business procurement goals. (FormerlyHSB 152.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 499",
+      "billTitle": "A bill for an act allowing certain vans and pickups to be used to transport pupils to activity events or from school to home in emergency situations. (FormerlyHF 136.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 590",
+      "billTitle": "A bill for an act relating to tax return preparers, and providing penalties. (FormerlyHSB 147.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 692",
+      "billTitle": "A bill for an act relating to the conduct of state and local elections, providing penalties, and including effective date elections provisions. (FormerlyHF 608.) Effective 7-1-19, with exception of Division II, effective 5-16-19 and Division IV, effective 1-1-23.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 734",
+      "billTitle": "A bill for an act relating to postconviction DNA profiling procedure. (FormerlyHSB 142.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 741",
+      "billTitle": "A bill for an act relating to the property tax levy for the payment of general obligation bonds issued by cities for certain flood-related purposes and including applicability provisions. (FormerlyHSB 99andHF 589.) Effective 7-1-19.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 767",
+      "billTitle": "A bill for an act relating to motor vehicle taxes and fees, including registration fees for certain electric vehicles, an excise tax on hydrogen used as special fuel, and an excise tax on electricity used as electric fuel, providing penalties, making penalties applicable, and including effective date provisions. (FormerlyHF 725andHSB 197.) Various effective dates, see bill.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "HF 779",
+      "billTitle": "A bill for an act relating to the administration of the tax and related laws by the department of revenue, including the administration and modification of certain tax credits and refunds, the individual and corporate income taxes, franchise taxes, moneys and credits taxes, sales and use taxes, and automobile rental excise taxes, the assessment of property owned by certain long distance telephone companies, establishing a taxation and exemption of computers task force, extending the utility replacement task force, and providing for other properly related matters, making penalties applicable, and including effective date and retroactive applicability provisions. (FormerlyHSB 257.) Various effective dates, see bill.",
+      "dateSigned": "2019-05-16"
+    },
+    {
+      "billNumber": "SF 377",
+      "billTitle": "A bill for an act extending immunity from tort liability to certain nonprofit corporations providing emergency response services. (FormerlySSB 1106.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-17"
+    },
+    {
+      "billNumber": "SF 608",
+      "billTitle": "A bill for an act making appropriations to the department of cultural affairs, the economic development authority, the Iowa finance authority, the public employment relations board, the department of workforce development, the college student aid commission, and the state board of regents and certain regents institutions, and properly related matters. (FormerlySSB 1250.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-17"
+    },
+    {
+      "billNumber": "SF 616",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch. (FormerlySSB 1254.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-17"
+    },
+    {
+      "billNumber": "HF 634",
+      "billTitle": "A bill for an act relating to certain boards and councils in the department of human rights including the establishment of the justice advisory board and the elimination of the criminal and juvenile justice planning advisory council, the public safety advisory board, and the sex offender research council. (FormerlyHSB 139.) Effective 7-1-19.",
+      "dateSigned": "2019-05-17"
+    },
+    {
+      "billNumber": "HF 685",
+      "billTitle": "A bill for an act relating to the payment of required medical aid provided to prisoners of county jails. (FormerlyHSB 137.) Effective 7-1-19.",
+      "dateSigned": "2019-05-17"
+    },
+    {
+      "billNumber": "SF 629",
+      "billTitle": "A bill for an act relating to permits for vehicles of excessive size and weight, including vehicles transporting raw forest products, and providing for fees. (FormerlySSB 1045,SF 184.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-20"
+    },
+    {
+      "billNumber": "HF 772",
+      "billTitle": "A bill for an act creating an empower rural Iowa Act to provide incentives for broadband and workforce housing, and including effective date and applicability provisions. (FormerlyHSB 204.) Effective 7-1-19, with exception of Division III effective 5-20-19.",
+      "dateSigned": "2019-05-20"
+    },
+    {
+      "billNumber": "SF 230",
+      "billTitle": "A bill for an act relating to manufacturers of alcoholic beverages. (FormerlySSB 1021.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-21"
+    },
+    {
+      "billNumber": "HF 768",
+      "billTitle": "A bill for an act relating to agricultural development, by providing for the Iowa finance authority, a beginning farmer tax credit program, fees, and including effective date and retroactive applicability provisions. (FormerlyHF 647andHSB 173.) Effective 5-21-19.",
+      "dateSigned": "2019-05-21"
+    },
+    {
+      "billNumber": "HF 778",
+      "billTitle": "A bill for an act relating to taking a capital gain deduction for the sale of real property used in a farming business. (FormerlyHSB 188.) Effective 7-1-19.",
+      "dateSigned": "2019-05-21"
+    },
+    {
+      "billNumber": "SF 615",
+      "billTitle": "A bill for an act relating to appropriations to the justice system, and including effective date and retroactive applicability provisions. (FormerlySSB 1255.)  Item vetoed.  Various effective dates; see sections 23, 30, 33, and 37 of bill.",
+      "dateSigned": "2019-05-22"
+    },
+    {
+      "billNumber": "SF 603",
+      "billTitle": "A bill for an act relating to use of concurrent enrollment programs for teaching certain subjects required under the educational standards, to the enrollment of pupils under concurrent enrollment program agreements between certain accredited nonpublic schools and community colleges, and to the criminal offense of sexual exploitation by a school employee providing instruction under a concurrent enrollment program, making penalties applicable, and including retroactive and other applicability provisions. (FormerlySSB 1163,SF 488.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-23"
+    },
+    {
+      "billNumber": "SF 634",
+      "billTitle": "A bill for an act relating to local government budgets and property taxation by modifying provisions governing the establishment and approval of county and city budgets, modifying provisions relating to the state appraisal manual, and including applicability provisions. (FormerlySSB 1260.)  Effective 7-1-19.",
+      "dateSigned": "2019-05-23"
+    },
+    {
+      "billNumber": "HF 546",
+      "billTitle": "A bill for an act relating to school funding by modifying provisions relating to the collection of sales tax for deposit in the secure an advanced vision for education fund, provisions relating to the use of tax revenue from the secure an advanced vision for education fund, and provisions relating to the calculation of the additional property tax levy, and making appropriations. (FormerlyHF 425.) Effective 7-1-19.",
+      "dateSigned": "2019-05-24"
+    }
+  ]
+}

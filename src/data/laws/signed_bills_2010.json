@@ -1,0 +1,971 @@
+{
+  "year": 2010,
+  "totalBills": 193,
+  "bills": [
+    {
+      "billNumber": "SF 2033",
+      "billTitle": "A bill for an act relating to school improvement and the approval and revocation of charter schools, the establishment of innovation zone schools by consortia of school districts and area education agencies, and the implementation of interventions for persistently lowest-achieving schools. (FormerlySSB 3031.)  Effective 7-1-10.",
+      "dateSigned": "2010-01-15"
+    },
+    {
+      "billNumber": "SF 2045",
+      "billTitle": "A bill for an act delaying the establishment of the state percent of growth for the budget year beginning July 1, 2011, for purposes of the state school foundation program, and including effective date provisions.  (FormerlySSB 3043.)  Effective 1-20-10.",
+      "dateSigned": "2010-01-20"
+    },
+    {
+      "billNumber": "SF 2046",
+      "billTitle": "A bill for an act delaying the establishment of the categorical state percent of growth for the budget year beginning July 1, 2011, for purposes of the state school foundation program, and including effective date provisions.  (FormerlySSB 3033.)  Effective 1-20-10.",
+      "dateSigned": "2010-01-20"
+    },
+    {
+      "billNumber": "HF 2030",
+      "billTitle": "A bill for an act relating to the school budget review committee by modifying its membership and by modifying the committee's duties related to school district unusual financial circumstances.  Effective 1-20-10.",
+      "dateSigned": "2010-01-20"
+    },
+    {
+      "billNumber": "SF 2062",
+      "billTitle": "A bill for an act providing for a retirement incentive program for state employees and including effective date provisions.  (FormerlySSB 3002.) Effective 2-10-10.",
+      "dateSigned": "2010-02-10"
+    },
+    {
+      "billNumber": "HF 2109",
+      "billTitle": "A bill for an act relating to ethics laws by establishing disclosure requirements, providing jurisdictional authority, and allowing certain procedures in resolving ethics complaints, and including effective date provisions. Effective 2-10-10.",
+      "dateSigned": "2010-02-10"
+    },
+    {
+      "billNumber": "HF 2131",
+      "billTitle": "A bill for an act updating references to the federal Truth in Lending Act. Effective 7-01-10.",
+      "dateSigned": "2010-02-10"
+    },
+    {
+      "billNumber": "SF 2108",
+      "billTitle": "A bill for an act relating to artisan's liens and Iowa's consumer frauds Act and making remedies applicable and including effective date provisions. (FormerlySSB 3038.)  Effective 5-1-10.",
+      "dateSigned": "2010-02-17"
+    },
+    {
+      "billNumber": "SF 2076",
+      "billTitle": "A bill for an act relating to economic development including changes to the administration of certain economic development programs and to the terms served by members of the economic development board and including effective date provisions.  (FormerlySSB 3062.)  Effective 2-23-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "SF 2117",
+      "billTitle": "A bill for an act to allow therapeutically certified optometrists to supply pharmaceutical-delivering contact lenses.  (FormerlySSB 3083.)  Effective 7-1-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "SF 2146",
+      "billTitle": "A bill for an act relating to claims for warranty parts, repairs, or service performed by motor vehicle dealers.  (FormerlySSB 3081.)  Effective 7-1-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "SF 2149",
+      "billTitle": "A bill for an act relating to criminal history and abuse registry checks for employees of health care facilities and other health-related providers and requiring such checks for certified nurse aide training program students and providing a penalty.  (FormerlySSB 3052.)  Effective 7-1-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "HF 2075",
+      "billTitle": "A bill for an act requiring health benefit coverage for certain cancer treatment delivered pursuant to approved cancer clinical trials and providing an applicability date. Effective 7-01-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "HF 2319",
+      "billTitle": "A bill for an act relating to activities of the department of public safety including regulating the storage of flammable and combustible liquids in aboveground storage tanks and retaining fees. Effective 7-01-10.",
+      "dateSigned": "2010-02-23"
+    },
+    {
+      "billNumber": "SF 2181",
+      "billTitle": "A bill for an act relating to employment practices and public safety programs administered by the division of labor services of the department of workforce development.  (FormerlySSB 3057.) Effective 7-1-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "SF 2291",
+      "billTitle": "A bill for an act relating to special education rights and duties and to the related duties and operations of the department of education and local school boards.  (FormerlySSB 3135.) Effective 7-1-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "SF 2300",
+      "billTitle": "A bill for an act relating to the service of notice requirements for landlords and tenants and the service of notice requirements in an action for forcible entry and detainer and including effective date provisions. (FormerlySSB 3218.)  Effective 3-2-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "SF 2313",
+      "billTitle": "A bill for an act modifying provisions applicable to the formation and operation of electric power agencies.  (FormerlySF 2182.) Effective 7-1-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "SF 2350",
+      "billTitle": "A bill for an act relating to prohibited contracts and activities for civil service commissioners.  (FormerlySF 2024.) Effective 7-1-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "HF 2253",
+      "billTitle": "A bill for an act relating to Iowa's uniform disclaimer of property interest Act. Effective 7-01-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "HF 2282",
+      "billTitle": "A bill for an act relating to judgment liens on homesteads.  Effective 7-01-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "HF 2407",
+      "billTitle": "A bill for an act establishing certain definitions relating to instruments affecting real estate and specifying information to be contained in index records. Effective 7-01-10.",
+      "dateSigned": "2010-03-02"
+    },
+    {
+      "billNumber": "SF 2128",
+      "billTitle": "A bill for an act requiring certain campaign finance statements and reports to be filed in an electronic format.  (FormerlySSB 3005.) Effective 7-1-10.",
+      "dateSigned": "2010-03-03"
+    },
+    {
+      "billNumber": "SF 2151",
+      "billTitle": "A bill for an act relating to public funding and regulatory matters by making and revising appropriations made for purposes of health and human services and providing effective dates.  (FormerlySSB 3171.)  Effective 3-3-10.",
+      "dateSigned": "2010-03-03"
+    },
+    {
+      "billNumber": "SF 2195",
+      "billTitle": "A bill for an act relating to campaign finance requirements and reporting. (FormerlySSB 3068.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-03"
+    },
+    {
+      "billNumber": "SF 2196",
+      "billTitle": "A bill for an act relating to the administration of the election laws by the secretary of state and including effective date provisions.  (FormerlySSB 3185.)  Various effective dates; see section 17 of bill.",
+      "dateSigned": "2010-03-03"
+    },
+    {
+      "billNumber": "HF 2380",
+      "billTitle": "A bill for an act providing for the taking of crops on land classified as a farm tenancy. Effective 7-01-10.",
+      "dateSigned": "2010-03-03"
+    },
+    {
+      "billNumber": "SF 2191",
+      "billTitle": "A bill for an act relating to and making changes to matters under the purview of the division of banking of the department of commerce, making a penalty applicable, and including effective date provisions. (FormerlySSB 3154.)  Various effective dates; see section 14 of bill.",
+      "dateSigned": "2010-03-08"
+    },
+    {
+      "billNumber": "SF 2248",
+      "billTitle": "A bill for an act relating to permits issued under the national pollutant discharge elimination system, and making penalties applicable.  (FormerlySSB 3177.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-08"
+    },
+    {
+      "billNumber": "HF 2280",
+      "billTitle": "A bill for an act providing for the treatment of animals other than agricultural animals, by providing for regulation of commercial establishments, providing for fees, providing penalties, and including effective date provisions. Effective 3-09-10.",
+      "dateSigned": "2010-03-09"
+    },
+    {
+      "billNumber": "SF 2088",
+      "billTitle": "A bill for an act concerning state government reorganization and efficiency, making appropriations, establishing fees and penalties, and providing effective and applicability provisions.  (FormerlySSB 3030.)  Various effective dates; see sections 69, 96, 170, 257, 321, 361, 402, and 413 of bill.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2138",
+      "billTitle": "A bill for an act relating to the rights of a donee created by an anatomical gift.  (FormerlySSB 3108.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2194",
+      "billTitle": "A bill for an act making technical changes to the laws relating to elections and voter registration and including effective date and applicability provisions.  (FormerlySSB 3184.)  Various effective dates; see section 56 of bill.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2243",
+      "billTitle": "A bill for an act regarding matters under the purview of the department of natural resources, and including effective date provisions.  (FormerlySSB 3115.)  Various effective dates; see section 4 of bill.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2246",
+      "billTitle": "A bill for an act relating to the regulation of motor vehicles by the department of transportation, including modification of the definition of business-trade truck, provisions concerning licensing sanctions and penalties for vehicle recyclers and motor vehicle dealers, annual registration fees for certain vehicles equipped for a person with a disability or used by a person who relies on a wheelchair, requirements for the issuance of temporary persons with disabilities parking permits, and provisions for the operation of certain taxicabs and limousines.  (FormerlySSB 3205.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2266",
+      "billTitle": "A bill for an act creating the local public health governance Act, and providing penalties.  (FormerlySSB 3046.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2355",
+      "billTitle": "A bill for an act relating to the licensure of persons engaged in fire protection system installation, maintenance, repair, service, or inspection. (FormerlySSB 3066.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "HF 2318",
+      "billTitle": "A bill for an act relating to the length of terms and the limitation on length of service for city development board members and including effective date and applicability provisions.  Effective 3-10-10.",
+      "dateSigned": "2010-03-10"
+    },
+    {
+      "billNumber": "SF 2247",
+      "billTitle": "A bill for an act authorizing the modification of the designation of a gaming enforcement officer.  (FormerlySF 2160.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2111",
+      "billTitle": "A bill for an act providing notification to the department of workforce development by the secretary of state when certain business entities apply for reinstatement after dissolution to ensure certain tax obligations have been fulfilled. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2195",
+      "billTitle": "A bill for an act concerning fine arts projects in state buildings. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2283",
+      "billTitle": "A bill for an act relating to the requirements for national criminal history record checks for child care providers. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2286",
+      "billTitle": "A bill for an act relating to the criminal offense of detention in a brothel. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2287",
+      "billTitle": "A bill for an act relating to the criminal offense of simulated public intoxication. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2288",
+      "billTitle": "A bill for an act repealing the simple misdemeanor offense relating to the use of cowl lamps on motor vehicles. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 2403",
+      "billTitle": "A bill for an act making changes to the uniform controlled substances Act. Effective 7-01-10.",
+      "dateSigned": "2010-03-15"
+    },
+    {
+      "billNumber": "HF 755",
+      "billTitle": "A bill for an act concerning eligibility for the injured veterans grant program. Effective 7-01-10.",
+      "dateSigned": "2010-03-16"
+    },
+    {
+      "billNumber": "HF 2110",
+      "billTitle": "A bill for an act relating to unemployment insurance benefits for spouses who leave employment to accompany a spouse on a military assignment. Effective 7-01-10.",
+      "dateSigned": "2010-03-16"
+    },
+    {
+      "billNumber": "HF 2449",
+      "billTitle": "A bill for an act relating to the encouragement and assistance of businesses owned by disabled veterans. Effective 7-01-10.",
+      "dateSigned": "2010-03-16"
+    },
+    {
+      "billNumber": "SF 434",
+      "billTitle": "A bill for an act relating to nuisance properties by requiring the indexing of certain municipal citations and petitions affecting real property and requiring the county treasurer to withhold certain real property from tax sale.  (FormerlySSB 1293.) Effective 7-1-10.",
+      "dateSigned": "2010-03-17"
+    },
+    {
+      "billNumber": "SF 2264",
+      "billTitle": "A bill for an act relating to the review and approval of proposed subdivisions by a city.  (FormerlySSB 3131.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-17"
+    },
+    {
+      "billNumber": "SF 205",
+      "billTitle": "A bill for an act relating to required testing for infectious diseases of persons under supervision of judicial district departments of correctional services.  (FormerlySSB 1062.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 358",
+      "billTitle": "A bill for an act relating to the recognition and enforcement of foreign-country money judgments and providing for the Act's applicability. (FormerlySF 221.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2067",
+      "billTitle": "A bill for an act relating to ethics regulations for the executive branch, legislative branch, and local officials and employees and including effective date provisions.  (FormerlySSB 3006.) Effective 3-19-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2073",
+      "billTitle": "A bill for an act relating to the practice of accounting and to the organization and operation of the licensing boards included within the professional licensure and regulation bureau of the banking division in the department of commerce.  (FormerlySSB 3017.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2075",
+      "billTitle": "A bill for an act requiring reasonable exceptions to insurance rates for consumers whose credit information is influenced by extraordinary life circumstances and providing an applicability date.  (FormerlySSB 3020.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2095",
+      "billTitle": "A bill for an act relating to the authority of a certified law enforcement officer.  (FormerlySF 2027.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2157",
+      "billTitle": "A bill for an act relating to the recording requirements for certain residential real estate installment sales contracts and including applicability provisions.  (FormerlySSB 3032.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2190",
+      "billTitle": "A bill for an act relating to an exemption for a debtor's personal property from execution by creditors in a bankruptcy action.  (FormerlySF 2031.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2218",
+      "billTitle": "A bill for an act relating to elections by eliminating double election boards and by requiring the commissioner of elections, upon petition, to use automatic tabulating equipment in certain elections and including effective date provisions.  (FormerlySSB 3117.)  Various effective dates; see section 12 of bill.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2237",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections and providing effective dates and for retroactive applicability.  (FormerlySSB 3188.) Various effective dates; see sections 181 and 182 of bill.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2263",
+      "billTitle": "A bill for an act relating to the office of the long-term care resident's advocate, and providing penalties.  (FormerlySSB 3134.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2272",
+      "billTitle": "A bill for an act relating to the Iowa life and health insurance guaranty association regarding coverage, benefits, duties, powers, rights, the operation of the Iowa life and health insurance guaranty association, and the coordination of coverage and benefits with those of similar associations of other states, and to the Iowa insurance guaranty association with respect to covered claims, benefits, limitations, duties, and powers of the Iowa insurance guaranty association, and coordination and cooperation by it with similar associations of other states.  (FormerlySSB 3195.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2289",
+      "billTitle": "A bill for an act relating to deaccreditation of a school district by the state board of education and to the disposition of certain former school district funds, and including effective date, validation, and retroactive applicability provisions.  (FormerlySSB 3137.)  Various effective dates; see section 4 of bill.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2298",
+      "billTitle": "A bill for an act relating to the attendance of a child at juvenile court hearings or meetings during the pendency of a child in need of assistance case.  (FormerlySSB 3025.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2303",
+      "billTitle": "A bill for an act relating to detainers lodged against parolees in this state.  (FormerlySSB 3040.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2325",
+      "billTitle": "A bill for an act relating to the practice of mortuary science and to the preneed sale of cemetery and funeral merchandise and funeral services and providing a penalty.  (FormerlySSB 3080.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2326",
+      "billTitle": "A bill for an act modifying disciplinary provisions applicable to real estate brokers and salespersons.  (FormerlySSB 3167.) Effective 7-1-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2340",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective date and applicability provisions. (FormerlySSB 3209.)  Various effective dates; see section 147 of bill.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2076",
+      "billTitle": "A bill for an act relating to economic development by establishing an Iowa innovation council in the department of economic development and by providing for certain reports on innovation and commercialization within certain targeted industries. Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2233",
+      "billTitle": "A bill for an act relating to expunging the conviction for certain alcohol-related offenses. Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2372",
+      "billTitle": "A bill for an act relating to an assault causing serious injury.  Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2374",
+      "billTitle": "A bill for an act relating to the definition of serious injury for purposes of criminal offenses. Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2392",
+      "billTitle": "A bill for an act relating to the abuse of a corpse and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2466",
+      "billTitle": "A bill for an act relating to the license or authorization issued to a person who qualifies as a driver education instructor and including effective date and retroactive applicability provisions.  Effective 3-19-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "HF 2488",
+      "billTitle": "A bill for an act relating to the appointment of young adults to appointive boards, commissions, committees, and councils. Effective 7-01-10.",
+      "dateSigned": "2010-03-19"
+    },
+    {
+      "billNumber": "SF 2178",
+      "billTitle": "A bill for an act relating to textbooks and laptop computers or other personal portable computing devices adopted for use by school districts and provided to public and accredited nonpublic school students.  (FormerlySF 2058.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2197",
+      "billTitle": "A bill for an act relating to the enforcement of criminal law provisions including providing false identification information and public indecent exposure and providing penalties.  (FormerlySSB 3150.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2202",
+      "billTitle": "A bill for an act relating to rights of persons with disabilities. (FormerlySSB 3183.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2224",
+      "billTitle": "A bill for an act relating to boards of administration for horizontal property.  (FormerlySF 2028.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2234",
+      "billTitle": "A bill for an act relating to the regulation of motor vehicle franchises. (FormerlySSB 3113.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2299",
+      "billTitle": "A bill for an act relating to grain transactions by regulating grain dealers and warehouse operators, providing for fees, and making penalties applicable.  (FormerlySSB 3193.)  Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "SF 2357",
+      "billTitle": "A bill for an act relating to prohibiting a person who is the subject of a no-contact order or a protective order or who has been convicted of a misdemeanor crime of domestic violence from possessing, transferring, or selling firearms and ammunition or offensive weapons and providing penalties.  (FormerlySSB 1033.) Effective 7-1-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 426",
+      "billTitle": "A bill for an act relating to reporting requirements for traffic accidents involving the operation of motor vehicles by reserve peace officers. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 681",
+      "billTitle": "A bill for an act requiring employers to provide notice of business closings and mass layoffs and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 734",
+      "billTitle": "A bill for an act relating to the uniform adult guardianship and protective proceedings Act relating to the establishment, transfer, and recognition of guardianships and conservatorships in multistate cases, and including effective date and applicability provisions.  Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2137",
+      "billTitle": "A bill for an act relating to the military division of the department of public defense concerning state military service and the Iowa code of military justice. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2144",
+      "billTitle": "A bill for an act relating to health-related activities and regulation by the department of public health, and making penalties applicable. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2148",
+      "billTitle": "A bill for an act relating to eligible lenders for the home ownership assistance program for military members. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2183",
+      "billTitle": "A bill for an act relating to the organization and duties of the state board of health. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2273",
+      "billTitle": "A bill for an act relating to drainage districts, by modifying the amount of a bid security required to be submitted by bidders proposing to make improvements and modifying the threshold amount requiring the letting of bids to construct an improvement, and including effective date provisions. Effective 3-22-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2295",
+      "billTitle": "A bill for an act establishing a task force to review the present mission, structure, governance, and funding of the area education agencies. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2307",
+      "billTitle": "A bill for an act providing for restitution for Medicaid expenditures. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2402",
+      "billTitle": "A bill for an act relating to the development of a plan for a stroke triage system and registry. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2406",
+      "billTitle": "A bill for an act requiring the department of veterans affairs to promote and support the preservation of the U.S.S. Iowa as a naval museum. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2422",
+      "billTitle": "A bill for an act relating to disaster recovery case management.  Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2452",
+      "billTitle": "A bill for an act relating to driver's license sanctions, including the issuance of temporary restricted licenses and certain requirements relating to ignition interlock devices, and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2460",
+      "billTitle": "A bill for an act relating to small business and disadvantaged business enterprise contracts with the department of transportation. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2461",
+      "billTitle": "A bill for an act relating to school business official training and authorization. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2478",
+      "billTitle": "A bill for an act relating to business organizations, including limited liability companies and business corporations, and providing for fees. Effective 7-01-10.",
+      "dateSigned": "2010-03-22"
+    },
+    {
+      "billNumber": "HF 2321",
+      "billTitle": "A bill for an act relating to providing veteran services to inmates incarcerated in a jail or municipal holding facility. Effective 7-01-10.",
+      "dateSigned": "2010-03-23"
+    },
+    {
+      "billNumber": "HF 2384",
+      "billTitle": "A bill for an act requiring the Iowa department of veterans affairs to advise deploying service members regarding certain issues related to taxation. Effective 7-01-10.",
+      "dateSigned": "2010-03-23"
+    },
+    {
+      "billNumber": "SF 2352",
+      "billTitle": "A bill for an act relating to the emergency hospitalization of a person with a serious mental impairment, and providing penalties.  (FormerlySF 2050.) Effective 7-1-10.",
+      "dateSigned": "2010-03-24"
+    },
+    {
+      "billNumber": "SF 2305",
+      "billTitle": "A bill for an act modifying sex offender registry provisions, and providing penalties and including effective date provisions.  (FormerlySSB 3217.) Effective 3-26-10.",
+      "dateSigned": "2010-03-26"
+    },
+    {
+      "billNumber": "HF 2456",
+      "billTitle": "A bill for an act concerning the use of electronic communication devices while driving, and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-04-01"
+    },
+    {
+      "billNumber": "SF 2175",
+      "billTitle": "A bill for an act providing for representation of military veterans on certain mental health policy bodies.  (FormerlySSB 3118.) Effective 7-1-10.",
+      "dateSigned": "2010-04-06"
+    },
+    {
+      "billNumber": "HF 2532",
+      "billTitle": "A bill for an act exempting from the computation of the state individual income tax certain amounts received from the veterans trust fund and including a retroactive applicability provision.  Effective 1-01-10.",
+      "dateSigned": "2010-04-06"
+    },
+    {
+      "billNumber": "SF 2199",
+      "billTitle": "A bill for an act relating to the collection of the use tax on manufactured housing, the licensing of manufactured home retailers, amending statutory references to certain types of home dealers, establishing titling procedures for certain manufactured and mobile homes, making penalties applicable, and including effective date provisions.  (FormerlySSB 3133.)  Effective 4-7-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "SF 2273",
+      "billTitle": "A bill for an act relating to a study regarding implementation of electronic registration and titling of vehicles, and containing effective date provisions.  (FormerlySSB 3100.)  Effective 4-7-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "SF 2279",
+      "billTitle": "A bill for an act relating to voluntary shared work plans under the unemployment compensation program.  (FormerlySF 2012.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "SF 2348",
+      "billTitle": "A bill for an act providing for the licensing and regulation of real estate closing agents, making penalties applicable, and including effective date provisions.  (FormerlySSB 3155.) Effective 7-1-11.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 726",
+      "billTitle": "A bill for an act providing for unincorporated nonprofit associations, and providing for fees and penalties. Effective 7-01-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 2200",
+      "billTitle": "A bill for an act relating to the carrying of a gun in or on a vehicle on a public highway and making penalties applicable.  Effective 7-01-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 2409",
+      "billTitle": "A bill for an act eliminating specified mortgage loan disclosure statement filing requirements applicable to financial institutions.  Effective 7-01-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 2418",
+      "billTitle": "A bill for an act relating to periodic evaluations of certain air quality standards. Effective 7-01-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 2459",
+      "billTitle": "A bill for an act relating to watersheds. Effective 7-01-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "HF 2487",
+      "billTitle": "A bill for an act relating to the allocation, issuance, reporting, recapture, and reallocation of recovery zone bonds, and including effective date provisions. Effective 4-07-10.",
+      "dateSigned": "2010-04-07"
+    },
+    {
+      "billNumber": "SF 2254",
+      "billTitle": "A bill for an act relating to the powers and duties of county treasurers to assess certain property associated with fence disputes and water districts and to keep certain records.  (FormerlySF 2186.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-08"
+    },
+    {
+      "billNumber": "SF 2354",
+      "billTitle": "A bill for an act relating to campaign finance, including political campaign activities and independent expenditures by corporations, making penalties applicable, and including effective date provisions.  (FormerlySSB 3210.) Effective 4-8-10.",
+      "dateSigned": "2010-04-08"
+    },
+    {
+      "billNumber": "HF 2437",
+      "billTitle": "A bill for an act relating to private sewage disposal system inspections and groundwater hazard statements as part of certain property transfers. Effective 7-01-10.",
+      "dateSigned": "2010-04-08"
+    },
+    {
+      "billNumber": "SF 2201",
+      "billTitle": "A bill for an act relating to various matters under the purview of the insurance division of the department of commerce including the Iowa grain indemnity fund board, uniform securities Act, a health care and insurance cost work group, applications for health insurance rate increases, an internet consumer guide, examination of insurance companies, life insurance companies and associations, special health and accident insurance coverages, utilization and cost control, external review of health care coverage decisions, insurance other than life, mortgage guaranty insurance, cemetery and funeral merchandise and funeral services, and regulation of cemeteries and making penalties applicable and including effective date provisions. (FormerlySSB 3090.)  Various effective dates; see section 33 of bill.",
+      "dateSigned": "2010-04-09"
+    },
+    {
+      "billNumber": "SF 2286",
+      "billTitle": "A bill for an act relating to the regulation of professional and amateur mixed martial arts matches and events by the labor commissioner and providing penalties.  (FormerlySSB 3192.) Effective 7-1-10.",
+      "dateSigned": "2010-04-09"
+    },
+    {
+      "billNumber": "HF 2484",
+      "billTitle": "A bill for an act exempting certain boat harbors from certain dock requirements and including effective date provisions. Effective 4-10-10.",
+      "dateSigned": "2010-04-10"
+    },
+    {
+      "billNumber": "SJR 2007",
+      "billTitle": "A joint resolution supporting the preservation efforts for the Battleship Iowa, BB-61.  Effective 7-1-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "SF 431",
+      "billTitle": "A bill for an act relating to the reorganization of operating-while-intoxicated criminal offenses, making related changes, and providing an effective date.  (FormerlySSB 1275.) Effective 12-1-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "SF 2250",
+      "billTitle": "A bill for an act creating the criminal offense of aggravated theft, and providing a penalty.  (FormerlySSB 3124.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "SF 2324",
+      "billTitle": "A bill for an act modifying provisions relating to franchises for the provision of cable service or video service, and including effective date provisions.  (FormerlySF 2113.)  Effective 4-12-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "HF 674",
+      "billTitle": "A bill for an act relating to reporting the treatment of serious wounds received as the result of a crime to a law enforcement agency and making penalties applicable. Effective 7-01-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "HF 788",
+      "billTitle": "A bill for an act concerning alcohol beverage control, relating to minors and public intoxication or possession of alcohol and prohibiting certain liquor control, wine, or beer licensees or permittees from knowingly permitting or engaging in criminal activity in areas adjacent to the licensed premises and making penalties applicable. Effective 7-01-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "HF 2438",
+      "billTitle": "A bill for an act relating to the criminal offense of enticing or attempting to entice a minor and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "HF 2473",
+      "billTitle": "A bill for an act relating to criminal offense definitions, penalties, and the forfeiture of an unsecured appearance bond in a criminal proceeding. Effective 7-01-10.",
+      "dateSigned": "2010-04-12"
+    },
+    {
+      "billNumber": "SF 153",
+      "billTitle": "A bill for an act to allow medical or osteopathic physicians and physician assistants to form limited liability companies or professional corporations. (FormerlySSB 1092.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-13"
+    },
+    {
+      "billNumber": "HF 2432",
+      "billTitle": "A bill for an act relating to a study of the opportunities for recruiting racial and ethnic minority teachers. Effective 7-01-10.",
+      "dateSigned": "2010-04-13"
+    },
+    {
+      "billNumber": "SF 2331",
+      "billTitle": "A bill for an act relating to participation of chiropractors in the hawk-i program.  (FormerlySSB 3055.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-14"
+    },
+    {
+      "billNumber": "SF 2356",
+      "billTitle": "A bill for an act relating to the health care including IowaCare program provisions and the creation of an Iowa insurance information exchange to promote transparency, quality, seamlessness, and informed choices relative to health care coverage.  (FormerlySF 2092.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-14"
+    },
+    {
+      "billNumber": "SF 2388",
+      "billTitle": "A bill for an act establishing a hospital health care access assessment program, providing penalties, providing a future repeal, and including effective date and contingent implementation provisions.  (FormerlySSB 3257.)  Effective 4-14-10.",
+      "dateSigned": "2010-04-14"
+    },
+    {
+      "billNumber": "HF 2370",
+      "billTitle": "A bill for an act relating to enterprise zones by extending the application deadline for certification of enterprise zones and by updating certain fiscal year limitations. Effective 7-01-10.",
+      "dateSigned": "2010-04-14"
+    },
+    {
+      "billNumber": "HF 2483",
+      "billTitle": "A bill for an act relating to trusts and estates including provisions relating to state inheritance tax, uniform transfers to minors, and medical assistance claims, and including an applicability provision. Effective 7-01-10.",
+      "dateSigned": "2010-04-14"
+    },
+    {
+      "billNumber": "SF 2366",
+      "billTitle": "A bill for an act relating to public funding and regulatory matters and making, reducing, and supplementing appropriations for expenditures in the fiscal year beginning July 1, 2009, and including effective date and retroactive applicability provisions.  (FormerlySSB 3197.)  Effective 4-15-10.",
+      "dateSigned": "2010-04-15"
+    },
+    {
+      "billNumber": "SF 2380",
+      "billTitle": "A bill for an act relating to taxation, including the administration and review of certain economic development programs and certain tax incentive programs and the reenactment of the estate tax and including effective date and retroactive and other applicability provisions.  (FormerlySSB 3250.) Various effective dates; see sections 6, 18, 21, and 28 of bill.",
+      "dateSigned": "2010-04-15"
+    },
+    {
+      "billNumber": "HF 2512",
+      "billTitle": "A bill for an act concerning weight limits for certain commercial motor vehicles on noninterstate highways. Effective 7-01-10.",
+      "dateSigned": "2010-04-15"
+    },
+    {
+      "billNumber": "SF 285",
+      "billTitle": "A bill for an act relating to magistrate jurisdiction, specifying certain traffic-related offenses as simple misdemeanors, making other related changes to simple misdemeanor offenses, and providing a penalty.  (FormerlySSB 1171.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2156",
+      "billTitle": "A bill for an act relating to the IowaCare program, and providing for repeals.  (FormerlySSB 3073.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2158",
+      "billTitle": "A bill for an act relating to child support recovery including child support provisions for minor parents, medical support, and the review and adjustment process.  (FormerlySSB 3074.) Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2200",
+      "billTitle": "A bill for an act relating to transfer of guardianship for a child in need of assistance to the probate court.  (FormerlySSB 3141.) Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2344",
+      "billTitle": "A bill for an act relating to the violator facility established within the department of corrections.  (FormerlySSB 3039.) Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2375",
+      "billTitle": "A bill for an act relating to the administration of the sales and use taxes under the streamlined sales tax agreement and including effective date provisions.  (FormerlySSB 3224.)  Effective 4-21-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2383",
+      "billTitle": "A bill for an act relating to the collection of debt obligations owed the state and cities and establishing a state debt coordinator, providing a fee, and including effective date provisions.  (FormerlySSB 3253.)  Various effective dates; see sections 26 and 27 of bill.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2384",
+      "billTitle": "A bill for an act relating to the nursing workforce including the establishment of an Iowa needs nurses now initiative.  (FormerlySF 2168andSF 2255.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2387",
+      "billTitle": "A bill for an act providing for a sales tax exemption for specified purchases made by a regional blood testing facility registered by the federal food and drug administration.  (FormerlySSB 3233.) Effective 7-1-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "HF 2193",
+      "billTitle": "A bill for an act relating to emergency medical care providers, emergency medical care service programs and emergency medical care services training programs, and providing penalties. Effective 7-01-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "HF 2294",
+      "billTitle": "A bill for an act relating to the distribution of moneys from the disaster aid individual assistance grant fund. Effective 7-01-10.",
+      "dateSigned": "2010-04-21"
+    },
+    {
+      "billNumber": "SF 2376",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, providing for related matters including a study of the open meetings and public records laws, and including effective date and applicability provisions.  (Formerly SSF 3248.) Various effective dates; see section 43 of bill.",
+      "dateSigned": "2010-04-22"
+    },
+    {
+      "billNumber": "SF 393",
+      "billTitle": "A bill for an act relating to access to obscene materials and child in need of assistance proceedings and child abuse reporting.  (FormerlySF 271.) Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2192",
+      "billTitle": "A bill for an act prohibiting the running of a transfer fee covenant with the title to real property and including effective date and applicability provisions.  (FormerlySSB 3181.)  Effective 4-23-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2215",
+      "billTitle": "A bill for an act relating to the use of genetic information and samples for genetic testing and providing for civil and administrative enforcement and providing penalties.  (FormerlySF 2068.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2216",
+      "billTitle": "A bill for an act allowing certain game birds to be shot when released on a licensed hunting preserve and providing a penalty.  (FormerlySF 2120.) Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2220",
+      "billTitle": "A bill for an act relating to the contents of certain motor carrier transportation contracts by declaring certain indemnity provisions to be unlawful and void.  (FormerlySSB 3190.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2267",
+      "billTitle": "A bill for an act relating to the home modification requirements under the Medicaid home and community-based services waiver for the elderly. (FormerlySSB 3104.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2304",
+      "billTitle": "A bill for an act relating to vehicular accident reporting requirements by increasing the minimum amount of property damage necessitating a written report.  (FormerlySSB 3203.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2310",
+      "billTitle": "A bill for an act creating a natural resources and outdoor recreation trust fund to implement a proposed amendment to the Constitution of the State of Iowa, and providing for contingent implementation.  (FormerlySSB 3198.) Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2345",
+      "billTitle": "A bill for an act relating to judicial branch administration, child custody and visitation matters.  (FormerlySSB 3094.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2371",
+      "billTitle": "A bill for an act relating to royalty fees for removal of sand and gravel from state-owned lands and waters located on the Cedar river in certain counties and including effective date provisions.  (FormerlySSB 3169&SF 2336.)  Effective 4-23-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2373",
+      "billTitle": "A bill for an act relating to the administration of the replacement tax for new cogeneration facilities, and including effective date and retroactive applicability provisions.  (FormerlySSB 3226.) Effective 4-23-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 823",
+      "billTitle": "A bill for an act requiring public schools and state agencies to utilize environmentally preferable cleaning and maintenance products in school facilities and state buildings. Effective 7-01-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 2284",
+      "billTitle": "A bill for an act relating to various activities regulated and programs administered by the department of public health, including fetal death certification, and optometry, cosmetology, and barbering licensure. Effective 7-01-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 2458",
+      "billTitle": "A bill for an act relating to restrictions on mowing within the right-of-way of interstates, primary highways, and secondary roads.  Effective 7-01-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 2485",
+      "billTitle": "A bill for an act relating to public employee collective bargaining. Effective 7-01-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 2496",
+      "billTitle": "A bill for an act relating to recycling initiatives. Effective 7-01-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "HF 2518",
+      "billTitle": "A bill for an act concerning public retirement systems, including the public safety peace officers' retirement, accident, and disability system, the Iowa public employees' retirement system, and the statewide fire and police retirement system, making appropriations, and including effective date and retroactive applicability provisions. Effective 7-01-10, with exception of section 30, effective 6-30-12 and sections 33, s.s. 2 s.s. c, 36, 51, and 52 effective 4-23-10.",
+      "dateSigned": "2010-04-23"
+    },
+    {
+      "billNumber": "SF 2389",
+      "billTitle": "A bill for an act relating to and making, reducing, and transferring appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, the technology reinvestment fund, the revenue bonds capitals fund, the revenue bonds capitals II fund, the FY 2009 prison bonding fund, and other funds, creating the Iowa jobs II program, and the revenue bonds federal subsidy holdback fund, providing for related matters, and providing an effective date.  (FormerlySSB 3258.)  Item veto.  Various effective dates; see sections 13, 44, 47, 74, and 96 of bill.",
+      "dateSigned": "2010-04-26"
+    },
+    {
+      "billNumber": "SF 2226",
+      "billTitle": "A bill for an act relating to custody, physical care, and visitation provisions relating to a child of a parent who is serving active duty in the military service of the United States and including effective date provisions.  (FormerlySSB 3148.) Effective 4-27-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "SF 2274",
+      "billTitle": "A bill for an act relating to certain national security and military education benefits and programs.  (FormerlySF 2105.) Effective 7-1-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "SF 2297",
+      "billTitle": "A bill for an act concerning veterans and military service, including waivers and refunds of certain fees, use of state facilities, public utility disconnection of service, weapons permit renewals, and declarations for disposition of remains.  (FormerlySF 2183.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "SF 2318",
+      "billTitle": "A bill for an act concerning and affecting veterans and military members, related to employment benefits, professional licensing, and interest rate limit enforcement, and making penalties applicable.  (FormerlySF 2213.) Effective 7-1-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "HF 2197",
+      "billTitle": "A bill for an act providing veterans a holiday for veterans day and making penalties applicable. Effective 7-01-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "HF 2414",
+      "billTitle": "A bill for an act relating to service in an honor guard unit on public property. Effective 7-01-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "HF 2454",
+      "billTitle": "A bill for an act providing for the development of programs to attract qualified disabled veterans for job opportunities in state government. Effective 7-01-10.",
+      "dateSigned": "2010-04-27"
+    },
+    {
+      "billNumber": "SF 2377",
+      "billTitle": "A bill for an act relating to and making appropriations to the judicial branch.  (FormerlySSB 3242.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "SF 2381",
+      "billTitle": "A bill for an act relating to and making transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund, providing for properly related matters, and making penalties applicable.  (FormerlySSB 3252.)  Effective 7-1-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "HF 2377",
+      "billTitle": "A bill for an act relating to extending a period of probation and including applicability provisions. Effective 7-01-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "HF 2399",
+      "billTitle": "A bill for an act requiring certain rate-regulated public utilities to undertake analyses of and preparation for the possible construction of low carbon emitting nuclear generating facilities in this state, permitting all rate-regulated public utilities to make significant alterations to an existing generating facility, and including effective date provisions. Effective 4-28-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "HF 2519",
+      "billTitle": "A bill for an act relating to state and local financial matters by revising certain appropriations and appropriating federal funds made available from federal block grants, the federal American Recovery and Reinvestment Act of 2009, and other nonstate sources, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated, and including effective date and retroactive applicability provisions. Effective 7-01-10 with exception of Division II, effective 4-28-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "HF 2522",
+      "billTitle": "A bill for an act relating to and making appropriations to the department of cultural affairs, the department of economic development, certain board of regents institutions, the department of workforce development, and the public employment relations board, and related matters and including effective date provisions.  Effective 7-01-10 with exception of sections 30-32, effective 4-28-10.",
+      "dateSigned": "2010-04-28"
+    },
+    {
+      "billNumber": "SF 2333",
+      "billTitle": "A bill for an act relating to health care facilities and programs, including hospital inspector requirements and dependent adult abuse and providing penalties.  (FormerlySSB 3103).  Effective 7-1-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "SF 2367",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters, and including effective date and retroactive applicability provisions.  (FormerlySSB 3238.)  Item veto.  Various effective dates; see sections 40 and 43 of bill.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "SF 2378",
+      "billTitle": "A bill for an act relating to and making appropriations to the justice system, modifying certain traffic offenses, fees and fines, and including effective date provisions.  (FormerlySSB 3243.) Item veto.  Effective 7-1-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "SF 2379",
+      "billTitle": "A bill for an act relating to permits to carry weapons and permits to acquire pistols and revolvers including the dissemination of information relating to persons suffering from mental and substance abuse health-related disorders and the possession of firearms and providing penalties and an effective date.  Effective 1-1-11.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "HF 2229",
+      "billTitle": "A bill for an act prohibiting the imposition by a dental plan of fee schedules for the provision of dental services that are not covered by the plan. Effective 7-01-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "HF 2310",
+      "billTitle": "A bill for an act relating to raising or releasing pen-reared pheasants originating from a hatchery approved by the department of natural resources. Effective 7-01-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "HF 2525",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government, by providing for agriculture, natural resources, and environmental protection, and including effective and applicability date provisions. Item veto. Effective 7-01-10 with exception of Divisions VIII and IX, effective 4-29-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "HF 2526",
+      "billTitle": "A bill for an act relating to and making appropriations for health and human services and including other related provisions and appropriations, and providing effective, retroactive, and applicability date provisions. Item veto. Effective 7-01-10 with exception of section 19, s.s. 4b and Division VII, effective 4-29-10.",
+      "dateSigned": "2010-04-29"
+    },
+    {
+      "billNumber": "HF 2531",
+      "billTitle": "A bill for an act relating to state and local finances by providing for funding of property tax credits and reimbursements, by making, increasing, and reducing appropriations, providing for salaries and compensation of state employees, providing for matters relating to tax credits, providing for fees and penalties, and providing for properly related matters, and including effective date and retroactive applicability provisions. Item veto. Various effective dates. See bill.",
+      "dateSigned": "2010-04-29"
+    }
+  ]
+}

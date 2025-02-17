@@ -1,0 +1,771 @@
+{
+  "year": 2022,
+  "totalBills": 153,
+  "bills": [
+    {
+      "billNumber": "HF 2316",
+      "billTitle": "A bill for an act relating to public school funding by establishing the state percent of growth and the categorical state percent of growth for the budget year beginning July 1, 2022, modifying provisions relating to the regular program state cost per pupil, modifying provisions relating to the property tax replacement payment and the transportation equity payments, and including effective date provisions.     (FormerlyHSB 658.) Effective date: 02/17/2022.",
+      "dateSigned": "2022-02-17"
+    },
+    {
+      "billNumber": "HF 2317",
+      "billTitle": "A bill for an act relating to state revenue and finance by modifying individual income tax rates, exemptions, and credits, corporate income tax rates and credits, credits against the franchise tax, the insurance premiums tax, and the moneys and credits tax, and the tax expenditure committee, making contingent transfers from the taxpayer relief fund, and including effective date and applicability provisions.   (FormerlyHSB 626.) Contingent effective date. Contingent applicability date.",
+      "dateSigned": "2022-03-01"
+    },
+    {
+      "billNumber": "HF 2416",
+      "billTitle": "A bill for an act relating to student eligibility requirements in school district, accredited nonpublic school, regent institution, community college, and certain other institution of higher education athletics based on sex, and including effective date provisions.   (FormerlyHF 2309.) Effective date: 03/03/2022.",
+      "dateSigned": "2022-03-03"
+    },
+    {
+      "billNumber": "HF 2466",
+      "billTitle": "A bill for an act concerning signature requirements for county supervisor candidate nominations and including effective date provisions.   (FormerlyHSB 659.) Effective date: 03/22/2022.",
+      "dateSigned": "2022-03-22"
+    },
+    {
+      "billNumber": "SF 2119",
+      "billTitle": "A bill for an act relating to cosmetology and the practice of threading. Effective date: 07/01/2022.",
+      "dateSigned": "2022-03-23"
+    },
+    {
+      "billNumber": "SF 2266",
+      "billTitle": "A bill for an act concerning compensation and benefits limits, relating to the earnings limitation for retirees under the Iowa public employees\u2019 retirement system and compensation limits for school corporation board members, and including effective date provisions.   (FormerlySF 2166.) Effective date: 03/23/2022.",
+      "dateSigned": "2022-03-23"
+    },
+    {
+      "billNumber": "SF 2325",
+      "billTitle": "A bill for an act related to matters under the purview of the economic development authority including the high quality jobs program, the Iowa energy center, and the workforce housing tax incentive program, and including effective date and retroactive applicability provisions.       (FormerlySSB 3032.) Effective date: 03/23/2022. Applicability date: 07/01/2021.",
+      "dateSigned": "2022-03-23"
+    },
+    {
+      "billNumber": "HF 2220",
+      "billTitle": "A bill for an act relating to antisemitism in the state of Iowa.  (FormerlyHSB 538.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-03-23"
+    },
+    {
+      "billNumber": "HF 2373",
+      "billTitle": "A bill for an act relating to restrictions regarding companies boycotting Israel.   (FormerlyHSB 639.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-03-23"
+    },
+    {
+      "billNumber": "SF 384",
+      "billTitle": "A bill for an act allowing counties to enter into agreements to jointly share a county assessor.  (FormerlySF 133.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2128",
+      "billTitle": "A bill for an act relating to education, including the education of students who are not fully English proficient and the standards applicable to the hiring, developing, and evaluation of community college faculty.  (FormerlySSB 3047.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2130",
+      "billTitle": "A bill for an act relating to schools that are required to register with the college student aid commission.  (FormerlySSB 3048.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2176",
+      "billTitle": "A bill for an act relating to programs within the department of natural resources, including specifications of procedures relating to solid waste disposal and the repeal of the state interagency Missouri river authority and the mercury-free recycling Act.  (FormerlySSB 3041.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2197",
+      "billTitle": "A bill for an act providing for the establishment of a task force related to special education support for students at nonpublic schools.  (FormerlySF 168.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2232",
+      "billTitle": "A bill for an act relating to the sale, lease, or rental of water treatment systems and including effective date and applicability provisions.  (FormerlySSB 3056.) Effective date: 01/01/2023. Applicability date: 01/01/2023.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2245",
+      "billTitle": "A bill for an act providing a personal use exemption from licensing requirements of the Meat and Poultry Inspection Act.  (FormerlySSB 3051.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2267",
+      "billTitle": "A bill for an act relating to the establishment of emergency response districts.  (FormerlySF 2099.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2279",
+      "billTitle": "A bill for an act regarding electronic submission of bids for public improvement contracts.  (FormerlySSB 3119.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2285",
+      "billTitle": "A bill for an act relating to zoning by counties and cities, and including effective date provisions.   (FormerlySF 2096.) Effective date: 07/01/2022, 04/21/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2288",
+      "billTitle": "A bill for an act relating to life insurance company or association investments in foreign countries other than Canada, and including applicability provisions.  (FormerlySSB 3069.) Effective date: 07/01/2022. Applicability date: 01/01/2023.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2295",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including retroactive applicability provisions.  (FormerlySSB 3109.) Effective date: 07/01/2022. Applicability date: 07/01/2021, 07/01/2020.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2296",
+      "billTitle": "A bill for an act relating to a peace officer\u2019s search of garbage placed outside of a person\u2019s residence for waste collection in a publicly accessible area.  (FormerlySF 2111.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2345",
+      "billTitle": "A bill for an act relating to the newborn screening.   (FormerlySSB 3122.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 728",
+      "billTitle": "A bill for an act relating to noncompliance with rules adopted by a county sanitarian regarding septic tank pumping.  (FormerlyHSB 222.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2124",
+      "billTitle": "A bill for an act relating to airport registration and site approval by the department of transportation.  (FormerlyHSB 548.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2167",
+      "billTitle": "A bill for an act relating to the definition of autism spectrum disorder for purposes of certain health care coverage, making conforming changes, and including applicability provisions.   (FormerlyHSB 512.) Effective date: 07/01/2022. Applicability date: 01/01/2023.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2341",
+      "billTitle": "A bill for an act relating to the transfer of ownership of certain foreign vehicles.  (FormerlyHSB 662.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2343",
+      "billTitle": "A bill for an act relating to the submission of a groundwater hazard statement.  (FormerlyHSB 553.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2367",
+      "billTitle": "A bill for an act relating to the Iowa drug policy coordinator and the Iowa drug policy advisory council.  (FormerlyHSB 563.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2380",
+      "billTitle": "A bill for an act relating to acreage limitations for the production of hemp, and including effective date provisions.   (FormerlyHF 2088.) Effective date: 04/21/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2436",
+      "billTitle": "A bill for an act relating to public safety answering point cost and expense data collected from county joint 911 service boards.  (FormerlyHSB 612.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2463",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections, and including retroactive applicability provisions.   (FormerlyHSB 680.) Effective date: 07/01/2022. Applicability date: 01/01/2022, 07/01/2021.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2481",
+      "billTitle": "A bill for an act relating to judicial selection, including the nominees to the court of appeals, and the appointments, resignations, and residency requirements of district judges, district associate judges, associate juvenile judges, and associate probate judges.  (FormerlyHSB 636.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2501",
+      "billTitle": "A bill for an act relating to the investment and use of funds in the veterans trust fund.  (FormerlyHSB 47.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "HF 2540",
+      "billTitle": "A bill for an act relating to the sale of travel insurance.  (FormerlyHSB 689.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-04-21"
+    },
+    {
+      "billNumber": "SF 2080",
+      "billTitle": "A bill for an act relating to the administration of certain physical examinations and student health screenings by school districts, charter schools, or innovation zone schools.  (FormerlySSB 3005.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "SF 2233",
+      "billTitle": "A bill for an act relating to terms used in the context of land surveying.  (FormerlySF 2137.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "SF 2310",
+      "billTitle": "A bill for an act relating to multiple housing cooperatives, including by providing for the conversion to a cooperative under the Iowa cooperative associations Act and merger with a limited liability company.  (FormerlySSB 3124.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "SF 2322",
+      "billTitle": "A bill for an act relating to the assessment of fees when a person requests examination and copying of public records.  (FormerlySF 480,SF 218.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "SF 2324",
+      "billTitle": "A bill for an act relating to the designation of  real estate teams and the display of real estate licenses, and including applicability provisions.  (FormerlySSB 3115.) Effective date: 07/01/2022. Applicability date: 12/31/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 364",
+      "billTitle": "A bill for an act relating to prohibited conduct by athlete agents and making penalties applicable.  (FormerlyHSB 36.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 825",
+      "billTitle": "A bill for an act relating to consent agreements for domestic abuse and sexual abuse protective orders.  (FormerlyHF 450.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2079",
+      "billTitle": "A bill for an act relating to post-arrest release after an initial appearance for persons taken into custody or arrested for certain sexual abuse offenses and no-contact orders.  (FormerlyHSB 523.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2097",
+      "billTitle": "A bill for an act relating to forfeiture of bail.  (FormerlyHSB 535.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2126",
+      "billTitle": "A bill for an act relating to the comprehensive financial report of the state and including effective date provisions.  (FormerlyHSB 568.) Contingent effective date.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2154",
+      "billTitle": "A bill for an act relating to release of certain records maintained by the statewide fire and police retirement system.     (FormerlyHSB 583.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2155",
+      "billTitle": "A bill for an act relating to preneed sellers and purchase agreements for cemetery merchandise, funeral merchandise, and funeral services, providing penalties, and including applicability provisions.  (FormerlyHSB 546.) Effective date: 07/01/2022. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2172",
+      "billTitle": "A bill for an act relating to violations by a health care facility.  (FormerlyHSB 543.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2201",
+      "billTitle": "A bill for an act relating to controlled substances, including amending the controlled substance schedules and information collection and reporting requirements under the Iowa prescription monitoring program, and including effective date provisions.   (FormerlyHSB 549.) Effective date: 07/01/2022, 05/02/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2217",
+      "billTitle": "A bill for an act relating to financial reporting by insurance holding company systems.  (FormerlyHSB 547.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2258",
+      "billTitle": "A bill for an act relating to the membership, procedures, and functions of the Iowa council on homelessness.  (FormerlyHSB 573.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2300",
+      "billTitle": "A bill for an act relating to protections for certain members of the military concerning employment and insurance coverage and making penalties applicable.  (FormerlyHSB 598.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2330",
+      "billTitle": "A bill for an act relating to electronic delivery of certain insurance notices and documents.  (FormerlyHSB 637.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2378",
+      "billTitle": "A bill for an act relating to pari-mutuel wagering, concerning distribution of horse racing purse moneys and establishing a fund for certain race horse organizations.  (FormerlyHSB 641.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2390",
+      "billTitle": "A bill for an act relating to child welfare, including provisions relating to foster care and the child advocacy board.  (FormerlyHSB 624.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2399",
+      "billTitle": "A bill for an act relating to reimbursement for health care services provided after receipt of a prior authorization, and including applicability provisions.  (FormerlyHSB 650.) Effective date: 07/01/2022. Applicability date: 01/01/2023.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2462",
+      "billTitle": "A bill for an act relating to penalties for the manufacture, delivery, or possession with the intent to manufacture or deliver heroin.  (FormerlyHSB 652.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2469",
+      "billTitle": "A bill for an act relating to corporations by providing for the use of electronic mail and other electronic transmissions, and shareholders\u2019 lists.  (FormerlyHSB 630.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2515",
+      "billTitle": "A bill for an act relating to authorized uses of interest earned on funds in the flood recovery fund and including effective date provisions.   (FormerlyHF 2138,HSB 572.) Effective date: 05/02/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2516",
+      "billTitle": "A bill for an act relating to the appointment of counsel for indigent persons by the court in certain cases.  (FormerlyHF 2162,HSB 589.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "HF 2552",
+      "billTitle": "A bill for an act relating to state and local finances and the duties and procedures of the department of revenue by providing for electronic filing, communications, and records, modifying transfer tax remittances, the assessment of property, the collection of debt, the refunds of certain fuel taxes, and the taxation of pass-through entities, reducing inheritance taxes for unknown heirs, establishing salaries, providing for a fee, making appropriations, and providing penalties, and including effective date, applicability, and retroactive applicability provisions.      (FormerlyHSB 724.) Effective date: 07/01/2022, 05/02/2022, 01/01/2025. Contingent applicability date.",
+      "dateSigned": "2022-05-02"
+    },
+    {
+      "billNumber": "SF 586",
+      "billTitle": "A bill for an act relating to banks, making appropriations, and making civil penalties applicable.  (FormerlySF 566,SSB 1236.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-12"
+    },
+    {
+      "billNumber": "SF 2363",
+      "billTitle": "A bill for an act relating to the requirements for a sex offender to be granted a modification of sex offender registry requirements.  (FormerlySSB 3025.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-12"
+    },
+    {
+      "billNumber": "HF 2200",
+      "billTitle": "A bill for an act relating to direct health care agreements, and including effective date and applicability provisions.     (FormerlyHF 625,HF 289.) Effective date: 05/12/2022. Applicability date: 05/12/2022.",
+      "dateSigned": "2022-05-12"
+    },
+    {
+      "billNumber": "HF 736",
+      "billTitle": "A bill for an act relating to recovery of an overpayment to a provider based on specified grounds under the Medicaid program.  (FormerlyHSB 225.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "HF 803",
+      "billTitle": "A bill for an act relating to duties performed by physician assistants.    (FormerlyHSB 255.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "HF 2128",
+      "billTitle": "A bill for an act relating to renewable fuels, including ethanol blended gasoline and biodiesel blended fuel used to power internal combustion engines, by providing for compliance requirements and promotional initiatives that relate to establishing classifications and standards for renewable fuels, advertising and selling renewable fuels, storing and dispensing renewable fuels, using state motor vehicles powered by renewable fuels, and taxes, tax credits, and tax refunds relating to renewable fuels; providing penalties and making penalties applicable; and including effective date and retroactive applicability provisions.     (FormerlyHSB 594.) Effective date: 07/01/2022, 05/17/2022, 01/01/2024, 01/01/2023. Applicability date: 01/01/2022.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "HF 2475",
+      "billTitle": "A bill for an act providing for the removal of municipal utility board members under specified circumstances and including effective date provisions.   (FormerlyHSB 692.) Effective date: 05/17/2022.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "HF 2521",
+      "billTitle": "A bill for an act relating to health care employment agencies, and providing penalties.   (FormerlyHF 2371,HSB 638.) Effective date: 07/01/2022. Applicability date: 01/01/2019.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "HF 2562",
+      "billTitle": "A bill for an act relating to property law, including mobile homes and manufactured housing, rental agreements, landlord and tenant remedies for retaliation, wrongful failure to provide essential services, rent increases, the sale of manufactured home community or mobile home park, regulation by counties and cities of continuing nonconforming uses of manufactured, modular, and mobile homes, forcible entry and detainer actions, abandoned mobile homes, and including effective date and applicability provisions.     (FormerlyHF 2441,HF 833,HF 442.) Effective date: 07/01/2022, 05/17/2022. Applicability date: 07/01/2022, 05/17/2022.",
+      "dateSigned": "2022-05-17"
+    },
+    {
+      "billNumber": "SF 513",
+      "billTitle": "A bill for an act relating to persons experiencing a mental health crisis, substance-related disorder crisis, or housing crisis.  (FormerlySF 395.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 2260",
+      "billTitle": "A bill for an act providing for the adoption of certain animals confined by research facilities. Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 2298",
+      "billTitle": "A bill for an act authorizing a local emergency management commission to assume the duties of a joint 911 service board.  (FormerlySF 2153.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 2323",
+      "billTitle": "A bill for an act relating to the inventory of lands managed or owned by the department of natural resources or a county conservation board, and including applicability provisions.     (FormerlySF 2152.) Effective date: 07/01/2022. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 2366",
+      "billTitle": "A bill for an act relating to the assessment and taxation of wind energy conversion property and including effective date, applicability, and retroactive applicability provisions.      (FormerlySSB 3130.) Effective date: 05/23/2022. Applicability date: 01/01/2022, 05/23/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 2376",
+      "billTitle": "A bill for an act relating to annual all-systems permits issued by the department of transportation for vehicles of excessive weight, and including effective date provisions.  (FormerlySF 2347,SSB 3106.) Effective date: 01/01/2023.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2123",
+      "billTitle": "A bill for an act authorizing a criminal or juvenile justice agency to redisseminate driver\u2019s license photos in missing persons cases, and including effective date provisions.   (FormerlyHSB 597.) Effective date: 05/23/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2168",
+      "billTitle": "A bill for an act relating to massage therapy, including child and dependent adult abuse reporting and continuing education requirements, and making penalties applicable.  (FormerlyHSB 509.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2171",
+      "billTitle": "A bill for an act relating to the release of nursing facility reimbursement rates under the Medicaid program.  (FormerlyHSB 554.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2259",
+      "billTitle": "A bill for an act authorizing licensed occupational therapists, licensed physical therapists, and certain medical professionals licensed in other states to provide a statement for purposes of persons with disabilities special registration plates or parking permits, and making penalties applicable.  (FormerlyHSB 560.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2295",
+      "billTitle": "A bill for an act concerning state agency response to a proclamation of disaster emergency.  (FormerlyHSB 571.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2345",
+      "billTitle": "A bill for an act relating to department of transportation employees designated as peace officers, and including effective date provisions.   (FormerlyHSB 533.) Effective date: 05/23/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2372",
+      "billTitle": "A bill for an act relating to the nonconsensual termination of a human pregnancy, and providing penalties.  (FormerlyHF 2206.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2484",
+      "billTitle": "A bill for an act relating to trusts, including optional notices to creditors when a will has been admitted to probate without administration and the trust is the beneficiary of the estate, trust accounting, specific powers of a trustee, and representation of holders of power and similar interests.  (FormerlyHSB 712.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2489",
+      "billTitle": "A bill for an act relating to the auditor of state and including effective date and applicability provisions.   (FormerlyHSB 695.) Effective date: 05/23/2022. Applicability date: 07/01/2002.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "HF 2518",
+      "billTitle": "A bill for an act relating to annual overweight permits for cranes, and including effective date provisions.   (FormerlyHF 2207.) Effective date: 01/01/2023.",
+      "dateSigned": "2022-05-23"
+    },
+    {
+      "billNumber": "SF 333",
+      "billTitle": "A bill for an act relating to authorized emergency vehicles, making penalties applicable, and including effective date and applicability provisions.      (FormerlySF 72.) Effective date: 05/24/2022. Applicability date: 05/24/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 463",
+      "billTitle": "A bill for an act establishing the occupational therapy licensure compact and the audiology and speech language pathology interstate compact.  (FormerlySSB 1185.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 551",
+      "billTitle": "A bill for an act relating to fire fighters and emergency medical services members operating certain vehicles.  (FormerlySF 503.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 577",
+      "billTitle": "A bill for an act relating to a certificate of nonviable birth.  (FormerlySF 308,SSB 1062.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 2190",
+      "billTitle": "A bill for an act relating to the use of child labor for certain bakery machine occupations utilizing pizza dough rollers.  (FormerlySSB 3072.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 2287",
+      "billTitle": "A bill for an act relating to used catalytic converter transactions, providing penalties, and making penalties applicable.  (FormerlySSB 3088.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 2334",
+      "billTitle": "A bill for an act relating to shotguns that may be used to hunt turkey.  (FormerlySF 2138.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "HF 604",
+      "billTitle": "A bill for an act relating to language and literacy development for deaf and hard-of-hearing children.  (FormerlyHF 244.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "HF 2239",
+      "billTitle": "A bill for an act relating to the discovery of evidence in a criminal or postconviction relief action involving victims of sexual abuse, and the admissibility of evidence in a prosecution for physical abuse or a sexual offense upon or against a child, person with an intellectual disability, person with a cognitive impairment, or person with a developmental disability.  (FormerlyHSB 529.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "HF 2252",
+      "billTitle": "A bill for an act relating to programs and services under the purview of the department of human services including child care assistance, child and family services, foster care, adoption, and the dependent adult abuse information registry.  (FormerlyHSB 616.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "HF 2412",
+      "billTitle": "A bill for an act requiring radon testing and mitigation in public schools, and including applicability provisions.  (FormerlyHF 2264.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "HF 2507",
+      "billTitle": "A bill for an act relating to juvenile justice including juvenile delinquency, child in need of assistance and family in need of assistance proceedings, juvenile justice reform, and juvenile court expenses and costs, and including effective date, applicability, and retroactive applicability provisions, and making appropriations.         (FormerlyHSB 653.) Effective date: 07/01/2022, 07/01/2023, 05/24/2022. Contingent applicability date.",
+      "dateSigned": "2022-05-24"
+    },
+    {
+      "billNumber": "SF 2374",
+      "billTitle": "A bill for an act concerning the regulation of food and beverages, relating to alcoholic beverage control and delivery of restaurant food, providing for fees and civil penalties, and including effective date and applicability provisions.    (FormerlySF 2350,SSB 3140.) Effective date: 07/01/2022, 06/07/2022, 01/01/2023. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-06-07"
+    },
+    {
+      "billNumber": "HF 2340",
+      "billTitle": "A bill for an act relating to public safety nuisances concerning licensed premises where alcoholic beverages, wine, or beer is sold or consumed.  (FormerlyHSB 633.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-09"
+    },
+    {
+      "billNumber": "SF 2373",
+      "billTitle": "A bill for an act relating to the enforcement of the lake Manawa and Waubonsie state park user fee pilot programs, and including effective date and applicability provisions.    (FormerlySF 2353,SF 2181.) Effective date: 06/13/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2080",
+      "billTitle": "A bill for an act relating to school districts that share operational functions, including operational functions in the areas of school resource officer, superintendent management, and special education director, and including effective date and applicability provisions.   (FormerlyHF 2037.) Effective date: 06/13/2022. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2081",
+      "billTitle": "A bill for an act relating to teachers, including the assessments administered to practitioner preparation program admission candidates and to practitioner preparation program students prior to students\u2019 completion of a practitioner preparation program, field experiences, and certain specified licenses for teachers created by the board of educational examiners, and including notice, effective date, and applicability provisions.      (FormerlyHSB 520.) Effective date: 06/13/2022. Applicability date: 06/13/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2127",
+      "billTitle": "A bill for an act relating to payments to child care providers from families participating in the state child care assistance program.  (FormerlyHSB 510.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2130",
+      "billTitle": "A bill for an act relating to registered all-terrain vehicles and off-road utility vehicles, and making penalties applicable.  (FormerlyHF 800,HSB 245.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2147",
+      "billTitle": "A bill for an act making an appropriation to support efforts relating to the U.S.S. Iowa and including effective date provisions.   (FormerlyHF 2002.) Effective date: 06/13/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2165",
+      "billTitle": "A bill for an act modifying provisions relating to eligibility for scholarships under the future ready Iowa skilled workforce last-dollar scholarship program.  (FormerlyHSB 541.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2169",
+      "billTitle": "A bill for an act relating to the practices of pharmacy and nursing and the administration of immunizations and vaccinations, and the licensure of nonresident pharmacies.  (FormerlyHSB 544.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2202",
+      "billTitle": "A bill for an act relating to Medicaid program reporting requirements.  (FormerlyHSB 513.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2222",
+      "billTitle": "A bill for an act relating to documents that may be filed pro se by a defendant represented by counsel or an applicant for postconviction relief represented by counsel.  (FormerlyHSB 524.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2246",
+      "billTitle": "A bill for an act relating to provisional licensing of interns enrolled in a doctoral degree program in psychology.  (FormerlyHF 2017.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2358",
+      "billTitle": "A bill for an act relating to the Iowa law enforcement academy.  (FormerlyHSB 629.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2384",
+      "billTitle": "A bill for an act relating to pharmacy benefits managers, pharmacies, and prescription drug benefits, and including effective date and applicability provisions.     (FormerlyHSB 623.) Effective date: 06/13/2022. Applicability date: 06/13/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2401",
+      "billTitle": "A bill for an act relating to the disclosure of specified information in connection with designated online marketplace transactions and including effective date provisions.   (FormerlyHSB 687.) Effective date: 01/01/2023.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2420",
+      "billTitle": "A bill for an act relating to the newborn safe haven Act.  (FormerlyHF 2267.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2443",
+      "billTitle": "A bill for an act relating to contract enforceability regarding smart contracts and distributed ledger technology.  (FormerlyHSB 679.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2445",
+      "billTitle": "A bill for an act relating to the uniform commercial code by providing for controllable electronic records.  (FormerlyHSB 678.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2468",
+      "billTitle": "A bill for an act relating to statutes of limitations on arbitration proceedings and including applicability provisions.  (FormerlyHF 2056.) Effective date: 07/01/2022. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2517",
+      "billTitle": "A bill for an act relating to the reversion of moneys appropriated for a governance and funding of levee districts study, and including effective date provisions.      (FormerlyHF 2116,HSB 570.) Effective date: 06/13/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2549",
+      "billTitle": "A bill for an act relating to the establishment of a mental health professional loan repayment program within the college student aid commission.   (FormerlyHF 2137,HSB 537.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "HF 2573",
+      "billTitle": "A bill for an act creating funds relating to the abatement of and response to opioid use, allowing school districts to obtain opioid antagonist prescriptions, and making an appropriation.  (FormerlyHF 2323,HSB 634.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-13"
+    },
+    {
+      "billNumber": "SF 183",
+      "billTitle": "A bill for an act relating to a construction manager-at-risk commercial construction alternative delivery method and prohibiting certain other alternative delivery methods in the public sector and including effective date and applicability provisions.       (FormerlySSB 1018.) Effective date: 07/01/2022, 06/14/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "SF 529",
+      "billTitle": "A bill for an act relating to assisted reproduction fraud, and providing penalties.  (FormerlySSB 1223.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "SF 2337",
+      "billTitle": "A bill for an act relating to third-party testers and test examiners for commercial driver\u2019s license knowledge and driving skills tests.  (FormerlySSB 3132.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "SF 2370",
+      "billTitle": "A bill for an act relating to aircraft, including special certificates issued to aircraft manufacturers, transporters, and dealers, and sales tax exemptions associated with aircraft, providing fees, making penalties applicable, and including effective date and applicability provisions.  (FormerlySSB 3152.) Effective date: 06/30/2022, 07/01/2022. Applicability date: 06/30/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 771",
+      "billTitle": "A bill for an act relating to the self-administration and storage of bronchodilators, bronchodilator canisters, and bronchodilator canisters and spacers relative to schools and students.  (FormerlyHF 701.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 2298",
+      "billTitle": "A bill for an act relating to immunization against COVID-19 requirements for enrollment in any licensed child care center, elementary or secondary school, or postsecondary school in Iowa.  (FormerlyHF 2040.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 2411",
+      "billTitle": "A bill for an act relating to replacements of permanent prosthetic devices for injured workers.  (FormerlyHSB 668.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 2431",
+      "billTitle": "A bill for an act relating to the regulation of home-based businesses, including food establishments and home food processing establishments, and providing civil penalties.  (FormerlyHF 2005.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 2546",
+      "billTitle": "A bill for an act relating to reimbursement of psychiatric intensive inpatient care under the Medicaid program.  (FormerlyHF 2125,HSB 530.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "HF 2578",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and veterans and including other related provisions and appropriations, providing penalties, and including effective date and retroactive and other applicability date provisions. Effective date: 07/01/2022, 06/14/2022. Applicability date: 07/01/2021, 06/14/2022.",
+      "dateSigned": "2022-06-14"
+    },
+    {
+      "billNumber": "SF 522",
+      "billTitle": "A bill for an act relating to older individuals and dependent adults and creating certain criminal offenses and civil actions, and providing penalties.  (FormerlySSB 1082.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-15"
+    },
+    {
+      "billNumber": "SF 2380",
+      "billTitle": "A bill for an act to designate February 1 of each year as George Washington Carver Day. Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-16"
+    },
+    {
+      "billNumber": "SF 2383",
+      "billTitle": "A bill for an act relating to various matters under the purview of the state, including city and county inspections, work-based learning, recruitment of health care professionals, regulations affecting veterans and military spouses, insurance producer temporary licenses, and including applicability provisions.  (FormerlySF 2361,SSB 3123.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-16"
+    },
+    {
+      "billNumber": "HF 2198",
+      "billTitle": "A bill for an act relating to child care center minimum age requirements for employees and staff-to-children ratios, and including effective date provisions.     (FormerlyHSB 539.) Effective date: 07/01/2022, 06/16/2022.",
+      "dateSigned": "2022-06-16"
+    },
+    {
+      "billNumber": "HF 2355",
+      "billTitle": "A bill for an act relating to employment security benefits.  (FormerlyHSB 596.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-16"
+    },
+    {
+      "billNumber": "SF 581",
+      "billTitle": "A bill for an act relating to fishing and hunting licenses and permits.  (FormerlySF 464,SF 427.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "SF 2367",
+      "billTitle": "A bill for an act relating to state taxation by specifying when returns are due, striking sales tax exemptions and exempting other products, and modifying distributions of revenue to local governments and school districts, the liability of sellers, the franchise tax, motor fuel tax reporting, tax refunds and credits, and the individual state income tax, and providing penalties, and including effective date, applicability, and retroactive applicability provisions.    (FormerlySSB 3063.) Effective date: 07/01/2022, 01/01/2024, 06/17/2022, 01/01/2023. Applicability date: 01/01/2019, 01/01/2022, 06/17/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "SF 2378",
+      "billTitle": "A bill for an act relating to beverage containers control provisions, including handling fees, refund value, applicability to certain beverages, and acceptance of beverage containers, providing penalties, and including effective date provisions.    (FormerlySF 2122.) Effective date: 11/15/2023, 01/01/2023, 06/17/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "SF 2385",
+      "billTitle": "A bill for an act relating to and making appropriations involving certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, providing for other properly related matters, and including contingent effective date provisions.   (FormerlySSB 3163.) Effective date: 07/01/2022, 01/01/2023.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2209",
+      "billTitle": "A bill for an act relating to residents under sixteen years of age accompanying an adult who is hunting or trapping.  (FormerlyHF 2044.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2496",
+      "billTitle": "A bill for an act relating to the procedural requirements for placing an officer\u2019s name on a Brady-Giglio list, and for a prosecuting agency disclosing exculpatory evidence.  (FormerlyHSB 701.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2497",
+      "billTitle": "A bill for an act relating to gambling regulation and wagering, concerning cashless wagering, forfeiture and withholding of certain gaming winnings, sports wagering, occupational licenses, limitations on gambling game licenses, and simulcasting licensure and taxation, providing penalties and making penalties applicable, and including effective date and retroactive applicability provisions.   (FormerlyHSB 578.) Effective date: 07/01/2022, 06/17/2022. Applicability date: 06/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2557",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund. Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2558",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch. Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2559",
+      "billTitle": "A bill for an act relating to appropriations to the justice system. Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2560",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government entities involved with agriculture, natural resources, and environmental protection, and making related statutory changes, and including effective date provisions. Effective date: 07/01/2022, 06/17/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2564",
+      "billTitle": "A bill for an act making appropriations to the department of cultural affairs, the economic development authority, the Iowa finance authority, the public employment relations board, the department of workforce development, the state board of regents and certain regents institutions, providing for properly related matters, and including applicability provisions. Effective date: 07/01/2022. Applicability date: 01/01/2023.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2575",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, providing for properly related matters, and including effective date and applicability provisions. Effective date: 07/01/2022, 06/17/2022. Applicability date: 07/01/2022.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2579",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, the technology reinvestment fund, and the sports wagering receipts fund, providing for related matters, and including effective date and retroactive applicability provisions. Effective date: 07/01/2022, 06/17/2022. Applicability date: 06/01/2020.",
+      "dateSigned": "2022-06-17"
+    },
+    {
+      "billNumber": "HF 2470",
+      "billTitle": "A bill for an act adopting and implementing the recommendations of the artisanal butchery task force.  (FormerlyHSB 675.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-21"
+    },
+    {
+      "billNumber": "HF 2581",
+      "billTitle": "A bill for an act providing for programs and regulations administered and enforced by the department of agriculture and land stewardship, providing fees, providing penalties, and making penalties applicable.     (FormerlyHF 2572,HF 2439,HSB 673.) Effective date: 07/01/2022.",
+      "dateSigned": "2022-06-21"
+    },
+    {
+      "billNumber": "HF 2589",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for legal and regulatory responsibilities, providing for other properly related matters, providing penalties, making penalties applicable, and including effective date, applicability, and retroactive applicability provisions.     (FormerlyHSB 730.) Effective date: 06/21/2022, 07/01/2022, 01/01/2023. Applicability date: 05/12/2022, 05/02/2022, 06/24/2022.",
+      "dateSigned": "2022-06-21"
+    }
+  ]
+}

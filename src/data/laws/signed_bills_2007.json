@@ -1,0 +1,1116 @@
+{
+  "year": 2007,
+  "totalBills": 222,
+  "bills": [
+    {
+      "billNumber": "HF 1",
+      "billTitle": "A bill for an act relating to the state minimum hourly wage requirements and providing an effective date. Effective 1-25-07.",
+      "dateSigned": "2007-01-25"
+    },
+    {
+      "billNumber": "HF 95",
+      "billTitle": "A bill for an act relating to the designation of pilot project cities for a targeted jobs withholding tax credit to be used for funding improvements in certain urban renewal areas and including effective and retroactive applicability date provisions. Effective 2-06-07.",
+      "dateSigned": "2007-02-06"
+    },
+    {
+      "billNumber": "SF 95",
+      "billTitle": "A bill for an act making supplemental appropriations for the home ownership assistance and injured veterans grant programs for Iowa residents who are eligible members or military veterans of the armed forces of the United States and providing an effective date.  (FormerlySF 31.)  Effective 2-14-07.",
+      "dateSigned": "2007-02-14"
+    },
+    {
+      "billNumber": "SF 109",
+      "billTitle": "A bill for an act providing for the establishment of the state percent of growth for purposes of the state school foundation program, and providing an applicability date.  (FormerlySSB 1163.) Effective 7-1-07.",
+      "dateSigned": "2007-02-22"
+    },
+    {
+      "billNumber": "SF 32",
+      "billTitle": "A bill for an act extending the future repeal of a provision requiring the issuance of certificates for furnishing local telecommunications services, and providing an effective date.  (FormerlySSB 1002.)  Effective 2-28-07.",
+      "dateSigned": "2007-02-28"
+    },
+    {
+      "billNumber": "SF 40",
+      "billTitle": "A bill for an act relating to the regulation of ethical conduct by governmental entities.  (FormerlySSB 1028.)  Effective 7-1-07.",
+      "dateSigned": "2007-02-28"
+    },
+    {
+      "billNumber": "SF 162",
+      "billTitle": "A bill for an act creating the Iowa stem cell research and cures initiative, and providing penalties.  (FormerlySF 115.) Effective 7-1-07.",
+      "dateSigned": "2007-02-28"
+    },
+    {
+      "billNumber": "SF 305",
+      "billTitle": "A bill for an act authorizing funding for providing disaster grants to needy individuals and families and including effective and retroactive applicability date provisions.  Effective 2-28-07.",
+      "dateSigned": "2007-02-28"
+    },
+    {
+      "billNumber": "HF 260",
+      "billTitle": "A bill for an act relating to the classification and regulation of controlled substances and making penalties applicable. Effective 7-01-07.",
+      "dateSigned": "2007-03-01"
+    },
+    {
+      "billNumber": "SF 61",
+      "billTitle": "A bill for an act relating to the establishment of state and school antiharassment and antibullying policies, providing data collection and reporting requirements, and providing for immunity and other related matters.  (FormerlySSB 1048.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-05"
+    },
+    {
+      "billNumber": "SF 74",
+      "billTitle": "A bill for an act renaming health-related examining boards as licensing boards.  (FormerlySSB 1039.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-09"
+    },
+    {
+      "billNumber": "HF 245",
+      "billTitle": "A bill for an act requiring invasive pneumococcal disease immunization for children enrolling in licensed child care centers.  Effective 7-01-07.",
+      "dateSigned": "2007-03-09"
+    },
+    {
+      "billNumber": "HF 319",
+      "billTitle": "A bill for an act updating the Code references to the Internal Revenue Code and including effective date and retroactive applicability provisions. Effective 3-09-07.",
+      "dateSigned": "2007-03-09"
+    },
+    {
+      "billNumber": "HF 400",
+      "billTitle": "A bill for an act authorizing the formation of a professional corporation or a professional limited liability company by licensed real estate brokers. Effective 7-01-07.",
+      "dateSigned": "2007-03-09"
+    },
+    {
+      "billNumber": "SF 39",
+      "billTitle": "A bill for an act relating to campaign contributions, the filing of disclosure reports, the posting of statements and reports on the internet, the posting of signs on private property, and the escheat of funds from an unknown or unidentifiable source. (FormerlySSB 1010.) Effective 7-1-07.",
+      "dateSigned": "2007-03-14"
+    },
+    {
+      "billNumber": "HF 258",
+      "billTitle": "A bill for an act relating to the duties of directors of nonprofit corporations. Effective 7-01-07.",
+      "dateSigned": "2007-03-14"
+    },
+    {
+      "billNumber": "HF 369",
+      "billTitle": "A bill for an act relating to elevator conveyance safety standards enforced by the division of labor services of the department of workforce development. Effective 7-01-07.",
+      "dateSigned": "2007-03-14"
+    },
+    {
+      "billNumber": "SF 128",
+      "billTitle": "A bill for an act relating to an increase in the taxes on cigarettes and tobacco products, imposing an inventory tax on tobacco products, creating a health care trust fund, providing for a standing appropriation, and providing an effective date and providing an applicability provision. (FormerlySSB 1055.) Effective 3-15-07.",
+      "dateSigned": "2007-03-15"
+    },
+    {
+      "billNumber": "SF 58",
+      "billTitle": "A bill for an act relating to the number of signatures required on nomination papers for the office of mayor in certain cities.  Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "SF 67",
+      "billTitle": "A bill for an act relating to the regulation and practice of pharmacy, including providing for the establishment of a limited drug and device distributor license.  (FormerlySSB 1037.) Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "SF 75",
+      "billTitle": "A bill for an act relating to the registration of pharmacy technicians. (FormerlySSB 1034.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "SF 130",
+      "billTitle": "A bill for an act relating to commissions that oversee memorial buildings and monuments.  (FormerlySF 22.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "SF 272",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections and including effective and retroactive applicability date provisions.  (FormerlySSB 1219.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "SF 319",
+      "billTitle": "A bill for an act relating to cooperative associations, by providing for documentation, including certificates and statements.  (FormerlySSB 1267.) Effective 7-1-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "HF 199",
+      "billTitle": "A bill for an act relating to the payment of costs of reasonable attorney fees related to certain paternity proceedings. Effective 7-01-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "HF 588",
+      "billTitle": "A bill for an act relating to requirements for persons seeking election to township office. Effective 7-01-07.",
+      "dateSigned": "2007-03-23"
+    },
+    {
+      "billNumber": "HF 5",
+      "billTitle": "A bill for an act relating to the maximum finance charge allowed for consumer loans secured by a certificate of title to a motor vehicle and making penalties applicable. Effective 7-01-07.",
+      "dateSigned": "2007-03-27"
+    },
+    {
+      "billNumber": "SF 70",
+      "billTitle": "A bill for an act relating to crime victim compensation.  (FormerlySSB 1005.)  Effective 7-1-07.",
+      "dateSigned": "2007-03-28"
+    },
+    {
+      "billNumber": "HF 367",
+      "billTitle": "A bill for an act relating to wage payment collection of direct deposit wages as administered by the division of labor services of the department of workforce development. Effective 7-01-07.",
+      "dateSigned": "2007-03-28"
+    },
+    {
+      "billNumber": "HF 716",
+      "billTitle": "A bill for an act relating to revising the uniform commercial code, by providing for warehouse receipts, bills of lading, and other documents of title. Effective 7-01-07.",
+      "dateSigned": "2007-03-28"
+    },
+    {
+      "billNumber": "SF 78",
+      "billTitle": "A bill for an act relating to various conservation and recreation activities under the purview of the department of natural resources, modifying fees, making penalties applicable, and making an appropriation.  (FormerlySSB 1068.) Effective 7-1-07.",
+      "dateSigned": "2007-03-29"
+    },
+    {
+      "billNumber": "SF 548",
+      "billTitle": "A bill for an act creating a hemophilia advisory committee and providing a contingent effective date.  (FormerlySSB 1294.) Effective upon appropriation (seeHF 909, section 97).",
+      "dateSigned": "2007-03-30"
+    },
+    {
+      "billNumber": "HF 468",
+      "billTitle": "A bill for an act requiring a study by the department of education relating to implementation of a statewide student information system. Effective 7-01-07.",
+      "dateSigned": "2007-03-30"
+    },
+    {
+      "billNumber": "HF 579",
+      "billTitle": "A bill for an act relating to judicial branch practices and procedures, including expanding the definition of a seal, involving the duties of the clerk of the supreme court, and obtaining electronic signatures on citations. Effective 7-01-07.",
+      "dateSigned": "2007-03-30"
+    },
+    {
+      "billNumber": "HF 618",
+      "billTitle": "A bill for an act allowing a county commissioner of elections to appoint certain high school students to serve as precinct election board members. Effective 7-01-07.",
+      "dateSigned": "2007-04-03"
+    },
+    {
+      "billNumber": "HF 653",
+      "billTitle": "A bill for an act allowing a voter to register to vote and to vote after regular registration and prior to voting in an election and making a penalty applicable and providing an applicability date.  Effective 7-01-07.",
+      "dateSigned": "2007-04-03"
+    },
+    {
+      "billNumber": "SF 116",
+      "billTitle": "A bill for an act relating to the labor commissioner's regulation of fire fighter clothing and personal protection equipment.  (FormerlySSB 1012.) Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 202",
+      "billTitle": "A bill for an act relating to the disposition of certain unclaimed property. (FormerlySSB 1086.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 204",
+      "billTitle": "A bill for an act relating to the department of public safety practices and procedures.  (FormerlySSB 1188.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 361",
+      "billTitle": "A bill for an act concerning investment of certain public funds in companies doing business in Sudan by the treasurer of state, public retirement systems in Iowa, and the state board of regents.  (FormerlySSB 1106.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 450",
+      "billTitle": "A bill for an act relating to limitations of actions as applied to county collection of delinquent real property taxes. (FormerlySSB 1149.) Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 535",
+      "billTitle": "A bill for an act relating to general provisions of the uniform commercial code relating to the construction and application of its subject matter, and providing for a contingent effective date.  (FormerlySSB 1327.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "HF 317",
+      "billTitle": "A bill for an act relating to an on-site fiscal review to be conducted under phase II of the accreditation process upon recommendation by the school budget review committee. Effective 7-01-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "HF 647",
+      "billTitle": "A bill for an act relating to the designation of Iowa great places and financial and technical assistance to projects in Iowa great places. Effective 7-01-07.",
+      "dateSigned": "2007-04-04"
+    },
+    {
+      "billNumber": "SF 509",
+      "billTitle": "A bill for an act relating to a revised uniform anatomical gift Act, and providing penalties.  (FormerlySSB 1288.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-05"
+    },
+    {
+      "billNumber": "HF 617",
+      "billTitle": "A bill for an act creating a generation Iowa commission. Effective 7-01-07.",
+      "dateSigned": "2007-04-05"
+    },
+    {
+      "billNumber": "HF 650",
+      "billTitle": "A bill for an act relating to the sales of beer kegs by requiring an identification number on each keg of beer, recording of the purchase of beer by the keg, and providing penalties. Effective 7-01-07.",
+      "dateSigned": "2007-04-05"
+    },
+    {
+      "billNumber": "SF 110",
+      "billTitle": "A bill for an act relating to the standardized training and state certification of reserve peace officers.  (FormerlySSB 1095.) Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 129",
+      "billTitle": "A bill for an act relating to the racing and gaming commission by modifying provisions regulating horses involved in horse racing and providing an effective date.  (FormerlySSB 1029.)  Effective 4-10-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 169",
+      "billTitle": "A bill for an act providing for county eligibility for state payment of certain mental health, mental retardation, and developmental disabilities services funding and providing effective and retroactive applicability dates.  (FormerlySF 72.)  Effective 4-10-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 284",
+      "billTitle": "A bill for an act concerning employees subject to unannounced drug or alcohol testing.  Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 358",
+      "billTitle": "A bill for an act establishing prelicensing and continuing education requirements for used motor vehicle dealers.  (FormerlySSB 1160.) Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 400",
+      "billTitle": "A bill for an act relating to mortgage release certificates issued by the Iowa finance authority.  (FormerlySSB 1303.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 405",
+      "billTitle": "A bill for an act relating to national pollutant discharge elimination system permits for disposal systems.  (FormerlySF 294.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 431",
+      "billTitle": "A bill for an act relating to programs, funds, authority, and duties of the Iowa finance authority.  (FormerlySSB 1253.) Effective 7-1-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "HF 591",
+      "billTitle": "A bill for an act providing procedures to increase the number of city council members in certain cities. Effective 7-01-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "HF 740",
+      "billTitle": "A bill for an act regulating the administration of drugs to wildlife under the jurisdiction of the department of natural resources and providing a penalty. Effective 7-01-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "HF 790",
+      "billTitle": "A bill for an act allowing certain association group health care plans and wellness initiatives, and providing an effective date.  Effective 4-10-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "HF 803",
+      "billTitle": "A bill for an act relating to civil service for deputy county sheriffs by allowing a county to appeal certain decisions of the civil service commission. Effective 7-01-07.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "HF 848",
+      "billTitle": "A bill for an act relating to the conduct of elections and voter registration and including effective and applicability date provisions. Section 6 effective 4-10-07 and sections 1-5, 7-18, divisions II and III effective on elections after 1-01-08.",
+      "dateSigned": "2007-04-10"
+    },
+    {
+      "billNumber": "SF 41",
+      "billTitle": "A bill for an act relating to the disposition of unclaimed property concerning minerals.  (FormerlySSB 1006.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 42",
+      "billTitle": "A bill for an act relating to campaign finance by revising the requirements for filing reports and for the use of certain resources for political purposes.  (FormerlySSB 1009.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 140",
+      "billTitle": "A bill for an act relating to the time period for which peace officers' investigative reports and specific portions of electronic mail and telephone billing records are to be kept confidential.  (FormerlySSB 1164.) Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 161",
+      "billTitle": "A bill for an act relating to the confidentiality of security procedures or emergency preparedness information discussed at a meeting of a governmental body and providing an effective date.  (FormerlySSB 1148.)  Effective 4-16-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 200",
+      "billTitle": "A bill for an act providing for the liability of a landowner of land where livestock are kept or an owner of adjoining land for erecting and maintaining a fence, and providing for the assessment of property taxes. (FormerlySF 14.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 351",
+      "billTitle": "A bill for an act requiring a political committee expressly advocating the passage or defeat of a ballot issue to file five disclosure reports in an election year.  (FormerlySSB 1101.) Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 477",
+      "billTitle": "A bill for an act authorizing the issuance of additional special nonresident deer hunting licenses.  (FormerlySF 389.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 480",
+      "billTitle": "A bill for an act relating to children who are subject to a court order for a temporary or permanent out-of-home placement by providing for visitation or ongoing interaction between the children and siblings.  (FormerlySF 342.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "HF 298",
+      "billTitle": "A bill for an act relating to the conveyance or encumbrance of a homestead and providing an effective and applicability date.  Effective 4-16-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "HF 314",
+      "billTitle": "A bill for an act relating to a peace officer's statements to a person operating a noncommercial motor vehicle and holding a commercial driver's license who has been requested to submit to a chemical test in an operating-while-intoxicated case. Effective 7-01-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "HF 610",
+      "billTitle": "A bill for an act relating to acquired immune deficiency syndrome and the human immunodeficiency virus. Effective 7-01-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "HF 777",
+      "billTitle": "A bill for an act relating to judicial branch practices and procedures including but not limited to adoption petitions, clerk of the district court duties, and recordkeeping affecting real estate and change of name records. Effective 7-01-07.",
+      "dateSigned": "2007-04-16"
+    },
+    {
+      "billNumber": "SF 137",
+      "billTitle": "A bill for an act providing for the registration of associate real estate appraisers, prohibiting improper influence over an appraiser's evaluation opinion, and imposing a penalty.  (FormerlySSB 1030.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 205",
+      "billTitle": "A bill for an act relating to the use of moneys in the Iowa cultural trust grant account by the board of trustees of the Iowa cultural trust. (FormerlySSB 1017.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 270",
+      "billTitle": "A bill for an act relating to the military code by amending the powers of the adjutant general and by allowing the armory board to enter into design-build contracts for the construction of certain national guard facilities.  (FormerlySSB 1008.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 354",
+      "billTitle": "A bill for an act relating to certain overpayments of moneys to a county. (FormerlySSB 1196.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 444",
+      "billTitle": "A bill for an act relating to councils of governments by designating a new council of governments area.  (FormerlySF 186.) Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 448",
+      "billTitle": "A bill for an act relating to confidential information regarding unemployment insurance benefits and providing penalties.  (FormerlySSB 1061.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 479",
+      "billTitle": "A bill for an act making changes to the time frames and the duties of the legislative services agency concerning the process of congressional and legislative redistricting.  (FormerlySSB 1102.) Effective 7-1-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 158",
+      "billTitle": "A bill for an act relating to a requirement that children receive a blood lead test by age six or prior to enrollment in an elementary school. Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 413",
+      "billTitle": "A bill for an act relating to electronic filing of campaign finance organizational statements, dissolution reports, and disclosure reports by candidates for statewide office or for the general assembly, establishing a filing deadline for all statements and reports, providing a penalty, and providing applicability dates.  Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 585",
+      "billTitle": "A bill for an act relating to the selection of board members by area agencies on aging. Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 765",
+      "billTitle": "A bill for an act relating to animal feeding operations, by providing for the enforcement of regulatory provisions. Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 774",
+      "billTitle": "A bill for an act relating to mechanics' liens. Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "HF 846",
+      "billTitle": "A bill for an act providing for an Iowa farmers' market nutrition program. Effective 7-01-07.",
+      "dateSigned": "2007-04-17"
+    },
+    {
+      "billNumber": "SF 311",
+      "billTitle": "A bill for an act relating to an action for satisfaction of a mortgage. (FormerlySSB 1206.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "SF 381",
+      "billTitle": "A bill for an act relating to judicial branch procedures, including appointments of court of appeals judges, district judges, district associate judges, associate juvenile judges, associate probate judges, magistrates, and patient advocates, and compensation to judges and other court personnel serving as fiduciaries.  (FormerlySSB 1129.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "SF 407",
+      "billTitle": "A bill for an act relating to the home ownership assistance program for Iowa residents who are eligible members of the armed forces of the United States. (FormerlySSB 1316.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "SF 502",
+      "billTitle": "A bill for an act relating to the regulation of savings and loan associations by the division of banking of the department of commerce. (FormerlySSB 1314.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "SF 529",
+      "billTitle": "A bill for an act expanding the criminal offense of possessing contraband in correctional institutions to include possessing contraband in a secure facility for the detention or custody of juveniles, a detention facility, or a jail, and providing a penalty.  (FormerlySSB 1285.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 353",
+      "billTitle": "A bill for an act relating to public safety communications by establishing an Iowa statewide interoperable communications system board. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 432",
+      "billTitle": "A bill for an act relating to abuse of a human corpse and providing penalties. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 451",
+      "billTitle": "A bill for an act relating to a single point of entry long-term living resources system. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 528",
+      "billTitle": "A bill for an act relating to the regulation of hospitals and health care facilities by the department of inspections and appeals, including investigations of complaints against health care facilities and rules relating to authentication of certain orders by practitioners, and providing an immediate effective date.  Effective 7-01-07, with exception of section 3 effective 4-20-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 559",
+      "billTitle": "A bill for an act relating to the midwest interstate passenger rail compact and providing an effective date. Effective only if General Assembly appropriates funds for FY beginning July 1, 2007, in amount sufficient to pay dues assessed pursuant to midwest interstate passenger rail compact.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 566",
+      "billTitle": "A bill for an act relating to field dental clinics for the purposes of the volunteer health care provider program. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 587",
+      "billTitle": "A bill for an act relating to advisory boards created pursuant to emergency services agreements and providing an effective date.  Effective 4-20-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 590",
+      "billTitle": "A bill for an act relating to the application and enforcement of the state building code and providing an applicability date.  Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 611",
+      "billTitle": "A bill for an act relating to human growth and development and health education under the educational standards, requiring school districts to provide curricular information to agencies and organizations upon request, and providing related duties for the director of the department of education. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 787",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other federal grants, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "HF 826",
+      "billTitle": "A bill for an act establishing an Iowa Abraham Lincoln bicentennial commission and fund and providing for its prospective repeal.  Effective 7-01-07.",
+      "dateSigned": "2007-04-20"
+    },
+    {
+      "billNumber": "SF 302",
+      "billTitle": "A bill for an act relating to moneys appropriated to the department of economic development for regional tourism marketing purposes.  (FormerlySF 158.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "SF 337",
+      "billTitle": "A bill for an act relating to information required to be indexed in the records of the county recorder.  (FormerlySSB 1199.) Effective 7-1-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "SF 463",
+      "billTitle": "A bill for an act concerning the licensing and operations of a manufacturer of ambulances, rescue vehicles, or fire vehicles.  (FormerlySF 102.) Effective 7-1-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "SF 528",
+      "billTitle": "A bill for an act prohibiting the department of corrections from entering into an agreement with a private sector for-profit entity for the purpose of housing inmates.  (FormerlySF 96.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "HF 615",
+      "billTitle": "A bill for an act relating to the membership of the board of educational examiners. Effective 7-01-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "HF 759",
+      "billTitle": "A bill for an act specifying the functions of the Clarinda correctional facility. Effective 7-01-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "HF 780",
+      "billTitle": "A bill for an act relating to the issuance of temporary orders modifying an order of child support. Effective 7-01-07.",
+      "dateSigned": "2007-04-23"
+    },
+    {
+      "billNumber": "SF 175",
+      "billTitle": "A bill for an act relating to the disposition of seized property in a criminal proceeding.  (FormerlySSB 1108.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 277",
+      "billTitle": "A bill for an act relating to the state's educational standards regarding teacher librarians and qualified guidance counselors, and to teacher and administrator quality, including the student achievement and teacher quality program and an administrator quality program, making appropriations, and providing an effective date.  (FormerlySSB 1118.)  Item veto.  Various effective dates; see section 64 of bill.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 339",
+      "billTitle": "A bill for an act relating to county general obligation bonds by modifying the definition of essential county purpose and by changing the requirements under which a county may issue general county purpose bonds without an election.  (FormerlySSB 1237.) Effective 7-1-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 384",
+      "billTitle": "A bill for an act relating to statute of limitations provisions relating to minors and persons with mental illness and tort claims against a municipality and providing an applicability date.  (FormerlySSB 1186.) Effective 7-1-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 406",
+      "billTitle": "A bill for an act relating to dogs, including the right to kill a tagged dog.  (FormerlySF 170.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 416",
+      "billTitle": "A bill for an act relating to city elections by providing procedures for filling a city council vacancy by special election and by providing satellite absentee voting at certain city elections.  (FormerlySSB 1278.) Effective 7-1-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "HF 309",
+      "billTitle": "A bill for an act requiring development of a uniform cost report for certain services reimbursed through the department of human services and counties. Effective 7-01-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "HF 744",
+      "billTitle": "A bill for an act relating to a debtor's exempt personal injury payments in state court debt collection and federal bankruptcy actions. Effective 7-01-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "HF 849",
+      "billTitle": "A bill for an act concerning the department of administrative services and including an effective date provision. Effective 7-01-07, with exception of section 6, effective 1-01-08 and section 9, effective 4-26-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "HF 851",
+      "billTitle": "A bill for an act relating to expenditure approval requirements applicable to the purchase of telecommunications equipment or services by the Iowa communications network. Effective 7-01-07.",
+      "dateSigned": "2007-04-26"
+    },
+    {
+      "billNumber": "SF 155",
+      "billTitle": "A bill for an act relating to local governments by creating a local government innovation commission and fund, creating a center for governing excellence, and including an effective date.  (FormerlySSB 1161.) Effective 4-27-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "SF 347",
+      "billTitle": "A bill for an act relating to the authority of creditors and credit unions in consumer credit or credit union transactions.  (FormerlySSB 1065.) Effective 7-1-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "SF 414",
+      "billTitle": "A bill for an act concerning the licensure, operation, and taxation of card game tournaments by organizations representing veterans and allowable prizes at annual game nights by certain qualified organizations and making penalties applicable.  (FormerlySF 218.) Effective 7-1-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "SF 485",
+      "billTitle": "A bill for an act relating to greenhouse gas emissions.  (FormerlySF 153.) Effective 7-1-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "SF 489",
+      "billTitle": "A bill for an act creating an Alzheimer's disease task force.  (FormerlySF 316.)  Effective 7-1-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "HF 829",
+      "billTitle": "A bill for an act relating to the development and commercialization of businesses in the targeted industry areas of advanced manufacturing, bioscience, and information technology and including appropriations and an effective date provision. Effective 7-01-07, with exception of section 8 effective 4-27-07.",
+      "dateSigned": "2007-04-27"
+    },
+    {
+      "billNumber": "SF 212",
+      "billTitle": "A bill for an act relating to county offices, by protecting certain identity information contained in documents recorded with the county recorder and by increasing salary limits for certain deputy officers and providing an applicability date. (FormerlySSB 1126.) Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 254",
+      "billTitle": "A bill for an act revising family investment program requirements. (FormerlySSB 1153.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 265",
+      "billTitle": "A bill for an act relating to asbestos removal and encapsulation regulations as enforced by the labor commissioner.  (FormerlySSB 1192.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 333",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective and retroactive applicability date provisions.  (FormerlySSB 1215.) Various effective dates; see section 116 of bill.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 336",
+      "billTitle": "A bill for an act allowing certain cities to appoint additional civil service commissioners.  (FormerlySF 13.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 421",
+      "billTitle": "A bill for an act relating to workers' compensation laws by regulating insurance policy exclusions and debt collection practices.  (FormerlySSB 1308.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 435",
+      "billTitle": "A bill for an act relating to youth deer hunting licenses.  (FormerlySF 280.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 447",
+      "billTitle": "A bill for an act relating to incentives for school district reorganizations and shared operational functions, and making an appropriation.  (FormerlySSB 1117.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 469",
+      "billTitle": "A bill for an act concerning financial and regulatory matters, including by providing for the sale of motor homes by a manufacturer at a camping rally sponsored and conducted by the manufacturer and providing for applicability to a pilot project, and providing an effective date.  (FormerlySF 80.) Various effective dates; see section 7 of bill.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 538",
+      "billTitle": "A bill for an act relating to a parent's cause of action for the recovery of expenses and actual loss of services, companionship, and society resulting from the injury to or death of a child and including an applicability date provision.  (FormerlySSB 1138.) Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 539",
+      "billTitle": "A bill for an act establishing uniform finance procedures for obligations issued by the state.  (FormerlySSB 1290.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "SF 540",
+      "billTitle": "A bill for an act relating to trusts and estates including fiduciaries and beneficiaries and including applicability provisions.  (FormerlySSB 1274.) Effective 7-1-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 368",
+      "billTitle": "A bill for an act relating to the boiler and pressure vessel safety program enforced by the division of labor services of the department of workforce development. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 397",
+      "billTitle": "A bill for an act relating to the expenditures allowable from medical assistance income trusts. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 499",
+      "billTitle": "A bill for an act relating to various matters under the purview of the insurance division of the department of commerce including workers' compensation self-insurance, premium taxes, the uniform securities Act, powers and duties of the insurance division, regulation of insurance sales to military personnel, domestic insurance companies, life insurance companies, nonprofit health service corporations, external review of health care coverage decisions, investment limitations on insurers other than life insurers, property and casualty insurers' reserves, motor vehicle service contracts, county and state mutual associations, reciprocal or interinsurance contracts, protected cell companies, licensing of insurance producers and public adjusters, and life and fire insurance company boards of directors, and providing penalties.  Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 546",
+      "billTitle": "A bill for an act relating to membership on election boards.  Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 608",
+      "billTitle": "A bill for an act relating to notice of meetings of the board of township trustees. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 651",
+      "billTitle": "A bill for an act relating to business corporations, by providing for information required to be filed with the secretary of state and providing for shares and instruments associated with such corporations. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 742",
+      "billTitle": "A bill for an act relating to the regulation of snowmobiles and all-terrain vehicles, and providing fees and penalties. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 767",
+      "billTitle": "A bill for an act relating to eligible veterans for purposes of the injured veterans grant program. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 793",
+      "billTitle": "A bill for an act relating to administration of regional transportation by regional transit districts and of highways and regulation of motor vehicles by the state department of transportation, including provisions relating to the placement of advertising devices along primary highways, qualifications of property appraisers, state standards for land surveying, destruction of suspended or revoked driver's licenses, requirements for a temporary restricted driver's license, registration and titling of vehicles, legion of merit special registration plates, antique motor vehicle registration plates and fees, licensing of motor vehicle dealers, motor carrier registration and fuel tax liability, the maximum length limitation for single trucks, requirements for operation of certain self-propelled implements of husbandry on secondary roads, and disposition of regional transit district tax revenues collected by a county treasurer, and providing effective dates. Effective 7-01-07, with exception of sections 16, 20, 27-28, and 33-34 effective 5-09-07 and sections 11-12 effective 7-01-08.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 830",
+      "billTitle": "A bill for an act relating to the construction bidding procedures Act by modifying procedures and requirements for letting public improvement contracts, and making corrections. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 896",
+      "billTitle": "A bill for an act creating a disaster aid individual assistance grant fund. Effective 7-01-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 906",
+      "billTitle": "A bill for an act requiring children enrolling in elementary or high school to have a dental screening and providing an effective date. Effective 7-01-08.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 910",
+      "billTitle": "A bill for an act relating to the creation of a task force on postnatal tissue and fluid banking, related postnatal procedures, and providing an effective date. Effective 5-09-07.",
+      "dateSigned": "2007-05-09"
+    },
+    {
+      "billNumber": "HF 877",
+      "billTitle": "A bill for an act creating a statewide voluntary preschool program for four-year-old children and making appropriations. Effective 7-01-07.",
+      "dateSigned": "2007-05-10"
+    },
+    {
+      "billNumber": "SF 90",
+      "billTitle": "A bill for an act concerning local emergency management commission communications.  (SeeSF 207.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 278",
+      "billTitle": "A bill for an act relating to changes in the utility replacement tax law by redefining a new electric power generating plant, extending the life of the utility replacement tax task force, and requiring notification by the taxpayer to the department of revenue and local taxing district upon transfer of utility property.  (FormerlySSB 1060.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 344",
+      "billTitle": "A bill for an act relating to enforcement of certain solid waste disposal requirements and providing civil penalties.  (FormerlySSB 1111.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 518",
+      "billTitle": "A bill for an act reorganizing Code chapter provisions relating to the authority to engage in the business of insurance other than life insurance by transferring provisions, eliminating outdated provisions, and amending corresponding provisions, as necessary.  (FormerlySSB 1313.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 530",
+      "billTitle": "A bill for an act relating to prohibited business practices by a real estate broker or salesperson.  (FormerlySSB 1133.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 546",
+      "billTitle": "A bill for an act relating to a hospital lien. (FormerlySSB 1144.) Effective 7-1-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 579",
+      "billTitle": "A bill for an act relating to a pharmaceutical collection and disposal pilot project and including an effective date provision.  (FormerlySF 291&SF 542.) Effective 5-11-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "HF 671",
+      "billTitle": "A bill for an act prohibiting remote control or internet hunting of wild animals, or game birds or ungulates or preserve whitetail kept on hunting preserves, and providing penalties. Effective 7-01-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "HF 773",
+      "billTitle": "A bill for an act establishing an energy city designation program. Effective 7-01-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "HF 808",
+      "billTitle": "A bill for an act concerning accountability requirements for entities and boards created for joint exercise of governmental powers and providing an effective date. Section 1 effective 5-11-07 and sections 2-3 effective 1-01-08.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "HF 920",
+      "billTitle": "A bill for an act authorizing the state board of regents to borrow moneys and issue revenue bonds to finance the costs of certain building and facility improvement programs. Effective 7-01-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "HF 925",
+      "billTitle": "A bill for an act relating to health-related activities and regulation, including the practices of optometry and mortuary science, establishment of a state public health dental director and an oral health bureau, dependent adult abuse, membership on the child death review team, and immunity for emergency response, and providing for the revision of fees. Effective 7-01-07.",
+      "dateSigned": "2007-05-11"
+    },
+    {
+      "billNumber": "SF 457",
+      "billTitle": "A bill for an act relating to the rights of peace officers and public safety and emergency personnel.  (FormerlySSB 1214.) Effective 7-1-07.",
+      "dateSigned": "2007-05-15"
+    },
+    {
+      "billNumber": "SF 590",
+      "billTitle": "A bill for an act relating to the state earned income tax credit by increasing the amount of the tax credit and making the tax credit refundable and including effective and retroactive applicability date provisions. (FormerlySSB 1354.)  Effective 5-15-07.",
+      "dateSigned": "2007-05-15"
+    },
+    {
+      "billNumber": "HF 892",
+      "billTitle": "A bill for an act creating a film, television, and video project promotion program, providing tax credits and income exclusions, and including effective and retroactive applicability dates. Effective 5-17-07.",
+      "dateSigned": "2007-05-17"
+    },
+    {
+      "billNumber": "SF 340",
+      "billTitle": "A bill for an act relating to the consideration of inherited or gifted property in dissolution-of-marriage property division proceedings and including an effective date and an applicability provision.  (FormerlySSB 1093.)  Effective 5-21-07.",
+      "dateSigned": "2007-05-21"
+    },
+    {
+      "billNumber": "SF 403",
+      "billTitle": "A bill for an act addressing financial and regulatory matters by making and revising appropriations, providing for properly related matters, and providing effective dates.  (FormerlySSB 1247.)  Item vetoed.  Various effective dates; see sections 29 and 39 of bill.",
+      "dateSigned": "2007-05-21"
+    },
+    {
+      "billNumber": "SF 472",
+      "billTitle": "A bill for an act requiring the posting of close-clearance warning devices along railroad tracks and providing a penalty.  (FormerlySSB 1254.) Effective 7-1-07.",
+      "dateSigned": "2007-05-21"
+    },
+    {
+      "billNumber": "SF 566",
+      "billTitle": "A bill for an act relating to historic preservation and cultural and entertainment district tax credits, and providing applicability date provisions.  (FormerlySSB 1082&SF 98.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-21"
+    },
+    {
+      "billNumber": "HF 718",
+      "billTitle": "A bill for an act relating to cigarette fire safety standards, and providing penalties. Effective 7-01-07.",
+      "dateSigned": "2007-05-21"
+    },
+    {
+      "billNumber": "HF 864",
+      "billTitle": "A bill for an act providing for candidate physical ability tests for fire fighter applicants under the statewide fire and police retirement system and providing an effective date. Effective 7-01-08.",
+      "dateSigned": "2007-05-22"
+    },
+    {
+      "billNumber": "HF 890",
+      "billTitle": "A bill for an act relating to assistance for small businesses, making appropriations, and providing an effective date provision.  Effective 5-22-07.",
+      "dateSigned": "2007-05-22"
+    },
+    {
+      "billNumber": "HF 907",
+      "billTitle": "A bill for an act relating to and making appropriations from the healthy Iowans tobacco trust and the tobacco settlement trust fund and providing an effective date. Effective 5-23-07.",
+      "dateSigned": "2007-05-23"
+    },
+    {
+      "billNumber": "HF 918",
+      "billTitle": "A bill for an act establishing the office of energy independence and the Iowa power fund and related provisions, and providing an effective date. Effective 5-23-07.",
+      "dateSigned": "2007-05-23"
+    },
+    {
+      "billNumber": "HF 927",
+      "billTitle": "A bill for an act making appropriations for specified energy-related purposes and providing an effective date. Effective 5-23-07.",
+      "dateSigned": "2007-05-23"
+    },
+    {
+      "billNumber": "SJR 4",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of wine in the State Capitol, and the temporary display of ceremonial banners, in conjunction with the awards ceremony of the World Food Prize Foundation. Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SJR 5",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of alcoholic beverages on the state capitol complex grounds in conjunction with the Hy-Vee BG World Cup Triathlon, and providing an effective date. Effective 5-24-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SJR 6",
+      "billTitle": "A joint resolution approving the permanent acknowledgement of elementary and secondary schools and individual citizens of this state for their contributions of foliage and items to be permanently located on the west capitol terrace and other capitol grounds and providing an effective date. Effective 5-24-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 346",
+      "billTitle": "A bill for an act providing for the development of a uniform health insurance application form for use by small employers.  (FormerlySF 240.) Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 360",
+      "billTitle": "A bill for an act relating to the regulatory duties of the division of banking of the department of commerce regarding banking, debt management, mortgage banking, industrial loan companies, and professional licensing. (FormerlySSB 1178.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 499",
+      "billTitle": "A bill for an act relating to regulation of underground storage tanks by the department of natural resources, making appropriations, and providing contingent effective date provisions.  (FormerlySSB 1226.)  Various effective dates; see section 13 of bill.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 503",
+      "billTitle": "A bill for an act relating to regulation of children's services by the department of human services by increasing the age for certain children receiving child care regulated by the department and revising child welfare and juvenile justice service provisions.  (FormerlySSB 1238.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 510",
+      "billTitle": "A bill for an act concerning electrical and mechanical amusement devices and providing penalties.  (FormerlySSB 1180.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 557",
+      "billTitle": "A bill for an act relating to the regulation of credit unions by revising and reorganizing the Iowa credit union Act, making conforming changes, and providing for taxes, fees, and penalties.  (FormerlySF 38&SF 370.) Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 559",
+      "billTitle": "A bill for an act relating to cemetery and funeral merchandise, funeral services, and cemeteries and providing fees and penalties.  (FormerlySSB 1197.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 563",
+      "billTitle": "A bill for an act relating to and making appropriations to the judicial branch.  (FormerlySSB 1337.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 578",
+      "billTitle": "A bill for an act creating a Vietnam Conflict veterans bonus for a certain period of active duty military service, making an appropriation, providing a tax exemption and a penalty, and including a retroactive applicability provision.  (FormerlySSB 1317&SF 453.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 580",
+      "billTitle": "A bill for an act relating to a tax amnesty program, making appropriations, and including an effective date provision.  (FormerlySSB 1168.)  Effective 5-24-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 586",
+      "billTitle": "A bill for an act creating a special gold star motor vehicle registration plate and providing fees and an effective date.  (FormerlySSB 1352.) Effective 1-1-08.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 592",
+      "billTitle": "A bill for an act relating to the streamlined sales and use tax agreement and administration of the tax and related laws by the department of revenue, including administration of sales and use taxes, and providing an effective date.  (FormerlySSB 1353.) Various effective dates; see section 10 of bill.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 593",
+      "billTitle": "A bill for an act relating to court procedures including conciliation proceedings and civil and criminal fees, penalties, and protective orders. (FormerlySSB 1265&SF 395.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 396",
+      "billTitle": "A bill for an act expanding the scope of services under an existing appropriation for the community empowerment initiative involving preschool services and providing effective date and applicability provisions. Effective 5-24-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 556",
+      "billTitle": "A bill for an act establishing the Iowa propane education and research council, providing for the development of programs and projects related to propane, providing for an assessment on the sale of odorized propane, providing criminal penalties, and providing for a future repeal and for effective dates. Effective 5-24-07 with exception of section 4 effective 1-01-08.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 648",
+      "billTitle": "A bill for an act relating to distress criteria for enterprise zones. Effective 7-01-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 749",
+      "billTitle": "A bill for an act concerning existing and new special motor vehicle registration plates associated with military service, crediting fees from the sale of certain special motor vehicle registration plates to the emergency medical services fund and the veterans license fee fund, and providing effective dates. Effective 5-24-07 with exception of section 1 s.s. 7-8 and section 5 effective 1-01-08.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 904",
+      "billTitle": "A bill for an act relating to withholding tax and the repeal of the loan agencies tax. Effective 7-01-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 923",
+      "billTitle": "A bill for an act relating to the policy and technical administration of the tax and related laws by the department of revenue, including administration of income, sales, use, cigarette, and tobacco taxes, providing an effective date, and providing retroactive applicability date provisions. Effective 7-01-07 with exception of sections 27 and 47 effective 5-24-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "HF 924",
+      "billTitle": "A bill for an act relating to qualifications for licensure as a real estate broker or salesperson upon conviction of specified offenses. Effective 7-01-07.",
+      "dateSigned": "2007-05-24"
+    },
+    {
+      "billNumber": "SF 263",
+      "billTitle": "A bill for an act concerning gambling games on gambling structures. (FormerlySSB 1228.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 304",
+      "billTitle": "A bill for an act relating to the exercise of regulatory authority by the department of natural resources and the natural resource commission within the boundaries of the Sac and Fox tribe settlement in Tama county, and providing for applicability and effective dates.  (FormerlySF 239.) Effective 5-25-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 369",
+      "billTitle": "A bill for an act relating to voting machines and optical scan voting systems.  (FormerlySSB 1104.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 427",
+      "billTitle": "A bill for an act relating to the Iowa civil rights Act and discrimination based upon a person's sexual orientation or gender identity.  (FormerlySF 224.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 430",
+      "billTitle": "A bill for an act relating to a civil judgment, decree, or order of a court of a federally recognized Indian tribe and including an applicability provision.  (FormerlySSB 1189.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 512",
+      "billTitle": "A bill for an act relating to the regulation of pharmacy benefits managers and making penalties applicable, and providing an effective date.  (FormerlySSB 1089.)  Effective 1-1-08.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 558",
+      "billTitle": "A bill for an act providing for an increase in the wildlife habitat fee, making an appropriation, and creating a game bird habitat development program.  (FormerlySSB 1224&SF 255.)  Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 564",
+      "billTitle": "A bill for an act regulating dangerous wild animals, including their ownership and possession, requiring registration, providing for fees and appropriations, and providing penalties.  (FormerlySF 135&SF 511.) Effective 7-1-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "HF 641",
+      "billTitle": "A bill for an act relating to judicial branch practices and procedures, including issuance of a driver's license when delinquent on court obligations or after suspension or revocation, and distribution of court revenue to cities and counties, and the state, and including applicability provisions. Effective 7-01-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "HF 897",
+      "billTitle": "A bill for an act establishing statewide licensure and certification of electricians and installers, providing for inspections, establishing fees, and providing penalties. Effective 1-01-08 with exception of sections 2-3, 10-15, 16 s.s. 1 & 3 and 27 effective 5-25-07 and sections 33-44 effective 1-01-09.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "HF 908",
+      "billTitle": "A bill for an act relating to the licensing and regulation of plumbers and mechanical professionals, and providing an appropriation and penalties and providing an effective date.  Effective 7-01-08.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "HF 912",
+      "billTitle": "A bill for an act relating to providing sales, use, and property tax exemptions and refunds for certain computer-related service businesses. Effective 7-01-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "HF 932",
+      "billTitle": "A bill for an act relating to revenue for the construction and maintenance of roads. Effective 7-01-07.",
+      "dateSigned": "2007-05-25"
+    },
+    {
+      "billNumber": "SF 551",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government, by providing for agriculture, natural resources, and environmental protection.  (FormerlySSB 1305.)  Item veto.  Various effective dates; see section 15 of bill.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "SF 554",
+      "billTitle": "A bill for an act relating to franchises for the provision of cable service or video service including providing for fees and providing an effective date.  (FormerlySSB 1208&SF 368.)  Effective 5-29-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "SF 562",
+      "billTitle": "A bill for an act relating to and making appropriations to the department of cultural affairs, the department of economic development, certain board of regents institutions, the department of workforce development, the Iowa finance authority, and the public employment relations board, and related matters.  (FormerlySSB 1336.)  Item veto.  Effective 7-1-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "SF 575",
+      "billTitle": "A bill for an act relating to and making appropriations to the justice system.  (FormerlySSB 1338.)  Item veto.  Effective 7-1-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "SF 588",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, providing for related matters concerning the Iowa learning technology commission, providing for a related matter concerning participation in an instructional support program by school districts, and providing effective dates.  (FormerlySSB 1332.)  Item veto.  Various effective dates; see section 44 of bill.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "SF 601",
+      "billTitle": "A bill for an act relating to state and local finances by providing for funding of property tax credits and reimbursements, by making, increasing and reducing appropriations, providing for salaries and compensation of state employees, providing for tax credits, providing for fees and penalties, and providing for properly related matters, and including effective date provisions.  Item veto.  Various effective dates; see bill.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "HF 752",
+      "billTitle": "A bill for an act relating to and making transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund, and related matters.  Effective 7-01-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "HF 817",
+      "billTitle": "A bill for an act concerning the flag and veterans by providing for a study of regional veterans affairs offices, providing for the duties of the department of veterans affairs and the commission on veterans affairs, prohibiting certain acts involving the flag, establishing a counseling program for veterans, and providing a penalty. Effective 7-01-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "HF 874",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities and providing an effective date. Effective 7-01-07 with exception of section 24 effective 5-29-07.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "HF 909",
+      "billTitle": "A bill for an act relating to and making appropriations for health and human services and including other related provisions and appropriations, and including effective date provisions. Various effective dates, see bill.",
+      "dateSigned": "2007-05-29"
+    },
+    {
+      "billNumber": "HF 911",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, vertical infrastructure fund, the endowment for Iowa's health restricted capitals fund, and the technology reinvestment fund, and related matters, and providing an effective date. Various effective dates, see bill.",
+      "dateSigned": "2007-05-29"
+    }
+  ]
+}

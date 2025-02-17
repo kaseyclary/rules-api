@@ -1,0 +1,936 @@
+{
+  "year": 2006,
+  "totalBills": 186,
+  "bills": [
+    {
+      "billNumber": "HF 2080",
+      "billTitle": "A bill for an act revising and making appropriations involving veterans programs for the fiscal year beginning July 1, 2005, and providing an effective date. Effective 1-23-06.",
+      "dateSigned": "2006-01-23"
+    },
+    {
+      "billNumber": "HF 864",
+      "billTitle": "A bill for an act providing an exemption from and a refund of sales and use taxes on materials and services used in the construction of a building or addition to a building to be used as a collaborative educational facility and including effective and applicability date provisions. Effective 2-17-06.",
+      "dateSigned": "2006-02-17"
+    },
+    {
+      "billNumber": "HF 2050",
+      "billTitle": "A bill for an act relating to elections by making changes concerning requirements for entrances to certain polling places, arrangement of names on the ballot for nonpartisan offices, and election registers, and including effective and applicability date provisions. Effective 3-01-06.",
+      "dateSigned": "2006-03-02"
+    },
+    {
+      "billNumber": "HF 2051",
+      "billTitle": "A bill for an act relating to maintenance of a voter registration system separate from the state voter registration system and providing an effective date. Effective 3-01-06.",
+      "dateSigned": "2006-03-02"
+    },
+    {
+      "billNumber": "SF 2056",
+      "billTitle": "A bill for an act relating to the Honey creek premier destination park bond program and providing an effective date.  Effective 3-09-06.",
+      "dateSigned": "2006-03-09"
+    },
+    {
+      "billNumber": "HF 2238",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other federal grants, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. Effective 7-01-06.                 .",
+      "dateSigned": "2006-03-09"
+    },
+    {
+      "billNumber": "HF 2347",
+      "billTitle": "A bill for an act relating to the medical assistance provider payment adjustments, providing for transfer, appropriation, and deposit of funds, providing an effective date, and providing for retroactive applicability. Effective 3-09-06.",
+      "dateSigned": "2006-03-09"
+    },
+    {
+      "billNumber": "SF 2330",
+      "billTitle": "A bill for an act prohibiting monitor vending machines and providing an excise tax and an effective date.(FormerlySF 2142.) Effective 3-20-06.",
+      "dateSigned": "2006-03-20"
+    },
+    {
+      "billNumber": "SF 2124",
+      "billTitle": "A bill for an act providing for the establishment of a nutrition and physical activity community obesity prevention grant program, and providing a contingent effective date.  Effective upon receipt of funding.",
+      "dateSigned": "2006-03-21"
+    },
+    {
+      "billNumber": "SF 2232",
+      "billTitle": "A bill for an act relating to and making transportation and other infrastructure-related appropriations to the state department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund.  (FormerlySSB 3090.) Effective 7-1-06.",
+      "dateSigned": "2006-03-21"
+    },
+    {
+      "billNumber": "SF 2285",
+      "billTitle": "A bill for an act relating to the distribution of a presentence investigation report in a criminal proceeding.  (FormerlySSB 3089.) Effective 7-1-06.",
+      "dateSigned": "2006-03-21"
+    },
+    {
+      "billNumber": "HF 2464",
+      "billTitle": "A bill for an act authorizing an approved nursing education program to initiate criminal and child and dependent adult abuse record checks of students and prospective students regarding the students' involvement with the clinical education component of the program.  Effective 7-01-06.",
+      "dateSigned": "2006-03-21"
+    },
+    {
+      "billNumber": "SF 2147",
+      "billTitle": "A bill for an act relating to the requirement of location as an eligibility criterion for businesses under the enterprise zone program and providing an effective date.  Effective 3-22-06.",
+      "dateSigned": "2006-03-22"
+    },
+    {
+      "billNumber": "HF 2543",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections and including effective and retroactive applicability date provisions.  Effective 7-01-06, with exception of Sections 169-175 effective 3-22-06.",
+      "dateSigned": "2006-03-22"
+    },
+    {
+      "billNumber": "SF 2273",
+      "billTitle": "A bill for an act relating to financial and regulatory matters by making and revising appropriations for the fiscal year beginning July 1, 2005, and providing an effective date.  (FormerlySSB 3158.)  Effective 3-29-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "SF 2316",
+      "billTitle": "A bill for an act relating to the procedures for filing administrative rules.  (FormerlySF 2216.)  Effective 7-1-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2177",
+      "billTitle": "A bill for an act requiring the county auditor to evidence approval of the name of a subdivision plat and requiring such statement for filing the subdivision plat with the county recorder. Effective 7-01-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2465",
+      "billTitle": "A bill for an act relating to the determination of the holding period for purposes of certain capital gains under the individual income tax and including effective and retroactive applicability date provisions. Effective 7-01-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2541",
+      "billTitle": "A bill for an act eliminating certain duties of the department of natural resources. Effective 7-01-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2587",
+      "billTitle": "A bill for an act relating to financial institutions including the regulation of state banks, bank holding companies, and industrial loan companies, and providing for penalties. Effective 7-01-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2644",
+      "billTitle": "A bill for an act relating to department of human services' technical requirements involving individual development accounts, family investment program limited benefit plans, paternity establishment definitions, and the state child care assistance program, and including effective date and retroactive applicability provisions. Effective 7-01-06, with exception of Division I effective 3-29-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "HF 2713",
+      "billTitle": "A bill for an act changing the bid threshold requirement for certain public improvement contracts and providing for an effective date. Effective 1-01-07, with exceptions of Sections 24, 28, and 29 effective 3-29-06.",
+      "dateSigned": "2006-03-29"
+    },
+    {
+      "billNumber": "SF 2194",
+      "billTitle": "A bill for an act relating to county, city, and school board publication of allowed claims.  (FormerlySF 2072.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "SF 2207",
+      "billTitle": "A bill for an act relating to the publication of official notices in English language newspapers.  (FormerlySF 2125.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "SF 2231",
+      "billTitle": "A bill for an act concerning accrued sick leave and the conversion of sick leave for state employees. (FormerlySSB 3138.) Effective 7-1-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "SF 2267",
+      "billTitle": "A bill for an act relating to safe motor vehicle operation, including penalties for certain motor vehicle violations causing death or serious injury and classroom instruction for driver education courses.  (FormerlySF 2121.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "SF 2289",
+      "billTitle": "A bill for an act relating to identification of publicly owned motor vehicles used by persons who provide off-site or in-home medical or mental health services.  (FormerlySF 2159.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "HF 537",
+      "billTitle": "A bill for an act relating to the investment of public funds by the treasurer of state, state agencies, and political subdivisions including the investment of public funds not covered by federal deposit insurance in certificates of deposit. Effective 7-01-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "HF 2505",
+      "billTitle": "A bill for an act authorizing the labor commissioner to represent laborers or employees seeking wage claims in pending receivership or seizure actions and providing an applicability date. Effective 7-01-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "HF 2507",
+      "billTitle": "A bill for an act relating to priority of labor or wage claims over other debts when an employer's property is placed in receivership or otherwise seized by creditors. Effective 7-01-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "HF 2611",
+      "billTitle": "A bill for an act authorizing the department of natural resources to issue a fishing permit to certain students. Effective 7-01-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "HF 2696",
+      "billTitle": "A bill for an act relating to the disposal of a controlled substance. Effective 7-01-06.",
+      "dateSigned": "2006-04-06"
+    },
+    {
+      "billNumber": "SF 2199",
+      "billTitle": "A bill for an act concerning the purchase of service under the Iowa department of public safety peace officers' retirement, accident, and disability system.  (FormerlySF 2018.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "SF 2252",
+      "billTitle": "A bill for an act relating to adoption petitions and proceedings including the information required to be included in an adoption petition.  (FormerlySSB 3092.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "SF 2253",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective and retroactive applicability date provisions.  (FormerlySSB 3144.) Effective 7-1-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "SF 2264",
+      "billTitle": "A bill for an act relating to the duties of county recorders and county auditors concerning instruments affecting real estate and certain other filings recorded by the county recorder.  (FormerlySSB 3133.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "SF 2305",
+      "billTitle": "A bill for an act concerning wine, including the allowable alcohol content of wine and inspection of certain wine permittees.  (FormerlySSB 3182.) Effective 7-1-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "HF 2333",
+      "billTitle": "A bill for an act prohibiting a person or club holding a liquor control license or retail wine or beer permit from distributing or possessing machines used to vaporize an alcoholic beverage for consumption and making penalties applicable. Effective 7-01-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "HF 2337",
+      "billTitle": "A bill for an act relating to the use of a peace officer of the department of public safety in an industrial dispute and providing an effective date. Effective 4-07-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "HF 2512",
+      "billTitle": "A bill for an act relating to the jurisdiction of the ethics and campaign disclosure board and including effective date and retroactive applicability provisions and subjecting violators to remedies and penalties. Effective 7-01-06, with exception of Sections 2 and 4 effective 4-07-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "HF 2569",
+      "billTitle": "A bill for an act relating to the operation of all-terrain vehicles on the highway for limited purposes. Effective 7-01-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "HF 2695",
+      "billTitle": "A bill for an act relating to landlords and tenants including notice requirements to terminate a periodic tenancy, representation of an owner of residential rental property in small claims court, and service of a petition for forcible entry and detainer by publication. Effective 7-01-06.",
+      "dateSigned": "2006-04-07"
+    },
+    {
+      "billNumber": "SF 2087",
+      "billTitle": "A bill for an act relating to an increase in per diem paid to trustees of sanitary districts.  (FormerlySF 2016.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2275",
+      "billTitle": "A bill for an act relating to debt cancellation coverage offered by banks and credit unions.  (FormerlySSB 3175.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2299",
+      "billTitle": "A bill for an act relating to credit unions and other financial organizations by providing for public funds requirements, membership qualifications, and preservation of records.  (FormerlySSB 3213.) Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2304",
+      "billTitle": "A bill for an act relating to indigent defense claims and the reimbursement of costs in juvenile cases paid by a county.  (FormerlySSB 3033.) Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2338",
+      "billTitle": "A bill for an act modifying provisions relating to utilization of indirect cost reimbursements in appropriations to the office of grants enterprise management of the department of management, and making an appropriation. (FormerlySSB 3118.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2353",
+      "billTitle": "A bill for an act relating to debt management, mortgage bankers and brokers, delayed deposit services, regulated loans, and industrial loans, and providing for fees and penalties.  (FormerlySSB 3139.) Effective 7-1-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "HF 2171",
+      "billTitle": "A bill for an act allowing fishing without a license for certain persons who fish in a supervised group. Effective 7-01-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "HF 2462",
+      "billTitle": "A bill for an act relating to the number of eligible electors' signatures necessary in a school district to propose at a regular election the question of providing free textbooks for the use of the school district's pupils. Effective 7-01-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "HF 2493",
+      "billTitle": "A bill for an act providing for the establishment of a viral hepatitis program and study. Effective 7-01-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "HF 2509",
+      "billTitle": "A bill for an act relating to financial education for applicants for and participants in the family investment program. Effective 7-01-06.",
+      "dateSigned": "2006-04-11"
+    },
+    {
+      "billNumber": "SF 2320",
+      "billTitle": "A bill for an act relating to the development of an Iowa studies professional development plan and the establishment of an Iowa studies committee.  (FormerlySF 27.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "SF 2327",
+      "billTitle": "A bill for an act relating to access to confidential information used to secure an arrest warrant.  (FormerlySSB 3152.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "SF 2343",
+      "billTitle": "A bill for an act revising the membership requirements for the child advocacy board.  (FormerlySSB 3013.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "SF 2344",
+      "billTitle": "A bill for an act requiring development of a uniform application form for small employer group health insurance coverage.  (FormerlySSB 3242.) Effective 7-1-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "SF 2358",
+      "billTitle": "A bill for an act relating to the administrative duties of the state board of regents.  (FormerlySF 2176.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2522",
+      "billTitle": "A bill for an act relating to the assessment of a fee when filing a praecipe. Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2586",
+      "billTitle": "A bill for an act relating to the collection of liquidated debts owed to and various authorizations issued by the labor commissioner. Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2590",
+      "billTitle": "A bill for an act providing for the confidentiality of information concerning security procedures or emergency preparedness information developed and maintained by a government body.  Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2632",
+      "billTitle": "A bill for an act relating to real estate, including real estate broker and salesperson licensing and real estate disclosures.  Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2635",
+      "billTitle": "A bill for an act relating to drainage and levee districts by providing for the publication of notice and the letting of bids.  Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2679",
+      "billTitle": "A bill for an act relating to agricultural drainage wells by providing for the implementation of water quality practices as an alternative to constructing alternative drainage systems.  Effective 7-01-06.",
+      "dateSigned": "2006-04-12"
+    },
+    {
+      "billNumber": "HF 2365",
+      "billTitle": "A bill for an act relating to committing disorderly conduct near a military funeral, memorial service, funeral procession, or burial, and providing penalties. Effective 4-17-06.",
+      "dateSigned": "2006-04-17"
+    },
+    {
+      "billNumber": "SF 2341",
+      "billTitle": "A bill for an act relating to county processing of orders for observation, evaluation, and treatment of public patients at the state psychiatric hospital at the state university of Iowa.  (FormerlySSB 3032.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "SF 2342",
+      "billTitle": "A bill for an act relating to the appointment of district associate judges and magistrates.  (FormerlySSB 3105.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "SF 2368",
+      "billTitle": "A bill for an act concerning alcoholic beverage control relating to manufacturers providing free cleaning services to retailers.  (FormerlySSB 3140.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "SF 2378",
+      "billTitle": "A bill for an act providing for the conversion of cooperative associations, and providing for an effective date.  (FormerlySSB 3237.)  Effective 4-20-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "SF 2381",
+      "billTitle": "A bill for an act relating to combustion of solid waste with energy recovery.  (FormerlySSB 3231.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 590",
+      "billTitle": "A bill for an act providing for special senior crossbow deer hunting licenses. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2240",
+      "billTitle": "A bill for an act relating to county board of supervisor vacancies. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2492",
+      "billTitle": "A bill for an act relating to the costs of services provided to persons with mental retardation whose service costs are a state responsibility. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2506",
+      "billTitle": "A bill for an act relating to the issuance of identity theft passports by the attorney general. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2525",
+      "billTitle": "A bill for an act relating to policies and duties of the state department of transportation, including placement of official signs on primary highways, inspection of bridges, administrative duties, motor vehicle registration and titling, driver licensing, licensing and regulation of vehicle-related businesses, vehicle braking requirements, vehicle length restrictions, proof of financial responsibility requirements, and persons with disabilities parking permits, and including effective dates. Effective 7-01-06, with exception of Sections 6, 10, and 16 effective 4-20-06 and Division IV effective 1-01-07.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2588",
+      "billTitle": "A bill for an act relating to the criminal and abuse registry checks required of a person employed by a licensed health care facility. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2654",
+      "billTitle": "A bill for an act relating to the powers and duties of the county treasurer and including effective and applicability date provisions. Effective 7-01-06, with exception of Sections 1, 8, 15, 19, 25, 27-28, and 30 effective 4-20-06 and Sections 9-12 effective 1-01-07 and Section 5 effective 7-01-07.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2672",
+      "billTitle": "A bill for an act relating to payment of attorney fees in termination of parental rights proceedings, providing an effective date, and providing for retroactive applicability. Effective 4-20-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2705",
+      "billTitle": "A bill for an act providing for changes relating to specified aspects of the operation of the department of administrative services. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "HF 2712",
+      "billTitle": "A bill for an act establishing a deferred retirement option plan for members of the statewide fire and police retirement system and including an implementation provision. Effective 7-01-06.",
+      "dateSigned": "2006-04-20"
+    },
+    {
+      "billNumber": "SJR 2001",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of wine in the State Capitol in conjunction with the awards ceremony of the World Food Prize Foundation.  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2219",
+      "billTitle": "A bill for an act relating to human trafficking and related offenses, including the provision of law enforcement training and victim assistance programs, providing penalties, and providing for a study.  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2262",
+      "billTitle": "A bill for an act relating to the prepayment of agricultural loans secured by a real estate mortgage.  (FormerlySSB 3022.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2290",
+      "billTitle": "A bill for an act relating to the payment of costs of reasonable attorney fees and other expenses related to certain adoption proceedings.  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2292",
+      "billTitle": "A bill for an act relating to farm tenancies.  (FormerlySSB 3159.) Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2318",
+      "billTitle": "A bill for an act relating to an exception from emergency medical care requirements for persons providing care within the scope of their certification.  (FormerlySF 2112.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2322",
+      "billTitle": "A bill for an act relating to the investigation and control of communicable and infectious diseases and notification procedures concerning diseases, health conditions, unusual clusters, or suspicious events which may be the cause of a public health disaster. (FormerlySSB 3220.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "HF 2147",
+      "billTitle": "A bill for an act relating to the temporary appointment of a conservator for a dependent adult in an emergency situation.  Effective 7-01-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "HF 2233",
+      "billTitle": "A bill for an act relating to the time limit on executions of judgments and orders for wage garnishments. Effective 7-01-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "HF 2398",
+      "billTitle": "A bill for an act relating to criminal penalties for a driver convicted of failure to stop and render aid at the scene of a motor vehicle accident. Effective 7-01-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "HF 2508",
+      "billTitle": "A bill for an act relating to direct deposit of wages and creating an exception to the payday information employers are required to provide each employee under the Iowa wage payment collection law and providing for retroactive applicability. Effective 7-01-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "HF 2624",
+      "billTitle": "A bill for an act extending the statute of limitations for the filing of an indictment or information in a felony or aggravated or serious misdemeanor proceeding involving DNA profiling. Effective 7-01-06.",
+      "dateSigned": "2006-04-21"
+    },
+    {
+      "billNumber": "SF 2251",
+      "billTitle": "A bill for an act directing the department of education and the Iowa department of public health to convene a healthy children task force and providing an effective date.  (FormerlySF 2190.) Effective 4-26-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2301",
+      "billTitle": "A bill for an act relating to exemptions for certain personal property from execution by creditors in state court debt collection and federal bankruptcy actions.  (FormerlySSB 3002.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2319",
+      "billTitle": "A bill for an act relating to littering and illegal discarding of solid waste and increasing fines and penalties and making appropriations. (FormerlySF 2089.)  Effective 7-1-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2369",
+      "billTitle": "A bill for an act relating to requirements for open feedlot operations, by providing for nutrient management plans, stockpiling of solids, and operating permits, and providing an effective date and retroactive applicability. (FormerlySSB 3240.) Effective 4-26-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2374",
+      "billTitle": "A bill for an act containing various provisions relating to business entities, including limited partnerships, corporations, limited liability companies, cooperatives, and nonprofit corporations.  Effective 7-1-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2394",
+      "billTitle": "A bill for an act relating to manufactured or mobile home regulation, and including fee, penalty, and effective date provisions.  (FormerlySSB 3254.) Various effective dates; see section 26 of bill.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 729",
+      "billTitle": "A bill for an act relating to the Iowa public employees' retirement system and the judicial retirement system. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2245",
+      "billTitle": "A bill for an act concerning the Iowa public employees' retirement system and the statewide fire and police retirement system, and providing an effective and retroactive applicability date.  Effective 7-01-06, with exception of Section 4 effective 4-26-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2330",
+      "billTitle": "A bill for an act relating to the allowed growth factor adjustment funding for county mental health, mental retardation, and developmental disabilities services funds and including effective date and retroactive applicability provisions. Effective 4-26-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2331",
+      "billTitle": "A bill for an act to eliminate certain restrictions on the authority of a physician assistant to prescribe certain schedule II controlled substances. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2361",
+      "billTitle": "A bill for an act relating to energy conservation standards included in the state building code for new single-family or two-family residential construction. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2463",
+      "billTitle": "A bill for an act relating to adoption and termination of jurisdiction of a court involving prior child support and custody proceedings. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2515",
+      "billTitle": "A bill for an act relating to obstructions in highways and providing penalties. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2564",
+      "billTitle": "A bill for an act relating to notification of parents, guardians, or custodians of children receiving child care from an unregistered child care home when it is determined that child abuse involving the home has occurred. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2565",
+      "billTitle": "A bill for an act requiring the department of human services to implement an electronic payment system for the state child care assistance program. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2613",
+      "billTitle": "A bill for an act concerning programs and reports related to economic development. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2652",
+      "billTitle": "A bill for an act relating to civil and criminal procedure including the issuance of and violations of certain civil protective orders and criminal no-contact orders. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2663",
+      "billTitle": "A bill for an act relating to jurisdiction of the natural resource commission over certain lakebeds and riverbeds. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2665",
+      "billTitle": "A bill for an act concerning the line of duty death benefit payable to public safety providers. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2742",
+      "billTitle": "A bill for an act relating to the probate and trust codes.  Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "HF 2768",
+      "billTitle": "A bill for an act authorizing the state medical examiner to collect and retain fees for medical examiner facility expenses and services related to tissue recovery and making an appropriation. Effective 7-01-06.",
+      "dateSigned": "2006-04-26"
+    },
+    {
+      "billNumber": "SF 2312",
+      "billTitle": "A bill for an act providing grants on behalf of veterans seriously injured in a combat zone, providing income tax exclusions, and including an effective date and retroactive applicability provision.(FormerlySSB 3137.) Various effective dates; see section 4 of bill.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "SF 2333",
+      "billTitle": "A bill for an act relating to the transfer of veterans commemorative property placed in a cemetery, recodifying a provision regarding veteran markers, and providing a penalty.  (FormerlySF 2064.)  Effective 7-1-06.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "HF 2244",
+      "billTitle": "A bill for an act relating to hunting and fishing licenses for certain veterans. Effective 7-01-06.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "HF 2363",
+      "billTitle": "A bill for an act relating to the process utilized in assessing residents of health care facilities for veterans program benefits.  Effective 7-01-06.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "HF 2708",
+      "billTitle": "A bill for an act concerning the veterans trust fund by providing for the minimum balance necessary in order to expend funds from the veterans trust fund and providing for an annual report concerning the fund. Effective 7-01-06.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "HF 2751",
+      "billTitle": "A bill for an act relating to eligibility for the military service property tax credit and exemption and including effective and applicability date provisions. Effective 5-08-06.",
+      "dateSigned": "2006-05-08"
+    },
+    {
+      "billNumber": "SF 2408",
+      "billTitle": "A bill for an act relating to elderly income tax relief by providing for an elderly taxpayer income tax exclusion and the phasing out of the income tax on social security benefits and including effective and applicability date provisions.  (FormerlySSB 3278.)  Various effective dates; see section 5 of bill.",
+      "dateSigned": "2006-05-22"
+    },
+    {
+      "billNumber": "HF 2002",
+      "billTitle": "A bill for an act increasing the standing amount required to be appropriated, reverted, or transferred to the credit of the senior living trust fund and including effective and retroactive applicability date provisions. Effective 5-22-06.",
+      "dateSigned": "2006-05-22"
+    },
+    {
+      "billNumber": "HF 2319",
+      "billTitle": "A bill for an act relating to the personal needs allowance amount for residents of nursing facilities under the medical assistance program. Effective 7-01-06.",
+      "dateSigned": "2006-05-22"
+    },
+    {
+      "billNumber": "HF 2772",
+      "billTitle": "A bill for an act creating a brain injury services program and providing for allocation of a previously enacted appropriation.  Effective 7-01-06.",
+      "dateSigned": "2006-05-23"
+    },
+    {
+      "billNumber": "HF 2780",
+      "billTitle": "A bill for an act relating to persons with mental illness, mental retardation, developmental disabilities, or brain injury by addressing purposes and quality standards for services and other support available for such persons, establishing basic financial eligibility standards, addressing state and county financial responsibility for the cost of the services and other support, and providing effective and applicability dates. Effective 7-01-06, with exception of Section 17 effective 7-01-07 and Section 19 effective 5-23-06.",
+      "dateSigned": "2006-05-23"
+    },
+    {
+      "billNumber": "SF 2362",
+      "billTitle": "A bill for an act relating to involuntary hospitalization proceedings for chronic substance abusers and persons with mental illness.  (FormerlySSB 3030.)  Effective 7-1-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "SF 2364",
+      "billTitle": "A bill for an act relating to various matters under the purview of the insurance division of the department of commerce including the securities and regulated industries bureau, insurance premium taxes, the uniform securities Act, insurance division procedures including fees and an appropriation, regulation of insurance companies and other entities including administrative penalties, motor vehicle service contracts, county and state mutual insurance associations, reciprocal or interinsurance insurers, consolidation, merger and reinsurance contracts, insurance holding company systems, and cemeteries.  Effective 7-1-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 711",
+      "billTitle": "A bill for an act relating to judicial branch procedures involving the appointment process of certain officers and judges and applications for further review at the appellate level, and providing for temporary delays in filling judgeships.  Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2332",
+      "billTitle": "A bill for an act relating to income withholding under the child support recovery program. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2362",
+      "billTitle": "A bill for an act providing for reassignment of a salvage certificate of title for a motor vehicle. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2546",
+      "billTitle": "A bill for an act relating to public and private landowners' immunity from premises liability during urban deer control hunts authorized by municipal ordinances. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2562",
+      "billTitle": "A bill for an act to make electronic mail and telephone billing records of law enforcement agencies confidential if that information is part of an investigation. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2567",
+      "billTitle": "A bill for an act creating a multidimensional treatment level foster care program. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2612",
+      "billTitle": "A bill for an act providing criminal penalties for the failure of a vessel operator to offer assistance and information at the scene of a collision, accident, or casualty. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2633",
+      "billTitle": "A bill for an act relating to the definition of recycling property for purposes of the property tax exemption for pollution-control or recycling property and providing an applicability date. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2686",
+      "billTitle": "A bill for an act providing for technical and substantive changes relating to the Iowa communications network. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2706",
+      "billTitle": "A bill for an act providing for the confidentiality of certain records relating to charitable donations for the benefit of a government body. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2716",
+      "billTitle": "A bill for an act relating to civil actions for personal injury or death, including certain evidentiary, reporting, and procedural requirements. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2740",
+      "billTitle": "A bill for an act relating to the judicial branch and court administration and procedure and providing a penalty. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2774",
+      "billTitle": "A bill for an act relating to trust and agency funds by allowing city contributions for pension and related employee benefits pursuant to contracted public safety services. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2777",
+      "billTitle": "A bill for an act relating to certification to the county auditor of the amount of loans, advances, indebtedness, or bonds issued or incurred for urban renewal purposes. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "HF 2786",
+      "billTitle": "A bill for an act relating to civil actions and the foreclosure of real estate mortgages, and providing fees. Effective 7-01-06.",
+      "dateSigned": "2006-05-24"
+    },
+    {
+      "billNumber": "SF 2183",
+      "billTitle": "A bill for an act relating to the certification of enterprise zones and incentives and assistance under the enterprise zone program and including effective date and retroactive applicability provisions.  (FormerlySF 77.) Effective 5-30-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "SF 2398",
+      "billTitle": "A bill for an act providing a sales tax exemption for purchases of solar energy equipment.  (FormerlySF 2077.)  Effective 7-1-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "SF 2399",
+      "billTitle": "A bill for an act relating to renewable energy including the renewable energy tax credit and the wind energy production tax credit and including effective dates.  (FormerlySF 2133&SF 2325.)  Various effective dates; see section 12 of bill.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "SF 2402",
+      "billTitle": "A bill for an act relating to state tax benefits for use of soy-based transformer fluid by electric utilities and including applicability date provisions.  (FormerlySSB 3162&SF 2256.) Effective 7-1-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 540",
+      "billTitle": "A bill for an act relating to reports of traffic accidents involving certified law enforcement officers and other emergency responders. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2282",
+      "billTitle": "A bill for an act relating to the election of mayor and city council members in a city governed by the council-manager-at-large form of city government. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2395",
+      "billTitle": "A bill for an act directing the state board of regents to conduct a study of the admissions requirements common to the state universities. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2461",
+      "billTitle": "A bill for an act updating the Code references to the Internal Revenue Code and including retroactive applicability and effective date provisions. Effective 5-30-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2557",
+      "billTitle": "A bill for an act relating to and making appropriations to the judicial branch. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2731",
+      "billTitle": "A bill for an act relating to a targeted jobs withholding tax credit to be used for funding improvements in certain urban renewal areas. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2754",
+      "billTitle": "A bill for an act relating to the formulation of motor fuel, by providing for renewable fuel including ethanol blended fuel and biodiesel blended fuel, providing incentives for infrastructure used to store and dispense renewable fuel, providing for income tax credits and excise taxes, providing for penalties, and providing effective and applicability dates, including retroactive applicability. Effective 7-01-06, with exception of Sections 21-24 effective 5-30-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2759",
+      "billTitle": "A bill for an act providing for the appropriation of moneys to support renewable fuel infrastructure, and providing a contingent effective date. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2765",
+      "billTitle": "A bill for an act concerning the military division of the department of public defense. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "HF 2775",
+      "billTitle": "A bill for an act relating to the judicial branch including the assessment of court fees and costs. Effective 7-01-06.",
+      "dateSigned": "2006-05-30"
+    },
+    {
+      "billNumber": "SF 2363",
+      "billTitle": "A bill for an act relating to water quality standards.  (FormerlySSB 3069.) Effective 7-1-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "SF 2391",
+      "billTitle": "A bill for an act relating to the assessment for property taxation purposes of machinery, equipment, and fixtures used at concrete mixing facilities and hot mix asphalt facilities and including effective date and retroactive applicability date provisions.  (FormerlySSB 3197.)  Effective 5-31-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 722",
+      "billTitle": "A bill for an act providing for the creation of an electronic drug database, establishing fees, providing penalties, and providing an effective date. Effective 5-31-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2459",
+      "billTitle": "A bill for an act relating to and making appropriations to the department of economic development, certain board of regents institutions, the department of workforce development, the Iowa finance authority, and the public employment relations board, and related matters, and providing effective and retroactive applicability dates. Effective 7-01-06, with exception of Section 20 effective 5-31-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2521",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters and providing an effective date. Effective 7-01-06, with exception of Section 25 effective 5-31-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2540",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government, including provisions affecting agriculture and natural resources and providing fees. Effective 7-01-06, with exception of Sections 10 and 16 effective 5-31-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2571",
+      "billTitle": "A bill for an act relating to the confidentiality and release of an intelligence assessment or intelligence data. Effective 7-01-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2593",
+      "billTitle": "A bill for an act relating to activities of lobbyists and the ethical conduct of state officials and employees. Effective 7-01-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2697",
+      "billTitle": "A bill for an act relating to the confinement of a prisoner in a municipal holding facility or county jail. Effective 7-01-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2782",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, environment first fund, tobacco settlement trust fund, vertical infrastructure fund, the endowment for Iowa's health restricted capitals fund, the technology reinvestment fund, the endowment for Iowa's health account, and related matters. Various effective dates, see bill.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "HF 2791",
+      "billTitle": "A bill for an act concerning community foundations and economic development relating to the endow Iowa tax credit, the allocation of gambling tax revenues, the distribution of county endowment moneys, making an appropriation, and providing an effective date.  Effective 7-01-06.",
+      "dateSigned": "2006-05-31"
+    },
+    {
+      "billNumber": "SF 2272",
+      "billTitle": "A bill for an act relating to the duties and operations of the state board of education, the department of education, the board of educational examiners, and local school boards.  Various effective dates; see section 57 of bill.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "SF 2410",
+      "billTitle": "A bill for an act relating to government accountability and concerning service contract requirements, contractual requirements for certain entities receiving public moneys, requirements for joint agreements involving governmental entities, additional review by the auditor of state, the authority of the citizens' aide, employment rights of employees making a disclosure of information, and the authority of the legislative oversight committee, and including an implementation provision and making penalties applicable.  Effective 7-1-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2095",
+      "billTitle": "A bill for an act providing for the establishment of the state percent of growth for purposes of the state school foundation program and providing an applicability date. Effective 7-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2527",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of cultural affairs, the department of education, and the state board of regents and including effective and retroactive applicability dates. Effective 7-01-06, with exception of Section 17 effective 7-01-08 and Division II effective 6-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2743",
+      "billTitle": "A bill for an act relating to and making appropriations from the healthy Iowans tobacco trust and the tobacco settlement trust fund.  Effective 7-01-06, with exception of Section 8 effective 6-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2748",
+      "billTitle": "A bill for an act providing for the retention of fees by licensing boards, and the bureau of radiological health, under the purview of the Iowa department of public health, providing for the nontransferability of specified fees, and providing effective dates. Effective 7-01-07, with exception of Section 2 s.s. a effective 6-01-06 and Sections 3 and 5 effective 7-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2764",
+      "billTitle": "A bill for an act authorizing a school district to share its portion of incremental property taxes with a contiguous school district. Effective 7-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2769",
+      "billTitle": "A bill for an act relating to the community empowerment initiative and making an appropriation. Effective 7-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2792",
+      "billTitle": "A bill for an act providing for a statewide core curriculum and standards study. Effective 7-01-06, with exception of Sections 38-41, 44-46 and 51 effective 6-01-06.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "HF 2794",
+      "billTitle": "A bill for an act relating to the policy and technical administration of the tax and related laws by the department of revenue, including administration of and tax exemptions under the income, sales, use, local option sales, and property taxes, updating the streamlined sales and use tax, and including effective and retroactive applicability date provisions. Effective 7-01-06, with exception of Sections 56, 59, 66, 75-76 and 79 effective 6-01-06 and Division II effective 1-01-08.",
+      "dateSigned": "2006-06-01"
+    },
+    {
+      "billNumber": "SF 2217",
+      "billTitle": "A bill for an act relating to health and human services programs and procedures involving compliance with privacy laws applicable to mental health, mental retardation, developmental disabilities, and brain injury services data, medical assistance program eligibility, creation of an electronic health records system task force, foster parent training, young adults transitioning from foster care, and persons with a developmental disability or other special need and the persons' families, and involuntary hospitalization proceedings.  Effective 7-1-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "SF 2249",
+      "billTitle": "A bill for an act relating to the rights and responsibilities of a person providing family foster care.  (FormerlySF 38.)  Effective 7-1-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "SF 2268",
+      "billTitle": "A bill for an act relating to financial transactions associated with agricultural production, by providing for tax credits and tax exemptions, and including effective and retroactive and other applicability dates. (FormerlySSB 3125.)  Various effective dates; see section 7 of bill.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "SF 2390",
+      "billTitle": "A bill for an act relating to the sales and use tax exemption for central office equipment and transmission equipment used in telecommunications operations.  (FormerlySSB 1060.)  Effective 7-1-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "SF 2409",
+      "billTitle": "A bill for an act allowing individual income tax credits for contributions made to certain school tuition organizations and including effective and retroactive applicability date provisions.  (FormerlySSB 3279.)  Effective 6-2-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2558",
+      "billTitle": "A bill for an act relating to and making appropriations to the justice system and providing an effective date. Effective 7-01-06, with exception of Section 21 effective 6-02-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2651",
+      "billTitle": "A bill for an act relating to a restitution order in a juvenile delinquency proceeding. Effective 7-01-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2661",
+      "billTitle": "A bill for an act relating to the linked investments for tomorrow Act. Effective 7-01-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2734",
+      "billTitle": "A bill for an act relating to and making appropriations to the department of human services, the department of elder affairs, the Iowa department of public health, the department of veterans affairs and the Iowa veterans home, and the department of inspections and appeals, providing for fee increases, and including other related provisions and appropriations, and providing effective dates. Various effective dates, see bill.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2789",
+      "billTitle": "A bill for an act relating to assessing court costs and modifying speeding fines, providing for indigent defense, and making appropriations to the judicial branch and department of inspections and appeals. Effective 7-01-06.",
+      "dateSigned": "2006-06-02"
+    },
+    {
+      "billNumber": "HF 2797",
+      "billTitle": "A bill for an act relating to state and local finances by providing for funding of property tax credits and reimbursements, by making, increasing, reducing, and transferring appropriations, providing for salaries and compensation of state employees, providing for fees and penalties, providing tax exemptions, and providing for properly related matters, and including effective and retroactive applicability date provisions. Effective 7-01-06, with exception of Sections 5, 7, and 9 effective 6-02-06.",
+      "dateSigned": "2006-06-02"
+    }
+  ]
+}

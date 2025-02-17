@@ -1,0 +1,685 @@
+{
+    "year": "2024",
+    "agencies": [
+        {
+            "agency": "Attorney General",
+            "agency_id": "61",
+            "total_words": 58696,
+            "rule_count": 220,
+            "avg_words_per_rule": 266.8,
+            "complexity_index": 47.44
+        },
+        {
+            "agency": "Secretary of State",
+            "agency_id": "721",
+            "total_words": 130817,
+            "rule_count": 411,
+            "avg_words_per_rule": 318.28953771289537,
+            "complexity_index": 52.1
+        },
+        {
+            "agency": "Ombudsman",
+            "agency_id": "141",
+            "total_words": 10763,
+            "rule_count": 44,
+            "avg_words_per_rule": 244.61363636363637,
+            "complexity_index": 45.15
+        },
+        {
+            "agency": "City Finance Committee",
+            "agency_id": "545",
+            "total_words": 6253,
+            "rule_count": 56,
+            "avg_words_per_rule": 111.66071428571429,
+            "complexity_index": 24.44
+        },
+        {
+            "agency": "Educational Examiners Board",
+            "agency_id": "282",
+            "total_words": 91021,
+            "rule_count": 142,
+            "avg_words_per_rule": 640.9929577464789,
+            "complexity_index": 70.57
+        },
+        {
+            "agency": "Chief Information Officer Office of the",
+            "agency_id": "129",
+            "total_words": 66948,
+            "rule_count": 161,
+            "avg_words_per_rule": 415.82608695652175,
+            "complexity_index": 59.15
+        },
+        {
+            "agency": "Human Rights Department",
+            "agency_id": "421",
+            "total_words": 21651,
+            "rule_count": 90,
+            "avg_words_per_rule": 240.56666666666666,
+            "complexity_index": 44.7
+        },
+        {
+            "agency": "School Budget Review Committee",
+            "agency_id": "289",
+            "total_words": 8355,
+            "rule_count": 49,
+            "avg_words_per_rule": 170.51020408163265,
+            "complexity_index": 35.62
+        },
+        {
+            "agency": "Workforce Development Board and Workforce Development Center Administration Division",
+            "agency_id": "877",
+            "total_words": 117876,
+            "rule_count": 328,
+            "avg_words_per_rule": 359.3780487804878,
+            "complexity_index": 55.3
+        },
+        {
+            "agency": "Parole Board",
+            "agency_id": "205",
+            "total_words": 17015,
+            "rule_count": 106,
+            "avg_words_per_rule": 160.5188679245283,
+            "complexity_index": 34.02
+        },
+        {
+            "agency": "Libraries and Information Services Division",
+            "agency_id": "286",
+            "total_words": 13284,
+            "rule_count": 64,
+            "avg_words_per_rule": 207.5625,
+            "complexity_index": 40.81
+        },
+        {
+            "agency": "Credit Union Division",
+            "agency_id": "189",
+            "total_words": 65292,
+            "rule_count": 215,
+            "avg_words_per_rule": 303.68372093023254,
+            "complexity_index": 50.86
+        },
+        {
+            "agency": "Human Services Department",
+            "agency_id": "441",
+            "total_words": 1001155,
+            "rule_count": 1600,
+            "avg_words_per_rule": 625.721875,
+            "complexity_index": 69.94
+        },
+        {
+            "agency": "Ethics and Campaign Disclosure Board Iowa",
+            "agency_id": "351",
+            "total_words": 64773,
+            "rule_count": 214,
+            "avg_words_per_rule": 302.6775700934579,
+            "complexity_index": 50.77
+        },
+        {
+            "agency": "Veterans Affairs Iowa Department of",
+            "agency_id": "801",
+            "total_words": 40432,
+            "rule_count": 122,
+            "avg_words_per_rule": 331.40983606557376,
+            "complexity_index": 53.16
+        },
+        {
+            "agency": "Engineering and Land Surveying Examining Board193C",
+            "agency_id": null,
+            "total_words": 166104,
+            "rule_count": 85,
+            "avg_words_per_rule": 1954.164705882353,
+            "complexity_index": 100.0
+        },
+        {
+            "agency": "Public Employment Relations Board",
+            "agency_id": "621",
+            "total_words": 54429,
+            "rule_count": 179,
+            "avg_words_per_rule": 304.07262569832403,
+            "complexity_index": 50.89
+        },
+        {
+            "agency": "Blind Department for the",
+            "agency_id": "111",
+            "total_words": 42744,
+            "rule_count": 125,
+            "avg_words_per_rule": 341.952,
+            "complexity_index": 53.99
+        },
+        {
+            "agency": "Propane Education and Research Council Iowa",
+            "agency_id": "599",
+            "total_words": 2642,
+            "rule_count": 9,
+            "avg_words_per_rule": 293.55555555555554,
+            "complexity_index": 49.96
+        },
+        {
+            "agency": "Public Safety Department",
+            "agency_id": "661",
+            "total_words": 225185,
+            "rule_count": 1228,
+            "avg_words_per_rule": 183.37540716612378,
+            "complexity_index": 37.54
+        },
+        {
+            "agency": "Corrections Department",
+            "agency_id": "201",
+            "total_words": 75576,
+            "rule_count": 182,
+            "avg_words_per_rule": 415.25274725274727,
+            "complexity_index": 59.11
+        },
+        {
+            "agency": "Telecommunications and Technology Commission Iowa",
+            "agency_id": "751",
+            "total_words": 44226,
+            "rule_count": 171,
+            "avg_words_per_rule": 258.63157894736844,
+            "complexity_index": 46.62
+        },
+        {
+            "agency": "Alcoholic Beverages Division",
+            "agency_id": "185",
+            "total_words": 47569,
+            "rule_count": 185,
+            "avg_words_per_rule": 257.1297297297297,
+            "complexity_index": 46.46
+        },
+        {
+            "agency": "Racing and Gaming Commission",
+            "agency_id": "491",
+            "total_words": 133826,
+            "rule_count": 201,
+            "avg_words_per_rule": 665.8009950248756,
+            "complexity_index": 71.58
+        },
+        {
+            "agency": "Veterinary Medicine Board",
+            "agency_id": "811",
+            "total_words": 29999,
+            "rule_count": 120,
+            "avg_words_per_rule": 249.99166666666667,
+            "complexity_index": 45.72
+        },
+        {
+            "agency": "Natural Resource Commission",
+            "agency_id": "571",
+            "total_words": 205529,
+            "rule_count": 833,
+            "avg_words_per_rule": 246.73349339735896,
+            "complexity_index": 45.37
+        },
+        {
+            "agency": "Volunteer Service Iowa Commission on",
+            "agency_id": "817",
+            "total_words": 14683,
+            "rule_count": 79,
+            "avg_words_per_rule": 185.86075949367088,
+            "complexity_index": 37.89
+        },
+        {
+            "agency": "Insurance and Financial Services Department",
+            "agency_id": "181",
+            "total_words": 1144,
+            "rule_count": 12,
+            "avg_words_per_rule": 95.33333333333333,
+            "complexity_index": 20.27
+        },
+        {
+            "agency": "Child Advocacy Board",
+            "agency_id": "489",
+            "total_words": 5761,
+            "rule_count": 17,
+            "avg_words_per_rule": 338.88235294117646,
+            "complexity_index": 53.75
+        },
+        {
+            "agency": "Beef Cattle Producers Association Iowa",
+            "agency_id": "101",
+            "total_words": 2359,
+            "rule_count": 25,
+            "avg_words_per_rule": 94.36,
+            "complexity_index": 20.0
+        },
+        {
+            "agency": "Executive Council",
+            "agency_id": "361",
+            "total_words": 1997,
+            "rule_count": 15,
+            "avg_words_per_rule": 133.13333333333333,
+            "complexity_index": 29.09
+        },
+        {
+            "agency": "Archaeologist",
+            "agency_id": "685",
+            "total_words": 15469,
+            "rule_count": 63,
+            "avg_words_per_rule": 245.53968253968253,
+            "complexity_index": 45.24
+        },
+        {
+            "agency": "Public Defense Department",
+            "agency_id": "601",
+            "total_words": 7049,
+            "rule_count": 13,
+            "avg_words_per_rule": 542.2307692307693,
+            "complexity_index": 66.16
+        },
+        {
+            "agency": "Banking Division",
+            "agency_id": "187",
+            "total_words": 68451,
+            "rule_count": 205,
+            "avg_words_per_rule": 333.90731707317076,
+            "complexity_index": 53.36
+        },
+        {
+            "agency": "Regents Board",
+            "agency_id": "681",
+            "total_words": 69341,
+            "rule_count": 211,
+            "avg_words_per_rule": 328.6303317535545,
+            "complexity_index": 52.94
+        },
+        {
+            "agency": "Agriculture and Land Stewardship Department",
+            "agency_id": "21",
+            "total_words": 226157,
+            "rule_count": 800,
+            "avg_words_per_rule": 282.69625,
+            "complexity_index": 48.96
+        },
+        {
+            "agency": "Workers Compensation Division",
+            "agency_id": "876",
+            "total_words": 35456,
+            "rule_count": 122,
+            "avg_words_per_rule": 290.62295081967216,
+            "complexity_index": 49.69
+        },
+        {
+            "agency": "Civil Rights Commission",
+            "agency_id": "161",
+            "total_words": 47246,
+            "rule_count": 122,
+            "avg_words_per_rule": 387.26229508196724,
+            "complexity_index": 57.27
+        },
+        {
+            "agency": "Administrative Services Department",
+            "agency_id": "11",
+            "total_words": 147027,
+            "rule_count": 433,
+            "avg_words_per_rule": 339.554272517321,
+            "complexity_index": 53.8
+        },
+        {
+            "agency": "Law Enforcement Academy",
+            "agency_id": "501",
+            "total_words": 42591,
+            "rule_count": 114,
+            "avg_words_per_rule": 373.60526315789474,
+            "complexity_index": 56.33
+        },
+        {
+            "agency": "Historical Division",
+            "agency_id": "223",
+            "total_words": 41353,
+            "rule_count": 115,
+            "avg_words_per_rule": 359.5913043478261,
+            "complexity_index": 55.32
+        },
+        {
+            "agency": "Natural Resources Department",
+            "agency_id": "561",
+            "total_words": 39902,
+            "rule_count": 145,
+            "avg_words_per_rule": 275.1862068965517,
+            "complexity_index": 48.25
+        },
+        {
+            "agency": "Preserves State Advisory Board for",
+            "agency_id": "575",
+            "total_words": 1234,
+            "rule_count": 11,
+            "avg_words_per_rule": 112.18181818181819,
+            "complexity_index": 24.57
+        },
+        {
+            "agency": "City Development Board",
+            "agency_id": "263",
+            "total_words": 16366,
+            "rule_count": 69,
+            "avg_words_per_rule": 237.18840579710144,
+            "complexity_index": 44.33
+        },
+        {
+            "agency": "Auditor of State",
+            "agency_id": "81",
+            "total_words": 4693,
+            "rule_count": 38,
+            "avg_words_per_rule": 123.5,
+            "complexity_index": 27.1
+        },
+        {
+            "agency": "Iowa Public Employees Retirement System",
+            "agency_id": "495",
+            "total_words": 83706,
+            "rule_count": 189,
+            "avg_words_per_rule": 442.8888888888889,
+            "complexity_index": 60.82
+        },
+        {
+            "agency": "Petroleum Underground Storage Tank Fund Board Iowa Comprehensive",
+            "agency_id": "591",
+            "total_words": 32933,
+            "rule_count": 113,
+            "avg_words_per_rule": 291.4424778761062,
+            "complexity_index": 49.77
+        },
+        {
+            "agency": "Iowa Finance Authority",
+            "agency_id": "265",
+            "total_words": 93773,
+            "rule_count": 348,
+            "avg_words_per_rule": 269.46264367816093,
+            "complexity_index": 47.7
+        },
+        {
+            "agency": "Professional Licensure Division",
+            "agency_id": "645",
+            "total_words": 13698,
+            "rule_count": 64,
+            "avg_words_per_rule": 214.03125,
+            "complexity_index": 41.62
+        },
+        {
+            "agency": "Transportation Department",
+            "agency_id": "761",
+            "total_words": 272201,
+            "rule_count": 825,
+            "avg_words_per_rule": 329.94060606060606,
+            "complexity_index": 53.04
+        },
+        {
+            "agency": "Revenue Department",
+            "agency_id": "701",
+            "total_words": 856993,
+            "rule_count": 1352,
+            "avg_words_per_rule": 633.8705621301775,
+            "complexity_index": 70.28
+        },
+        {
+            "agency": "Insurance Division",
+            "agency_id": "191",
+            "total_words": 560560,
+            "rule_count": 1167,
+            "avg_words_per_rule": 480.3427592116538,
+            "complexity_index": 62.96
+        },
+        {
+            "agency": "State Public Defender",
+            "agency_id": "493",
+            "total_words": 29937,
+            "rule_count": 92,
+            "avg_words_per_rule": 325.4021739130435,
+            "complexity_index": 52.68
+        },
+        {
+            "agency": "Public Health Department",
+            "agency_id": "641",
+            "total_words": 725005,
+            "rule_count": 1158,
+            "avg_words_per_rule": 626.0837651122625,
+            "complexity_index": 69.95
+        },
+        {
+            "agency": "Public Broadcasting Division",
+            "agency_id": "288",
+            "total_words": 21232,
+            "rule_count": 80,
+            "avg_words_per_rule": 265.4,
+            "complexity_index": 47.3
+        },
+        {
+            "agency": "Economic Development Authority",
+            "agency_id": "261",
+            "total_words": 161453,
+            "rule_count": 596,
+            "avg_words_per_rule": 270.8942953020134,
+            "complexity_index": 47.84
+        },
+        {
+            "agency": "Education Department",
+            "agency_id": "281",
+            "total_words": 314351,
+            "rule_count": 992,
+            "avg_words_per_rule": 316.88608870967744,
+            "complexity_index": 51.98
+        },
+        {
+            "agency": "College Student Aid Commission",
+            "agency_id": "283",
+            "total_words": 65033,
+            "rule_count": 248,
+            "avg_words_per_rule": 262.22983870967744,
+            "complexity_index": 46.98
+        },
+        {
+            "agency": "Treasurer of State",
+            "agency_id": "781",
+            "total_words": 49629,
+            "rule_count": 195,
+            "avg_words_per_rule": 254.5076923076923,
+            "complexity_index": 46.19
+        },
+        {
+            "agency": "Cultural Affairs Department",
+            "agency_id": "221",
+            "total_words": 4102,
+            "rule_count": 9,
+            "avg_words_per_rule": 455.77777777777777,
+            "complexity_index": 61.57
+        },
+        {
+            "agency": "Utilities Commission",
+            "agency_id": "199",
+            "total_words": 257138,
+            "rule_count": 404,
+            "avg_words_per_rule": 636.480198019802,
+            "complexity_index": 70.39
+        },
+        {
+            "agency": "Management Department",
+            "agency_id": "541",
+            "total_words": 8640,
+            "rule_count": 49,
+            "avg_words_per_rule": 176.3265306122449,
+            "complexity_index": 36.5
+        },
+        {
+            "agency": "Soil Conservation and Water Quality Division",
+            "agency_id": "27",
+            "total_words": 60759,
+            "rule_count": 276,
+            "avg_words_per_rule": 220.1413043478261,
+            "complexity_index": 42.36
+        },
+        {
+            "agency": "Medicine Board",
+            "agency_id": "653",
+            "total_words": 114660,
+            "rule_count": 234,
+            "avg_words_per_rule": 490.0,
+            "complexity_index": 63.48
+        },
+        {
+            "agency": "Livestock Health Advisory Council",
+            "agency_id": "521",
+            "total_words": 540,
+            "rule_count": 1,
+            "avg_words_per_rule": 540.0,
+            "complexity_index": 66.05
+        },
+        {
+            "agency": "Professional Licensing and Regulation Bureau",
+            "agency_id": "193",
+            "total_words": 24206,
+            "rule_count": 73,
+            "avg_words_per_rule": 331.5890410958904,
+            "complexity_index": 53.18
+        },
+        {
+            "agency": "Labor Services Division",
+            "agency_id": "875",
+            "total_words": 215165,
+            "rule_count": 533,
+            "avg_words_per_rule": 403.686679174484,
+            "complexity_index": 58.37
+        },
+        {
+            "agency": "Records Commission",
+            "agency_id": "671",
+            "total_words": 6351,
+            "rule_count": 47,
+            "avg_words_per_rule": 135.12765957446808,
+            "complexity_index": 29.48
+        },
+        {
+            "agency": "Dental Board",
+            "agency_id": "650",
+            "total_words": 79548,
+            "rule_count": 251,
+            "avg_words_per_rule": 316.9243027888446,
+            "complexity_index": 51.98
+        },
+        {
+            "agency": "Inspections and Appeals Department",
+            "agency_id": "481",
+            "total_words": 524473,
+            "rule_count": 1378,
+            "avg_words_per_rule": 380.60449927431057,
+            "complexity_index": 56.81
+        },
+        {
+            "agency": "Sheep and Wool Promotion Board Iowa",
+            "agency_id": "741",
+            "total_words": 2722,
+            "rule_count": 25,
+            "avg_words_per_rule": 108.88,
+            "complexity_index": 23.78
+        },
+        {
+            "agency": "Turkey Marketing Council Iowa",
+            "agency_id": "787",
+            "total_words": 132,
+            "rule_count": 1,
+            "avg_words_per_rule": 132.0,
+            "complexity_index": 28.86
+        },
+        {
+            "agency": "Homeland Security and Emergency Management Department",
+            "agency_id": "605",
+            "total_words": 45771,
+            "rule_count": 165,
+            "avg_words_per_rule": 277.4,
+            "complexity_index": 48.47
+        },
+        {
+            "agency": "Appeal Board State",
+            "agency_id": "543",
+            "total_words": 7117,
+            "rule_count": 51,
+            "avg_words_per_rule": 139.54901960784315,
+            "complexity_index": 30.33
+        },
+        {
+            "agency": "Workforce Development Department",
+            "agency_id": "871",
+            "total_words": 104220,
+            "rule_count": 193,
+            "avg_words_per_rule": 540.0,
+            "complexity_index": 66.05
+        },
+        {
+            "agency": "Iowa Public Information Board",
+            "agency_id": "497",
+            "total_words": 28031,
+            "rule_count": 108,
+            "avg_words_per_rule": 259.5462962962963,
+            "complexity_index": 46.71
+        },
+        {
+            "agency": "Voter Registration Commission",
+            "agency_id": "821",
+            "total_words": 12854,
+            "rule_count": 62,
+            "avg_words_per_rule": 207.32258064516128,
+            "complexity_index": 40.78
+        },
+        {
+            "agency": "Fair Board",
+            "agency_id": "371",
+            "total_words": 14611,
+            "rule_count": 116,
+            "avg_words_per_rule": 125.95689655172414,
+            "complexity_index": 27.62
+        },
+        {
+            "agency": "Egg Council Iowa",
+            "agency_id": "301",
+            "total_words": 3957,
+            "rule_count": 21,
+            "avg_words_per_rule": 188.42857142857142,
+            "complexity_index": 38.26
+        },
+        {
+            "agency": "Employment Appeal Board",
+            "agency_id": "486",
+            "total_words": 17780,
+            "rule_count": 22,
+            "avg_words_per_rule": 808.1818181818181,
+            "complexity_index": 76.69
+        },
+        {
+            "agency": "County Finance Committee",
+            "agency_id": "547",
+            "total_words": 4611,
+            "rule_count": 44,
+            "avg_words_per_rule": 104.79545454545455,
+            "complexity_index": 22.77
+        },
+        {
+            "agency": "Environmental Protection Commission",
+            "agency_id": "567",
+            "total_words": 873048,
+            "rule_count": 974,
+            "avg_words_per_rule": 896.3531827515401,
+            "complexity_index": 79.43
+        },
+        {
+            "agency": "Higher Education Loan Authority",
+            "agency_id": "284",
+            "total_words": 3174,
+            "rule_count": 25,
+            "avg_words_per_rule": 126.96,
+            "complexity_index": 27.83
+        },
+        {
+            "agency": "Aging Department on",
+            "agency_id": "17",
+            "total_words": 41654,
+            "rule_count": 156,
+            "avg_words_per_rule": 267.0128205128205,
+            "complexity_index": 47.46
+        },
+        {
+            "agency": "Lottery Authority Iowa",
+            "agency_id": "531",
+            "total_words": 53101,
+            "rule_count": 241,
+            "avg_words_per_rule": 220.33609958506224,
+            "complexity_index": 42.39
+        }
+    ]
+}

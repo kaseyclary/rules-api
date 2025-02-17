@@ -1,0 +1,916 @@
+{
+  "year": 2004,
+  "totalBills": 182,
+  "bills": [
+    {
+      "billNumber": "HF 2039",
+      "billTitle": "A bill for an act relating to state budget provisions involving the ending balance in the general fund of the state and the state general fund expenditure limitation by transferring funds from the cash reserve fund and by revising the percentage amount used for the limitation, providing for a standing limited appropriation to the senior living trust fund, and including effective date and applicability provisions.",
+      "dateSigned": "2004-02-12"
+    },
+    {
+      "billNumber": "HF 401",
+      "billTitle": "A bill for an act relating to the procedures for certificates of completion of property rehabilitation projects for which tax credits may be available. Effective 7-01-04.",
+      "dateSigned": "2004-03-03"
+    },
+    {
+      "billNumber": "HF 2180",
+      "billTitle": "A bill for an act relating to filling the office of county attorney by appointment. Effective 7-01-04.",
+      "dateSigned": "2004-03-03"
+    },
+    {
+      "billNumber": "SF 2290",
+      "billTitle": "A bill for an act relating to economic development incentives under the new jobs and income program, the new capital investment program, and the enterprise zone program and providing an effective date.  Effective 3-17-04.",
+      "dateSigned": "2004-03-17"
+    },
+    {
+      "billNumber": "SF 2059",
+      "billTitle": "A bill for an act relating to and making appropriations of birth certificate fees for the birth defects registry and child abuse prevention programs, and providing an effective date.  (FormerlySSB 3003.)  Effective 3-18-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SF 2166",
+      "billTitle": "A bill for an act relating to child endangerment offenses resulting in the death of a child or minor and providing a penalty.  (FormerlySSB 3055.) Effective 7-1-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SF 2189",
+      "billTitle": "A bill for an act conferring additional enforcement authority on the real estate commission, and providing penalties.  (FormerlySSB 3081.)  Effective 7-1-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SF 2240",
+      "billTitle": "A bill for an act relating to temporary rate authority and rules of the Iowa utilities board regarding rate regulation proceedings.  (FormerlySSB 3018.) Effective 7-1-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SF 2253",
+      "billTitle": "A bill for an act relating to disclosure requirements for the transfer of ownership of a motor vehicle and providing penalties.  (FormerlySSB 3071.) Effective 7-1-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SF 2261",
+      "billTitle": "A bill for an act providing penalties for specified liquor control violations involving a retail liquor control license, wine permit, or beer permit.  (FormerlySSB 3158.)  Effective 7-1-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "HF 2133",
+      "billTitle": "A bill for an act requiring the lottery authority to submit budget information to the legislature. Effective 7-01-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "HF 2176",
+      "billTitle": "A bill for an act relating to abandonment of a child as grounds for termination of parental rights. Effective 7-01-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "HF 2306",
+      "billTitle": "A bill for an act relating to fees charged for delayed redemption of electronic gift cards. Effective 7-01-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "HF 2343",
+      "billTitle": "A bill for an act providing for the establishment of a vaccination program for first responders, and providing an immediate effective date. Effective 3-18-04.",
+      "dateSigned": "2004-03-18"
+    },
+    {
+      "billNumber": "SJR 2007",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of wine in the State Capitol in conjunction with the awards ceremony of the World Food Prize Foundation.  Effective 7-1-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "SF 2070",
+      "billTitle": "A bill for an act relating to duties and activities of the state department of transportation, including the registration and titling of motor vehicles, regulation of electric personal assistive mobility devices, and issuance of commercial driver's licenses, and providing effective dates.  Various effective dates; see section 35 of bill.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "SF 2118",
+      "billTitle": "A bill for an act regarding public utility rights-of-way and providing an effective date.  (FormerlySSB 3021.)  Effective 3-29-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "SF 2167",
+      "billTitle": "A bill for an act relating to the Iowa probate code, including provisions relating to estate recovery of medical assistance benefits, the power to disclaim property interests, and trusts.  (FormerlySSB 3047.)  Effective 7-1-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "SF 2199",
+      "billTitle": "A bill for an act relating to residential landlord-tenant law, by making certain changes concerning family violence and domestic abuse.  (FormerlySF 2117.)  Effective 7-1-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "HJR 2005",
+      "billTitle": "A Joint Resolution authorizing the temporary use and consumption of wine and beer in the State Capitol in conjunction with the 2004 Annual Meeting of the Midwestern Legislative Conference of the Council of State Governments. Effective 7-01-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "HF 2325",
+      "billTitle": "A bill for an act relating to raising an ineffective assistance of counsel claim against an attorney in a criminal case on appeal.  Effective 7-01-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "HF 2373",
+      "billTitle": "A bill for an act providing for the inapplicability of provisions regulating licensed real estate brokers and salespersons to auctioneers under specified circumstances, and providing penalties.  Effective 7-01-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "HF 2403",
+      "billTitle": "A bill for an act providing for the administration of fairs, providing for the allocation of moneys, and providing for an effective date. Effective 7-01-04.",
+      "dateSigned": "2004-03-29"
+    },
+    {
+      "billNumber": "SF 2188",
+      "billTitle": "A bill for an act providing for the establishment of a commission on the status of Iowans of Asian and Pacific Islander heritage within the department of human rights.  (FormerlySF 2031.) Effective 7-1-04.",
+      "dateSigned": "2004-03-31"
+    },
+    {
+      "billNumber": "HF 2347",
+      "billTitle": "A bill for an act relating to the uniform limited partnership Act and providing a penalty and effective dates. Effective 1-01-05, with exception of section 117, effective 1-01-06.",
+      "dateSigned": "2004-04-01"
+    },
+    {
+      "billNumber": "SJR 2009",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of wine in the State Capitol in conjunction with the 2004 Annual Meeting of the MidAmerican Chapter of the American Association of Law Librarians. Effective 7-1-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "SF 2187",
+      "billTitle": "A bill for an act relating to municipal utilities that provide local exchange services, including the confidentiality and audits of certain accounting records, the allocation of the cost of use of city resources, and exemption from sales and use taxes.  (FormerlySSB 3036.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "SF 2202",
+      "billTitle": "A bill for an act relating to meningococcal disease vaccination information for students who are enrolled in an institution of higher learning that has an on-campus dormitory or residence hall, and providing for related matters. (FormerlySSB 3129.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "SF 2210",
+      "billTitle": "A bill for an act relating to the Iowa corn promotion board, including its ex officio, nonvoting membership and the expenditure of moneys for programs. (FormerlySSB 3126.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2042",
+      "billTitle": "A bill for an act relating to the donation of blood by persons sixteen years of age. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2167",
+      "billTitle": "A bill for an act to eliminate the inspections division of the department of inspections and appeals. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2241",
+      "billTitle": "A bill for an act authorizing school districts and nonpublic schools to apply credit under the state education program for successful completion of military basic training. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2270",
+      "billTitle": "A bill for an act relating to certain notice requirements for cooperative associations retaining abandoned property. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2282",
+      "billTitle": "A bill for an act relating to the selling of bait by an aquaculture unit licensee. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2351",
+      "billTitle": "A bill for an act relating to enforcement of waste tire violations and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2362",
+      "billTitle": "A bill for an act relating to the duties of the birth defects institute by providing for a work group to study stillbirths and renaming the institute. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2381",
+      "billTitle": "A bill for an act changing the budget certification deadline for county hospital budgets. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2431",
+      "billTitle": "A bill for an act relating to educational institutions under the university-based research utilization program. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2464",
+      "billTitle": "A bill for an act providing for the establishment and funding of an automated external defibrillator grant program, and providing an effective date. Effective upon receipt of federal fund to Iowa Department of of Public Health.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2497",
+      "billTitle": "A bill for an act providing for a sick leave and vacation incentive program for state employees and providing an effective date.  Effective 4-02-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2506",
+      "billTitle": "A bill for an act relating to electronic and facsimile prescriptions and making penalties applicable. Effective 7-01-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "HF 2538",
+      "billTitle": "A bill for an act providing a transfer from the cash reserve fund to the rebuild Iowa infrastructure fund for purposes of the standing appropriation to the environment first fund and providing an effective date. Effective 4-02-04.",
+      "dateSigned": "2004-04-02"
+    },
+    {
+      "billNumber": "SF 2217",
+      "billTitle": "A bill for an act relating to assessments imposed on cattle for purposes of promotion, education, and research, and providing an effective date. (FormerlySSB 3044&SF 2144.)  Effective 4-7-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "SF 2224",
+      "billTitle": "A bill for an act relating to grain regulation.  (FormerlySSB 3134.) Effective 7-1-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "SF 2257",
+      "billTitle": "A bill for an act relating to the use of credit information for underwriting or rating risks for personal insurance and providing an applicability date. (FormerlySF 2171.) Effective 7-1-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2138",
+      "billTitle": "A bill for an act relating to payment of legal expenses for indigent persons by the state public defender. Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2149",
+      "billTitle": "A bill for an act relating to the prosecution of certain simple misdemeanors committed in a city located in two or more counties.  Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2318",
+      "billTitle": "A bill for an act relating to the filing of statements of organization or dissolution by a political or candidate's committee, and regulating campaign and other contributions.  Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2350",
+      "billTitle": "A bill for an act relating to family investment program eligibility requirements involving motor vehicle equity, family investment plans, limited benefit plans, and required school attendance and including an applicability provision. Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2358",
+      "billTitle": "A bill for an act providing for technical and substantive changes relating to the practice of cosmetology, establishing penalties, and making penalties applicable. Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2395",
+      "billTitle": "A bill for an act creating the criminal offense of intellectual property counterfeiting, and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2452",
+      "billTitle": "A bill for an act providing for licensure requirements relating to the practice of athletic training and increasing a penalty.  Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "HF 2520",
+      "billTitle": "A bill for an act relating to purchasing preferences for Iowa-based products and services. Effective 7-01-04.",
+      "dateSigned": "2004-04-07"
+    },
+    {
+      "billNumber": "SF 2174",
+      "billTitle": "A bill for an act relating to the appointment of the ninth member of the state board of regents.  (FormerlySSB 3034.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "SF 2244",
+      "billTitle": "A bill for an act relating to municipal utilities that provide telecommunications services, including the examination and confidentiality of certain accounting records.  (FormerlySSB 3037.) Effective 7-1-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "SF 2274",
+      "billTitle": "A bill for an act relating to the revised Iowa nonprofit corporation Act and providing penalties and effective and applicability dates.  (FormerlySSB 3144.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2170",
+      "billTitle": "A bill for an act relating to product liability actions. Effective 7-01-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2315",
+      "billTitle": "A bill for an act relating to agricultural conservation practices. Effective 7-01-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2450",
+      "billTitle": "A bill for an act relating to real property, including acknowledgments of real property conveyances and limitations on causes of action concerning real property. Effective 7-01-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2493",
+      "billTitle": "A bill for an act relating to regulation of sales at unused property markets and providing penalties. Effective 7-01-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2516",
+      "billTitle": "A bill for an act relating to the performance of a notarial act by a chief officer when certifying a uniform citation and complaint under oath, and providing an effective date. Effective 4-08-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "HF 2522",
+      "billTitle": "A bill for an act relating to evidence in a sexual abuse case.  Effective 7-01-04.",
+      "dateSigned": "2004-04-08"
+    },
+    {
+      "billNumber": "SF 2249",
+      "billTitle": "A bill for an act regulating contest events involving animals, and providing a penalty and effective date.  (FormerlySSB 3086.) Effective 4-9-04.",
+      "dateSigned": "2004-04-09"
+    },
+    {
+      "billNumber": "SF 2101",
+      "billTitle": "A bill for an act relating to receiving a precursor substance or possessing a product to be used in the unlawful manufacture of a controlled substance. (FormerlySF 2027.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "SF 2149",
+      "billTitle": "A bill for an act relating to games of chance by authorizing certain bingo games and prizes for bingo and raffles and providing an effective date. Effective 4-12-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "SF 2177",
+      "billTitle": "A bill for an act relating to the possession and self-administration of asthma or other airway constricting disease medication by public and accredited nonpublic school students.  (FormerlySF 2129.) Effective 7-1-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "SF 2193",
+      "billTitle": "A bill for an act relating to the civil commitment of sexually violent predators.  (FormerlySSB 3054.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "SF 2234",
+      "billTitle": "A bill for an act relating to child custody and visitation provisions. (FormerlySSB 3120.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2145",
+      "billTitle": "A bill for an act relating to membership on certain city planning and zoning commissions. Effective 7-01-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2225",
+      "billTitle": "A bill for an act relating to the establishment of drainage and levee districts, and providing an effective date. Effective 4-14-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2340",
+      "billTitle": "A bill for an act relating to the temporary absence of an elected local government official on active military duty and the appointment of a temporary replacement and providing an effective date. Effective 4-14-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2397",
+      "billTitle": "A bill for an act relating to the act or property of a public utility with respect to the definition of nuisance. Effective 7-01-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2441",
+      "billTitle": "A bill for an act relating to the statutory duties of the commission of Latino affairs regarding Spanish language interpreter qualifications. Effective 7-01-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "HF 2517",
+      "billTitle": "A bill for an act relating to environmental regulations administered by the department of natural resources regarding the use of recycled oil and the calculation of waste volume reduction measures. Effective 7-01-04.",
+      "dateSigned": "2004-04-12"
+    },
+    {
+      "billNumber": "SF 2044",
+      "billTitle": "A bill for an act concerning eligibility requirements for payment of a volunteer emergency services provider death benefit resulting from a heart attack or stroke.  Effective 7-1-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "HF 2146",
+      "billTitle": "A bill for an act making changes to sex offender registry requirements for persons convicted of incest against a dependent adult. Effective 7-01-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "HF 2201",
+      "billTitle": "A bill for an act providing for exemptions from massage therapy licensure requirements. Effective 7-01-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "HF 2404",
+      "billTitle": "A bill for an act relating to certain alternative forms of county and city government by providing for county redistricting and representation, charter commission administration, application of various statutory requirements, the manner in which a charter may be proposed and adopted, amendment of a charter, the organization of the governing body, and inclusions in a charter, making technical changes relating to the administration and authority of a city-county consolidated government and a community commonwealth, making changes related to multicounty consolidation, and including effective and retroactive applicability date provisions. Effective 4-13-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "HF 2490",
+      "billTitle": "A bill for an act relating to the uniform electronic transactions Act. Effective 7-01-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "HF 2496",
+      "billTitle": "A bill for an act relating to the use of titles pertaining to physical therapy and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-04-13"
+    },
+    {
+      "billNumber": "SF 371",
+      "billTitle": "A bill for an act relating to formatting standards for recording documents or instruments by a county recorder, specifying a recording fee for certain documents or instruments, and providing an effective date.  (FormerlySSB 1017.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-14"
+    },
+    {
+      "billNumber": "SF 2213",
+      "billTitle": "A bill for an act regarding the cancellation of fishing and hunting licenses by the department of natural resources for nonpayment of the license fee. Effective 7-1-04.",
+      "dateSigned": "2004-04-14"
+    },
+    {
+      "billNumber": "SF 2266",
+      "billTitle": "A bill for an act relating to landlord disclosure requirements regarding the environmental status of rental property.  (FormerlySF 2074.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-14"
+    },
+    {
+      "billNumber": "SF 2284",
+      "billTitle": "A bill for an act relating to the establishment of a regional transit district within the unincorporated areas of certain counties and within certain cities, requiring creation of a regional transit district commission, authorizing the voluntary imposition of a regional transit property tax levy, and providing for the issuance of general obligation bonds and revenue bonds.  (FormerlySSB 1134&SF 2252.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-14"
+    },
+    {
+      "billNumber": "SF 2296",
+      "billTitle": "A bill for an act relating to the policy administration of the tax and related laws by the department of revenue, including administration of and substantive changes to the state individual income, corporate income, sales, use, property, inheritance, motor fuel, special fuel, cigarette, and tobacco taxes and including penalties.  (FormerlySSB 3167.)  Various effective dates; see section 53 of bill.",
+      "dateSigned": "2004-04-14"
+    },
+    {
+      "billNumber": "HF 2553",
+      "billTitle": "A bill for an act relating to technical and substantive changes regarding the Iowa educational savings plan trust and the establishment of an additional optional program by a specified date, and providing an effective date. Effective 4-15-04.",
+      "dateSigned": "2004-04-15"
+    },
+    {
+      "billNumber": "SF 2119",
+      "billTitle": "A bill for an act relating to obligations secured by collateral required to be pledged by banks to the treasurer of state in order to secure the deposit of public moneys, and providing an effective date.  Effective 4-16-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "SF 2173",
+      "billTitle": "A bill for an act concerning private sector employee drug testing relating to authorized testing substances, confirmed positive test results, and testing procedures, and providing an effective date.  (FormerlySSB 3098.) Effective 4-16-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "SF 2208",
+      "billTitle": "A bill for an act relating to the powers and duties of the department of agriculture and land stewardship, and making penalties applicable. (FormerlySSB 3124.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "SF 2269",
+      "billTitle": "A bill for an act relating to elections and voter registration, including implementing requirements of federal law, adjusting language to reflect current practice, making changes related to voting machines, making changes related to absentee voting, providing penalties, and providing effective and applicability dates.  Effective 4-16-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "SF 2272",
+      "billTitle": "A bill for an act relating to detaining or the placement of criminal defendants who are mentally incompetent or dangerous.  (FormerlySSB 1159.) Effective 7-1-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2134",
+      "billTitle": "A bill for an act relating to the medical assistance and state supplementary assistance programs, providing an effective date, and providing for retroactive applicability. Effective 4-16-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2208",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections and including effective and retroactive applicability date provisions.  Effective 4-16-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2399",
+      "billTitle": "A bill for an act allowing a modified criminal penalty for certain thefts from different locations within a thirty-day period.  Effective 7-01-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2419",
+      "billTitle": "A bill for an act relating to the number of signatures required on nomination petitions for school board elections. Effective 7-01-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2476",
+      "billTitle": "A bill for an act regulating transmissible viruses afflicting poultry, making an appropriation, and providing penalties.  Effective 7-01-04.",
+      "dateSigned": "2004-04-16"
+    },
+    {
+      "billNumber": "HF 2537",
+      "billTitle": "A bill for an act addressing redesign of the system for services and other support provided for persons with mental illness, mental retardation or other developmental disabilities, or brain injury.  Effective 7-01-04.",
+      "dateSigned": "2004-04-19"
+    },
+    {
+      "billNumber": "SF 2179",
+      "billTitle": "A bill for an act relating to ethics laws and the Iowa ethics and campaign disclosure board.  (FormerlySSB 3015.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "SF 2289",
+      "billTitle": "A bill for an act relating to various duties of the county treasurer and to certain fees collected by the county treasurer.  (FormerlySF 2067&SF 2180.)  Effective 7-1-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "SF 2306",
+      "billTitle": "A bill for an act relating to civil action appeal bonds and including monetary limits, and including an effective and applicability date provision.  Effective 4-20-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "HF 2401",
+      "billTitle": "A bill for an act relating to the comprehensive petroleum underground storage tank fund and providing an effective date.  Effective 4-20-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "HF 2475",
+      "billTitle": "A bill for an act relating to persons doing business as swine dealers and persons engaged in the business of buying or selling feeder pigs and providing an effective date. Effective 4-20-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "HF 2541",
+      "billTitle": "A bill for an act relating to utility replacement taxes by redefining major additions for purposes of allocating replacement taxes to taxing districts, requiring certain taxpayers to report estimated replacement taxes, and changing or establishing certain reporting dates and including effective and retroactive applicability date provisions. Effective 4-20-04.",
+      "dateSigned": "2004-04-20"
+    },
+    {
+      "billNumber": "SF 2153",
+      "billTitle": "A bill for an act relating to the funding of efforts to alleviate a public health emergency or disaster.  (FormerlySF 2077.) Effective 7-1-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 265",
+      "billTitle": "A bill for an act relating to the withdrawal of blood without a warrant from a person under arrest for an operating-while-intoxicated offense when the arrest results from a traffic accident resulting in death or personal injury reasonably likely to cause death. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 561",
+      "billTitle": "A bill for an act creating the crime of invasion of privacy, and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2193",
+      "billTitle": "A bill for an act relating to determining compliance with course of study requirements regarding cosmetology licensure. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2207",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective and retroactive applicability date provisions. Effective 7-01-04, with exception of sections 96-100 effective 4-26-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2230",
+      "billTitle": "A bill for an act relating to safe deposit box access by a trustee of a trust created by the deceased owner or lessee of the safe deposit box. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2262",
+      "billTitle": "A bill for an act relating to public retirement systems and other employee benefit related matters, including the public safety peace officers' retirement, accident, and disability system, the Iowa public employees' retirement system, the statewide fire and police retirement system, and the judicial retirement system, and providing effective and retroactive applicability dates. Effective 7-01-04, with exception of sections 48, 59, 67 and 74 effective 4-26-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2269",
+      "billTitle": "A bill for an act providing for the regulation of business entities, including businesses providing for cemetery and funeral merchandising and services, business promotions and contracts, and businesses providing continuing care or adult congregate living services, and providing penalties. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2281",
+      "billTitle": "A bill for an act relating to licensing of nonresident bait dealers and providing an effective date. Effective 4-26-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2367",
+      "billTitle": "A bill for an act relating to various issues under the purview of the department of corrections including the creation of an inmate labor fund. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2447",
+      "billTitle": "A bill for an act relating to equipment and installation safety programs administered by the division of labor services of the department of workforce development, and providing an effective date. Effective 4-26-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2467",
+      "billTitle": "A bill for an act relating to the quorum requirement for the IowAccess advisory council. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2480",
+      "billTitle": "A bill for an act prohibiting the award of pets, or advertisement thereof, in certain circumstances, and providing a penalty.  Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2489",
+      "billTitle": "A bill for an act relating to the regulation of various industries by the insurance division, including modifications related to the interstate insurance product regulation compact; investigations and penalties; procedures and contempt orders; insurance company investments; insurance producer licensing; individual health insurance programs; coverage obligations of the Iowa comprehensive health insurance association; refunds of unearned premium; coverage of federal Trade Adjustment Act recipients; penalties and discipline applicable to holders of establishment and sales permits for cemetery and funeral merchandise and services; and providing and applying penalties. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "HF 2530",
+      "billTitle": "A bill for an act relating to the assessment of surcharges in criminal proceedings. Effective 7-01-04.",
+      "dateSigned": "2004-04-26"
+    },
+    {
+      "billNumber": "SF 2066",
+      "billTitle": "A bill for an act modifying requirements for securing children transported in motor vehicles and making a penalty applicable.  (FormerlySF 2029.) Effective 7-1-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2319",
+      "billTitle": "A bill for an act relating to the operation, reporting, and dissolution of committees, reporting requirements for special and other elections, the placement of attribution statements in political materials, and the size and placement of political signs.  Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2366",
+      "billTitle": "A bill for an act relating to the use of blaze orange apparel by hunters and subjecting violators to a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2390",
+      "billTitle": "A bill for an act making technical changes to programs under the purview of the department of human services. Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2471",
+      "billTitle": "A bill for an act relating to a prisoner from another state being detained or committed to a county jail in this state, and providing an effective date. Effective 4-28-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2562",
+      "billTitle": "A bill for an act relating to electrical and mechanical amusement devices that are required to be registered with the department of inspections and appeals, establishing fees, making an appropriation, making penalties applicable, and including an effective and retroactive applicability provision. Effective 4-28-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2569",
+      "billTitle": "A bill for an act establishing a county enforcement surcharge for citations issued by the county sheriff. Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2572",
+      "billTitle": "A bill for an act relating to the procedures and duties of the clerk of the district court and the judicial branch, and providing for a fee. Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "HF 2579",
+      "billTitle": "A bill for an act relating to disposition of an award of damages in a condemnation proceeding pending appeal of the award to district court and the award of interest earned on the damages. Effective 7-01-04.",
+      "dateSigned": "2004-04-28"
+    },
+    {
+      "billNumber": "SF 2282",
+      "billTitle": "A bill for an act requiring a comprehensive study of the archaeological and paleontological significance and the significance of the flora and fauna of the loess hills and of the feasibility of creating a state native prairie preserve in the loess hills and of other various uses of the loess hills, and providing a contingent effective date.  (FormerlySF 2104.) Effective upon receipt of funding.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "SF 2308",
+      "billTitle": "A bill for an act relating to the number of days of payment for expenses of office for members of the general assembly for the 2004 regular session of the Eightieth General Assembly and including effective date and retroactive applicability provisions.  Effective 5-3-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2186",
+      "billTitle": "A bill for an act increasing the damages payable upon conviction of certain unlawful activities involving antlered deer. Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2200",
+      "billTitle": "A bill for an act relating to fire safety issues, including the establishment of a fire extinguishing system contractor certification program in the office of the state fire marshal, the promulgation of administrative rules by the state fire marshal, and arson and simulated explosive related criminal offenses, and providing for fees and penalties and for the Act's applicability.  Effective 7-01-04, with excpetion of sections 2-7, 9-10 effective 7-01-05.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2243",
+      "billTitle": "A bill for an act regarding user responsibility and liability with respect to liquefied petroleum gas systems. Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2259",
+      "billTitle": "A bill for an act relating to the selling and purchasing of products containing pseudoephedrine, and providing penalties.  Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2352",
+      "billTitle": "A bill for an act relating to the appointment of illegal dumping enforcement officers and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2418",
+      "billTitle": "A bill for an act relating to meeting dates by which the state board of regents must make final decisions on tuition increases for institutions of higher education under its control. Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2462",
+      "billTitle": "A bill for an act directing the department of human services to implement child welfare diversion and mediation pilot projects.  Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "HF 2533",
+      "billTitle": "A bill for an act relating to protective orders and court-approved consent agreements under the domestic abuse Act. Effective 7-01-04.",
+      "dateSigned": "2004-05-03"
+    },
+    {
+      "billNumber": "SF 297",
+      "billTitle": "A bill for an act relating to the regulation of snowmobiles and all-terrain vehicles, establishing fees, providing penalties, and providing an applicability date.  Effective 7-1-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "SF 2026",
+      "billTitle": "A bill for an act relating to the phaseout of the sales and use taxes on the sale and furnishing of gas, electricity, and fuel to residential customers. Effective 7-1-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "SF 2215",
+      "billTitle": "A bill for an act relating to the investment of moneys of the Iowa finance authority in funds within the office of the treasurer of state.  (FormerlySSB 3032.)  Effective 7-1-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 250",
+      "billTitle": "A bill for an act relating to the criminal penalties for an assault on members of certain occupations. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2302",
+      "billTitle": "A bill for an act relating to gambling, concerning the operation, licensure, regulation, fee assessment, and taxation of racetracks and excursion gambling boats, including pari-mutuel wagering, horse purses and gambling games at racetracks and on gambling boats, racing and gaming commission employees, gambling treatment fund and county endowment fund appropriations, gambling by minors and others, and providing penalties and including effective and retroactive applicability date provisions. Effective 7-01-04, with exception of sections 5, 21, 26, 37, 39, 46 and 61-64 effective 5-06-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2357",
+      "billTitle": "A bill for an act relating to the prevention and control of certain aquatic invasive plant and animal species and providing penalties.  Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2392",
+      "billTitle": "A bill for an act relating to controlled burns of demolished buildings conducted by certain cities. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2433",
+      "billTitle": "A bill for an act relating to fees retained by county treasurers for the issuance of driver's licenses and nonoperator identification cards. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2460",
+      "billTitle": "A bill for an act relating to school district enrollment of students listed on the sex offender registry. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2484",
+      "billTitle": "A bill for an act relating to the regulation of financial and real property institutions and assets including banks, credit unions, real property loan lenders, and real property financial liability.  Effective 7-01-04, with exception of Division V effective 5-06-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2486",
+      "billTitle": "A bill for an act relating to animal agriculture by providing for offenses involving animals and crops and related property, and providing penalties. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2518",
+      "billTitle": "A bill for an act relating to the duties of the soil and water conservation division of the department of agriculture and land stewardship. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2544",
+      "billTitle": "A bill for an act requiring identification numbers for all parcels of real estate, additional real estate transaction recordings, and making a fee applicable. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2559",
+      "billTitle": "A bill for an act relating to the duties of the college student aid commission and the approval and registration of postsecondary schools by the commission, the department of education, and the secretary of state, and the establishment and collection of fees and chargeable expenses by the state board of education and the secretary of state. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2560",
+      "billTitle": "A bill for an act relating to fire protection service by requiring certain counties to negotiate emergency services agreements for townships, relating to dissolution of benefited fire districts, and including effective and applicability date provisions. Effective 7-01-04, with exception of section 4 effective 5-06-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "HF 2571",
+      "billTitle": "A bill for an act relating to agriculture by providing for reporting requirements. Effective 7-01-04.",
+      "dateSigned": "2004-05-06"
+    },
+    {
+      "billNumber": "SF 443",
+      "billTitle": "A bill for an act relating to criteria for community-based seed capital funds and providing retroactive applicability dates.  Effective 7-1-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "SF 2270",
+      "billTitle": "A bill for an act relating to county records, including the fees for recorded and electronic transactions and the confidentiality of veterans' military records maintained by the county recorder and providing an effective date.  Various effective dates; see section 6 of bill.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "SF 2275",
+      "billTitle": "A bill for an act relating to criminal sentencing practice and procedure. (FormerlySSB 3154.)  Effective 7-1-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2150",
+      "billTitle": "A bill for an act establishing a child endangerment offense for permitting the presence of a child or minor at a location where a controlled substance manufacturing or product possession violation occurs and providing a penalty. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2327",
+      "billTitle": "A bill for an act relating to child abuse assessment requirements involving notification of parents, interviews of persons alleged to have committed child abuse, and training of child protection workers. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2328",
+      "billTitle": "A bill for an act relating to child protection confidentiality requirements involving the department of human services. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2481",
+      "billTitle": "A bill for an act expanding the circumstances by which the juvenile court may modify, vacate and substitute, or terminate a child in need of assistance dispositional order. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2505",
+      "billTitle": "A bill for an act providing for the selling of alcoholic beverages, wine, or beer on credit by a convention center, civic center, or events center under specified circumstances. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2527",
+      "billTitle": "A bill for an act relating to the provision of a copy of a certificate of birth to a biological parent. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2528",
+      "billTitle": "A bill for an act relating to consideration of a juvenile court order by the district court in a custody proceeding. Effective 7-01-04.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "HF 2568",
+      "billTitle": "A bill for an act relating to individual health insurance program modification; restructuring and modification of eligibility, benefits, tax offsets, and other terms related to the operation of the Iowa comprehensive health insurance association; phaseout of guaranteed basic and standard individual insurance plans; and coverage of federal Trade Adjustment Act recipients under the Iowa comprehensive health insurance Act; and providing effective dates.  Effective 7-01-04, with exception of sections 2 and 13 effective 1-01-05.",
+      "dateSigned": "2004-05-11"
+    },
+    {
+      "billNumber": "SF 2209",
+      "billTitle": "A bill for an act relating to the content of immunizations, and making a penalty applicable.  (FormerlySSB 3070.)  Effective 7-1-04.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "HF 2393",
+      "billTitle": "A bill for an act relating to the regulation of target shooting near buildings and feedlots and the regulation of public hunting near buildings and feedlots and providing an effective date.  Effective 5-14-04.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "HF 2549",
+      "billTitle": "A bill for an act relating to expenditures from the waste tire management fund. Effective 7-01-04.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "HF 2557",
+      "billTitle": "A bill for an act providing for the regulation of securities, providing for fees and penalties, and providing an effective date.  Effective 1-01-05.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "HF 2567",
+      "billTitle": "A bill for an act regulating the transportation of animal carcasses, providing for fees and penalties, and providing for an effective date. Effective 7-01-04, with exception of section 4 effective 5-14-04.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "HF 2573",
+      "billTitle": "A bill for an act regulating animal health by the department of agriculture and land stewardship, making an appropriation, and making penalties applicable. Effective 7-01-04.",
+      "dateSigned": "2004-05-14"
+    },
+    {
+      "billNumber": "SF 2154",
+      "billTitle": "A bill for an act relating to parties to whom traffic citations are issued for failure to obey school bus warning devices.  (FormerlySSB 3058.) Effective 7-1-04.",
+      "dateSigned": "2004-05-15"
+    },
+    {
+      "billNumber": "SF 2288",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other federal grants, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. (FormerlySSB 3053.)  Effective 7-1-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "SF 2291",
+      "billTitle": "A bill for an act relating to local government authority to encourage development and rehabilitation of certain real property and including effective date and applicability date provisions.  (FormerlySF 2115.) Effective 5-17-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "SF 2298",
+      "billTitle": "A bill for an act making, reducing, and transferring appropriations, providing for government and economic development-related taxation, surcharge, and fee matters, providing for other properly related matters, and including penalty and effective and retroactive and other applicability date provisions.  Item vetoed.  Various effective dates; see sections 32, 47, 48, 100, 162, 209, 287, 300, 317, 345-348, 400, 418, 432, 433, 439, 443, and 468 of bill.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "HF 2378",
+      "billTitle": "A bill for an act relating to the disposition of medical assistance special needs trusts, including the payment rate for nursing facility levels of care. Effective 7-01-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "HF 2551",
+      "billTitle": "A bill for an act relating to programs under the authority of the department of public health. Effective 7-01-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "HF 2555",
+      "billTitle": "A bill for an act providing for specified changes regarding programs under the purview of the department of public health, providing a penalty, and making an appropriation. Effective 7-01-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "HF 2577",
+      "billTitle": "A bill for an act relating to and making appropriations from the healthy Iowans tobacco trust and the tobacco settlement trust fund and providing an effective date. Effective 7-01-04, with exception of section 14 effective 5-17-04.",
+      "dateSigned": "2004-05-17"
+    },
+    {
+      "billNumber": "SF 2112",
+      "billTitle": "A bill for an act relating to and making transportation and other infrastructure-related appropriations to the state department of transportation, including allocation and use of moneys from the road use tax fund, the primary road fund, and the keep Iowa beautiful fund, and providing for the nonreversion of certain moneys.  (FormerlySSB 3062.)  Effective 7-1-04.",
+      "dateSigned": "2004-05-19"
+    },
+    {
+      "billNumber": "HF 22",
+      "billTitle": "A bill for an act relating to the awarding of joint physical care of a child. Effective 7-01-04.",
+      "dateSigned": "2004-05-19"
+    },
+    {
+      "billNumber": "SF 2311",
+      "billTitle": "A bill for an act relating to appropriations for economic development purposes, workforce development field offices, workforce training and economic development funds of community colleges, and including effective date and retroactive applicability provisions.  (FormerlySSB 3179.) Effective 9-7-04.",
+      "dateSigned": "2004-09-07"
+    },
+    {
+      "billNumber": "HF 2581",
+      "billTitle": "A bill for an act concerning regulatory, taxation, and statutory requirements affecting individuals and business relating to economic development, workers' compensation, financial services, unemployment compensation employer surcharges, income taxation bonus depreciation and expensing allowances, and civil action appeal bonds, and including effective date, applicability, and retroactive applicability provisions. Effective 9-7-04.",
+      "dateSigned": "2004-09-07"
+    }
+  ]
+}

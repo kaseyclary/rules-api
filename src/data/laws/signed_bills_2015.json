@@ -1,0 +1,716 @@
+{
+  "year": 2015,
+  "totalBills": 142,
+  "bills": [
+    {
+      "billNumber": "SF 126",
+      "billTitle": "A bill for an act updating the Code references to the Internal Revenue Code and decoupling from certain federal bonus depreciation provisions, and including effective date and retroactive applicability provisions. (FormerlySSB 1059.)  Effective 2-17-15.",
+      "dateSigned": "2015-02-17"
+    },
+    {
+      "billNumber": "SF 257",
+      "billTitle": "A bill for an act relating to transportation funding by limiting the term of indebtedness for certain county projects, modifying certain permit fees, modifying the rate of the excise taxes on motor fuel and certain special fuel, establishing a fuel distribution percentage formula for certain special fuel used in motor vehicles, requiring legislative review of the fuel distribution percentage formulas, extending the repeal date of the access Iowa highway plan, and including effective date provisions. (FormerlySSB 1168.)  Various effective dates; see sections 14 and 15 of bill.",
+      "dateSigned": "2015-02-25"
+    },
+    {
+      "billNumber": "SF 173",
+      "billTitle": "A bill for an act relating to school district property tax replacement payments and including effective date provisions.  (FormerlySSB 1142.) Effective 3-5-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "HF 123",
+      "billTitle": "A bill for an act making a statutory correction to remove an inconsistency regarding the employment of the executive director of the board of educational examiners. Effective 7-1-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "HF 159",
+      "billTitle": "A bill for an act relating to the administration of combined guardianship and conservatorship proceedings. Effective 7-1-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "HF 166",
+      "billTitle": "A bill for an act relating to the disabled veteran homestead tax credit by modifying eligibility criteria and including effective date and retroactive applicability provisions. Effective 3-5-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "HF 167",
+      "billTitle": "A bill for an act concerning access to documents during the competitive bidding process for public improvement contracts.  Effective 7-1-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "HF 205",
+      "billTitle": "A bill for an act modifying reporting requirements relating to veterans attending postsecondary educational institutions.  Effective 7-1-15.",
+      "dateSigned": "2015-03-05"
+    },
+    {
+      "billNumber": "SF 130",
+      "billTitle": "A bill for an act making changes to certain limitations within the national guard educational assistance program.  (FormerlySSB 1045.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 131",
+      "billTitle": "A bill for an act relating to information the board of educational examiners is required to review regarding applicants for license renewal.  (FormerlySSB 1054.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 134",
+      "billTitle": "A bill for an act concerning bonding requirements for a wine direct shipper license.  (FormerlySSB 1061.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 150",
+      "billTitle": "A bill for an act increasing the criminal penalty for a sexually violent predator who escapes or attempts to escape from custody.  (FormerlySSB 1088.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 198",
+      "billTitle": "A bill for an act relating to the regulation of certified public accountants and certified public accounting firms.  (FormerlySSB 1060.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 223",
+      "billTitle": "A bill for an act relating to support of the poor by certain relatives. (FormerlySSB 1007.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 323",
+      "billTitle": "A bill for an act concerning lottery games and revenue for support of veterans.  (FormerlySSB 1012andSF 177.)  Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "SF 440",
+      "billTitle": "A bill for an act relating to interstate contracts for substance abuse and mental health care and treatment.  (FormerlySSB 1200.) Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 131",
+      "billTitle": "A bill for an act concerning the definition of beer for purposes of beer brewers and wholesalers. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 202",
+      "billTitle": "A bill for an act relating to licensure of retired volunteer dentists and dental hygienists. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 266",
+      "billTitle": "A bill for an act regarding disposal of yard waste in landfills operating a methane collection system. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 371",
+      "billTitle": "A bill for an act relating to allowable disclosures of radon testing results. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 372",
+      "billTitle": "A bill for an act relating to court appointed special advocates and the confidentiality of information regarding a child receiving foster care. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 445",
+      "billTitle": "A bill for an act relating to payment of costs for educational services for children residing in certain psychiatric hospitals or institutions. Effective 7-1-15.",
+      "dateSigned": "2015-03-31"
+    },
+    {
+      "billNumber": "HF 570",
+      "billTitle": "A bill for an act providing for an exemption from municipal tort liability for claims arising from recreational activities on municipality-controlled property. Effective 7-1-15.",
+      "dateSigned": "2015-04-01"
+    },
+    {
+      "billNumber": "HF 395",
+      "billTitle": "A bill for an act relating to the regulation of pharmacy benefits managers and including effective date provisions. Effective 4-2-15.",
+      "dateSigned": "2015-04-02"
+    },
+    {
+      "billNumber": "SF 217",
+      "billTitle": "A bill for an act concerning Iowa finance authority duties regarding the title guaranty board and the shelter assistance fund.  (FormerlySSB 1117.) Effective 7-1-15.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "SF 392",
+      "billTitle": "A bill for an act relating to hunter education license requirements, providing for a hunting license with an apprentice hunter designation, and including penalty provisions.  (FormerlySSB 1206.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "HF 455",
+      "billTitle": "A bill for an act requiring the submission of a corporate governance annual disclosure to the commissioner of insurance by certain insurers or insurance groups, and including penalties and applicability date provisions. Effective 7-1-15.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "HF 496",
+      "billTitle": "A bill for an act establishing certain privileges claimed for or by military victim advocates. Effective 7-1-15.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "HF 535",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections. Effective 7-1-15.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "HF 536",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective date and retroactive applicability provisions. Various effective dates, see bill.",
+      "dateSigned": "2015-04-08"
+    },
+    {
+      "billNumber": "SF 227",
+      "billTitle": "A bill for an act relating to the school start date and to exception and penalty provisions and including effective date provisions.  (FormerlySSB 1058.)  Effective 4-10-15.",
+      "dateSigned": "2015-04-10"
+    },
+    {
+      "billNumber": "SF 267",
+      "billTitle": "A bill for an act relating to privileged communications between certain peer support group counselors and officers.  (FormerlySSB 1163.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-14"
+    },
+    {
+      "billNumber": "SF 426",
+      "billTitle": "A bill for an act relating to privileged communications between a health care provider or health facility and a patient following an adverse health care incident.  (FormerlySSB 1176.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-14"
+    },
+    {
+      "billNumber": "HF 488",
+      "billTitle": "A bill for an act relating to the programs of the Iowa commission on volunteer service by establishing an Iowa reading corps and specifying uses of funds. Effective 7-1-15.",
+      "dateSigned": "2015-04-14"
+    },
+    {
+      "billNumber": "SF 155",
+      "billTitle": "A bill for an act relating to the illumination of rear registration plates on dump trucks and construction vehicles.  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 200",
+      "billTitle": "A bill for an act relating to the employment and duties of the executive director of the dental board.  (FormerlySSB 1016.) Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 201",
+      "billTitle": "A bill for an act relating to the findings of an examining physician assistant for a person believed to be seriously mentally impaired in an emergency situation.  (FormerlySSB 1002.) Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 218",
+      "billTitle": "A bill for an act relating to the operation of a snowmobile within the right-of-way of an interstate highway or freeway and including penalty provisions.  (FormerlySSB 1119.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 222",
+      "billTitle": "A bill for an act relating to the disposition of seized firearms or ammunition.  (FormerlySSB 1010.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 264",
+      "billTitle": "A bill for an act relating to access to local exchange service information. (FormerlySSB 1025.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 276",
+      "billTitle": "A bill for an act relating to the administration of medical licenses by the board of medicine.  (FormerlySSB 1015.) Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 435",
+      "billTitle": "A bill for an act relating to public access to data processing software under Iowa's open records law.  (FormerlySF 266.) Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 451",
+      "billTitle": "A bill for an act relating to the transfer of jurisdiction from the juvenile court to the district court related to a child in need of assistance case. (FormerlySSB 1230.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 146",
+      "billTitle": "A bill for an act concerning gambling game prohibited activities and making penalties applicable. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 172",
+      "billTitle": "A bill for an act relating to corporations' powers and duties, document filings, meetings, mergers, voting procedures, and the functions of directors and officers. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 258",
+      "billTitle": "A bill for an act relating to sexual misconduct with offenders and juveniles, and providing penalties. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 259",
+      "billTitle": "A bill for an act relating to certain persons who are excluded from coverage under the workers' compensation law of this state.  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 421",
+      "billTitle": "A bill for an act relating to the qualifications for community college career and technical education instructors. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 467",
+      "billTitle": "A bill for an act relating to violations of deer and wild turkey harvest reporting requirements and including penalty provisions. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 515",
+      "billTitle": "A bill for an act relating to the use of the district management levy and including applicability provisions. Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 529",
+      "billTitle": "A bill for an act relating to drainage and levee districts, by providing for mergers, repairs and improvements, and elections.  Effective 7-1-15.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "HF 563",
+      "billTitle": "A bill for an act relating to vehicle recyclers, including the transfer of motor vehicles to vehicle recyclers and compliance with the national motor vehicle title information system, making penalties applicable, and including effective date provisions.  Effective 1-1-16.",
+      "dateSigned": "2015-04-17"
+    },
+    {
+      "billNumber": "SF 125",
+      "billTitle": "A bill for an act relating to alcoholic beverage control and matters under the purview of the alcoholic beverages division of the department of commerce.  (FormerlySSB 1033.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 135",
+      "billTitle": "A bill for an act relating to campaign finance by requiring electronic filing of certain statements and reports and by raising the minimum dollar amounts that trigger certain regulations.  (FormerlySSB 1063.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 167",
+      "billTitle": "A bill for an act related to the compensation of elective county officers. (FormerlySSB 1084.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 203",
+      "billTitle": "A bill for an act relating to persons and activities regulated by the board of nursing.  (FormerlySSB 1097.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 274",
+      "billTitle": "A bill for an act relating to programs and services under the purview of the department of public health including the board of hearing aid dispensers and the medical residency training matching grants program and including effective date and retroactive applicability provisions.  (FormerlySSB 1096.)  Various effective dates; see section 19 of bill.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 292",
+      "billTitle": "A bill for an act relating to the confidentiality of certain juvenile court records.  (FormerlySSB 1148.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 306",
+      "billTitle": "A bill for an act relating to communication and visitation between an adult ward and another person.  (FormerlySSB 1162.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 335",
+      "billTitle": "A bill for an act relating to the release of certain information to a procurement organization.  (FormerlySSB 1165.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 401",
+      "billTitle": "A bill for an act relating to subacute care facilities.  (FormerlySSB 1240.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 412",
+      "billTitle": "A bill for an act relating to child welfare, including provisions relating to child in need of assistance and delinquency cases.  (FormerlySSB 1180.) Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 434",
+      "billTitle": "A bill for an act relating to continuing education requirements for licensed barbers.  (FormerlySSB 1235.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 438",
+      "billTitle": "A bill for an act requiring the racing and gaming commission to conduct a study on exchange wagering.  (FormerlySSB 1256.) Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 448",
+      "billTitle": "A bill for an act relating to the commission of a class \"A\" felony by a person under eighteen years of age, providing penalties, and including effective date and applicability provisions.  (FormerlySSB 1185.) Effective 4-24-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 456",
+      "billTitle": "A bill for an act concerning the sale and off-premises transportation and consumption of certain containers of beer.  (FormerlySSB 1171.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 457",
+      "billTitle": "A bill for an act allowing the office of ombudsman access in the performance of its duties to the minutes and audio recording of a closed session. (FormerlySF 82.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 462",
+      "billTitle": "A bill for an act relating to the maintenance and administration of epinephrine in schools and certain other facilities.  (FormerlySSB 1244.) Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 463",
+      "billTitle": "A bill for an act relating to the redesign of mental health and disabilities services administered by regions comprised of counties.  (FormerlySSB 1181.)  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 203",
+      "billTitle": "A bill for an act providing for the licensing of respiratory care and polysomnography practitioners and polysomnographic technologists and exceptions thereto, making penalties applicable, and including effective date provisions. Effective 7-1-15, with exception of section 3 effective 1-1-17.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 227",
+      "billTitle": "A bill for an act relating to strip searches of persons at a jail or municipal holding facility. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 287",
+      "billTitle": "A bill for an act relating to counterfeit, nonfunctional, or unsafe air bags, providing penalties, and including effective date provisions. Effective 4-24-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 381",
+      "billTitle": "A bill for an act relating to the Iowa health information network, and including effective date provisions. Various effective dates, see bill.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 414",
+      "billTitle": "A bill for an act requiring disclosures by private providers of veterans benefits services and including penalties. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 449",
+      "billTitle": "A bill for an act relating to mental health crisis facilities.  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 468",
+      "billTitle": "A bill for an act relating to the appointment of mental health advocates. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 525",
+      "billTitle": "A bill for an act allowing a professional limited liability company or a partnership of veterinarians to provide veterinary care. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 558",
+      "billTitle": "A bill for an act relating to disorderly conduct by persons at funeral or memorial services and making penalties applicable.  Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 569",
+      "billTitle": "A bill for an act relating to notice of garnishment and levy to a judgment debtor. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "HF 579",
+      "billTitle": "A bill for an act relating to the regulation of health care facilities, elder group homes, assisted living programs, and adult day services programs. Effective 7-1-15.",
+      "dateSigned": "2015-04-24"
+    },
+    {
+      "billNumber": "SF 75",
+      "billTitle": "A bill for an act relating to the use of blue and white lighting devices and reflectors during snow and ice treatment and removal, making penalties applicable, and including sunset date provisions.  (FormerlySSB 1040.) Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 199",
+      "billTitle": "A bill for an act making changes to the campaign finance laws relating to independent expenditures and making penalties applicable.  (FormerlySSB 1064.)  Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 385",
+      "billTitle": "A bill for an act relating to the expungement of not-guilty verdicts and dismissed criminal-charge records, and including effective date and applicability provisions.  (FormerlySSB 1110.) Effective 1-1-16.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 404",
+      "billTitle": "A bill for an act relating to the certification and regulation of shorthand reporters.  (FormerlySSB 1089.)  Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 415",
+      "billTitle": "A bill for an act related to elections administration.  (FormerlySSB 1215.) Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 479",
+      "billTitle": "A bill for an act concerning the apportionment of certain gross receipts of a broadcaster for purposes of Iowa income tax, and including retroactive applicability provisions.  (FormerlySSB 1219.)  Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "SF 487",
+      "billTitle": "A bill for an act regulating the sale of portable electronics insurance, including requiring licensure, providing for fees and penalties, and including effective date provisions.  (FormerlySSB 1156andSF 348.) Effective 1-1-16.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 347",
+      "billTitle": "A bill for an act relating to the licensure of child care programs operated or contracted for by a school district or accredited nonpublic school and including effective date provisions. Effective 1-1-16.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 447",
+      "billTitle": "A bill for an act requiring wireless communications service providers to provide call locations in circumstances of emergency, making penalties applicable, and including effective date provisions. Effective 7-1-15, with exception of section 1 effective 1-1-16.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 507",
+      "billTitle": "A bill for an act relating to certain delinquent accounts for wastewater, sewer system, storm water drainage, and sewage treatment services. Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 548",
+      "billTitle": "A bill for an act requiring the Iowa utilities board to adopt administrative rules relating to the safety of distributed electric generation facilities. Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 583",
+      "billTitle": "A bill for an act relating to the control of effluent from animal truck wash facilities, by requiring certain permits, regulating storage and application of effluent, and making penalties applicable. Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 599",
+      "billTitle": "A bill for an act relating to the division of assets and liabilities of school districts involved in a reorganization or dissolution and including applicability provisions. Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 621",
+      "billTitle": "A bill for an act relating to the administration of the streamlined sales and use tax agreement by the department of revenue. Effective 7-1-15.",
+      "dateSigned": "2015-05-01"
+    },
+    {
+      "billNumber": "HF 397",
+      "billTitle": "A bill for an act relating to the state child labor law and including effective date provisions. Effective 6-1-15.",
+      "dateSigned": "2015-05-07"
+    },
+    {
+      "billNumber": "HF 585",
+      "billTitle": "A bill for an act establishing an address confidentiality program in the office of the secretary of state for a victim of domestic abuse, domestic abuse assault, sexual abuse, stalking, and human trafficking and providing for a fee and including effective date provisions. Effective 1-1-16, with exception of sections 1 and 13-16 effective 7-1-15.",
+      "dateSigned": "2015-05-07"
+    },
+    {
+      "billNumber": "HF 615",
+      "billTitle": "A bill for an act relating to the establishment, operation, and dissolution of rural improvement zones. Effective 7-1-15.",
+      "dateSigned": "2015-05-07"
+    },
+    {
+      "billNumber": "SF 366",
+      "billTitle": "A bill for an act relating to the reexamination and recalculation of disability retirement benefits for beneficiaries under the public safety peace officers' retirement, accident, and disability system.  (FormerlySSB 1213.)  Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "SF 482",
+      "billTitle": "A bill for an act concerning social and charitable gambling and making penalties applicable.  (FormerlySSB 1217andSF 442.) Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "SF 488",
+      "billTitle": "A bill for an act relating to air quality, by providing for the establishment, imposition, and collection of fees, the creation or administration of funds and programs, making appropriations, and including effective date provisions.  (FormerlySSB 1222andSF 382.)  Effective 5-15-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 229",
+      "billTitle": "A bill for an act relating to the regulation of free offers and buying club memberships. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 622",
+      "billTitle": "A bill for an act relating to certain fees charged in connection with vehicle rental agreements and making penalties applicable.  Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 630",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other nonstate sources, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 634",
+      "billTitle": "A bill for an act providing for the department of agriculture and land stewardship's administration of certain functions, including by eliminating past dates relating to a determination of Iowa-foaled horse and to the rehabilitation and conservation of land affected by coal mining, providing for payment by the department for the examination of certain articles, allowing the department to adopt by reference certain federal publications affecting milk and milk products, modifying the definition of biobutanol, eliminating departmental duties and fees relating to weights and measures, providing for purchased-grain fees paid into the Iowa grain indemnity fund, and changing the name of the division of soil and water conservation and the name of its appointed administrative official. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 637",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 638",
+      "billTitle": "A bill for an act concerning the reporting and payment of wine gallonage sales and taxes. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "HF 646",
+      "billTitle": "A bill for an act relating to the use of revenues resulting from the physical plant and equipment levy and including applicability provisions. Effective 7-1-15.",
+      "dateSigned": "2015-05-15"
+    },
+    {
+      "billNumber": "SF 486",
+      "billTitle": "A bill for an act relating to the approval and imposition of the facilities property tax levy and the equipment replacement and program sharing property tax levy for a merged area and including effective date and applicability provisions.  (FormerlySF 371.) Effective 5-22-15.",
+      "dateSigned": "2015-05-22"
+    },
+    {
+      "billNumber": "SF 501",
+      "billTitle": "A bill for an act relating to interstate student tuition reciprocity agreements involving certain postsecondary educational institutions, creating a tuition refund fund, appropriating moneys from the fund, and including effective date provisions.  Effective 5-22-15.",
+      "dateSigned": "2015-05-22"
+    },
+    {
+      "billNumber": "HF 504",
+      "billTitle": "A bill for an act relating to insurance, including electronic delivery and posting of insurance notices and documents and to certain duties, responsibilities, and liabilities of insurance producers. Effective 7-1-15.",
+      "dateSigned": "2015-05-22"
+    },
+    {
+      "billNumber": "HF 626",
+      "billTitle": "A bill for an act relating to the processes for appealing tax matters in this state by extending the future repeal of the property assessment appeal board, providing for the future repeal of the state board of tax review, providing for appeals to the director of revenue for certain tax matters and modifying the powers and duties of the director of revenue, and including effective date provisions. Various effective dates, see bill.",
+      "dateSigned": "2015-05-22"
+    },
+    {
+      "billNumber": "SF 500",
+      "billTitle": "A bill for an act relating to family support programs and provisions including those relating to child support and establishment of paternity.  (FormerlySSB 1282.)  Various effective dates; see section 123 of bill.",
+      "dateSigned": "2015-06-03"
+    },
+    {
+      "billNumber": "SF 494",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government entities involved with agriculture, natural resources and environmental protection, and including effective date and retroactive applicability provisions.  (FormerlySSB 1279.)  Various effective dates; see sections 51 and 52 of bill.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "SF 513",
+      "billTitle": "A bill for an act relating to and making appropriations for a period of short duration beginning July 1, 2015, providing for related legal and other matters, and including effective date and retroactive applicability provisions.  (FormerlySSB 1294.) Effective 6-18-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 299",
+      "billTitle": "A bill for an act prohibiting the use of agreements concerning private land owners entered into by the loess hills development and conservation authority or the loess hills alliance. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 544",
+      "billTitle": "A bill for an act regarding the use of waste conversion technologies as a waste management practice. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 550",
+      "billTitle": "A bill for an act requiring publication on the internet of contact information for elective public officers. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 603",
+      "billTitle": "A bill for an act exempting from the sales tax the sales price for the use of self-pay washers and dryers. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 607",
+      "billTitle": "A bill for an act expanding the definition of a public utility for purposes of provisions governing public utility crossings of railroad rights-of-way, and including effective date provisions.  Effective 6-18-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 616",
+      "billTitle": "A bill for an act relating to property tax credits and assessment by modifying filing deadline provisions, modifying requirements relating to property assessment notices and equalization order notices, modifying provisions relating to property assessment protests and assessor informal reviews, and including effective date and applicability provisions. Various effective dates, see bill.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 624",
+      "billTitle": "A bill for an act increasing the number of years that a taxpayer may claim a custom farming contract tax credit under a contract executed by the holder of agricultural land and a qualified beginning farmer, and including effective date and retroactive applicability provisions. Effective 6-18-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 660",
+      "billTitle": "A bill for an act requiring a public hearing prior to increasing the rate of a franchise fee imposed by a city. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 662",
+      "billTitle": "A bill for an act relating to vital statistics, including access to birth records and vital statistics fees collected by the state and county registrars of vital statistics. Effective 7-1-15.",
+      "dateSigned": "2015-06-18"
+    },
+    {
+      "billNumber": "HF 655",
+      "billTitle": "A bill for an act relating to community development by establishing application rules and limitations for wireless communications facilities and infrastructure, by modifying provisions related to reinvestment districts and flood mitigation projects, and by providing for the coordination and facilitation of broadband access in targeted areas of the state, including property tax incentives, and including effective date and retroactive and other applicability provisions. Approved 6-22-15. Effective 7-1-15, with exception of Division II effective 6-22-15.",
+      "dateSigned": "2015-06-22"
+    },
+    {
+      "billNumber": "SF 176",
+      "billTitle": "A bill for an act relating to school district property tax replacement payments for certain budget years and including effective date provisions. (FormerlySSB 1145.)  Effective 6-26-15.",
+      "dateSigned": "2015-06-26"
+    },
+    {
+      "billNumber": "SF 485",
+      "billTitle": "A bill for an act relating to the voter-approved physical plant and equipment levy by authorizing school districts to exceed the statutory levy rate limit following the refunding or refinancing of certain loan agreements and including effective date provisions.  (FormerlySF 301andSF 365.) Effective 6-26-15.",
+      "dateSigned": "2015-06-26"
+    },
+    {
+      "billNumber": "HF 635",
+      "billTitle": "A bill for an act relating to matters under the purview of the department of transportation, providing fees, and including effective date provisions. Effective 7-1-15, with exception of sections 40 and 41 effective 1-1-16, and section 75 effective 6-26-15.",
+      "dateSigned": "2015-06-26"
+    },
+    {
+      "billNumber": "HF 645",
+      "billTitle": "A bill for an act modifying and enacting provisions relating to specified renewable energy tax credits, and including effective date and retroactive applicability provisions. Effective 6-26-15.",
+      "dateSigned": "2015-06-26"
+    },
+    {
+      "billNumber": "HF 661",
+      "billTitle": "A bill for an act relating to probate and estate=related laws, including the deduction of administrative expenses on the Iowa fiduciary income tax return, the Iowa inheritance tax, fiduciaries' right to property and information, and the surviving spouse's elective share, and including retroactive and other applicability provisions. Effective 7-1-15, with exception of section 2 effective 7-1-16.",
+      "dateSigned": "2015-06-26"
+    },
+    {
+      "billNumber": "SF 171",
+      "billTitle": "A bill for an act establishing the state percent of growth and including effective date and retroactive applicability provisions.  (FormerlySSB 1140.)  Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 172",
+      "billTitle": "A bill for an act establishing the categorical state percent of growth and including effective date and retroactive applicability provisions. (FormerlySSB 1141.)  Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 496",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch and including effective date and retroactive applicability provisions. (FormerlySSB 1283.)  Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 497",
+      "billTitle": "A bill for an act relating to appropriations to the justice system, and including effective date and retroactive applicability provisions. (FormerlySSB 1284.)  Item vetoed.  Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 499",
+      "billTitle": "A bill for an act making appropriations to the department of cultural affairs, the economic development authority, the Iowa finance authority, the public employment relations board, the department of workforce development, and the state board of regents and certain regents institutions, modifying programs and duties of the economic development authority, providing for other properly related matters, and including effective date and retroactive and other applicability provisions.  (FormerlySSB 1281.)  Item vetoed. Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 505",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and veterans and including other related provisions and appropriations, and including effective date and retroactive and other applicability date provisions.  (FormerlySSB 1288.)  Item vetoed.  Various effective dates; see sections 33, 61, 110, and 162 of bill.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "SF 510",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for fees, providing for legal responsibilities, providing for certain employee benefits, and providing for regulatory, taxation, and properly related matters, and including penalties and effective date and retroactive and other applicability provisions. (FormerlySSB 1289.)  Item vetoed.  Various effective dates; see bill.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 632",
+      "billTitle": "A bill for an act relating to various matters involving insurance and the insurance division of the department of commerce and including effective date provisions. Effective 7-2-15, with exception of section 3, effective 1-1-16.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 650",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund and the revenue bonds capitals II fund, providing for related matters, and including effective date provisions. Item vetoed 7-2-15. Effective 7-2-15, with exception of section 3, s.s. 5, subpar. b and c.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 651",
+      "billTitle": "A bill for an act relating to expenditures of moneys from the E911 emergency communications fund, other duties of the department of homeland security and emergency management, and other properly related matters. Item vetoed 7-2-15.  Effective 7-2-15, with exception of section 1, s.s. 1 and 2; sections 2 and 4.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 658",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, providing for related matters, and providing effective date and retroactive and other applicability provisions. Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 659",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters. Effective 7-2-15.",
+      "dateSigned": "2015-07-02"
+    },
+    {
+      "billNumber": "HF 666",
+      "billTitle": "A bill for an act relating to state and local finances by making transfers and appropriations, providing for properly related matters, and including effective date and retroactive applicability provisions. Item vetoed 7-2-15. Effective 7-2-15, with exception of sections 1, 3 and 6-12.",
+      "dateSigned": "2015-07-02"
+    }
+  ]
+}

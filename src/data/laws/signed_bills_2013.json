@@ -1,0 +1,726 @@
+{
+  "year": 2013,
+  "totalBills": 144,
+  "bills": [
+    {
+      "billNumber": "SF 106",
+      "billTitle": "A bill for an act updating the Code references to the Internal Revenue Code and decoupling from certain federal bonus depreciation provisions, providing certain taxpayers additional time to file a claim for refund or credit of individual income tax, and including effective date and retroactive applicability provisions.  (FormerlySSB 1071.)  Effective 2-14-13.",
+      "dateSigned": "2013-02-14"
+    },
+    {
+      "billNumber": "SF 91",
+      "billTitle": "A bill for an act increasing civil penalties applicable to specified pipeline safety violations.  (FormerlySSB 1051.) Effective 7-1-13.",
+      "dateSigned": "2013-02-28"
+    },
+    {
+      "billNumber": "SF 110",
+      "billTitle": "A bill for an act relating to conformity with federal law concerning unemployment insurance employer charges and claimant misrepresentation regarding benefit overpayments, providing a penalty, and including applicability provisions.  (FormerlySSB 1002.)  Effective 7-1-13.",
+      "dateSigned": "2013-02-28"
+    },
+    {
+      "billNumber": "SF 145",
+      "billTitle": "A bill for an act relating to the confidentiality of information filed with the court for the purpose of securing an arrest warrant.  (FormerlySSB 1026.)  Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "SF 181",
+      "billTitle": "A bill for an act relating to matters under the purview of the banking division of the department of commerce.  (FormerlySSB 1139.)  Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "SF 187",
+      "billTitle": "A bill for an act relating to the transmission of court records by the clerk of the district court to the clerk of the supreme court in an appeal. (FormerlySSB 1097.)  Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "SF 188",
+      "billTitle": "A bill for an act relating to an application for the immediate return of seized property.  (FormerlySSB 1095.)  Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "SF 353",
+      "billTitle": "A bill for an act relating to vaccine administration by licensed pharmacists.  (FormerlySSB 1082.)  Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 133",
+      "billTitle": "A bill for an act relating to the discharge of a firearm near buildings or feedlots by certified law enforcement officers for training purposes, providing penalties, and including effective date provisions. (FormerlyHSB 10) Effective 3-28-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 160",
+      "billTitle": "A bill for an act relating to mental health and disability services by making transfers and appropriations for the fiscal year beginning July 1, 2012, and including related changes and effective date provisions. (FormerlyHSB 103) Effective 3-28-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 185",
+      "billTitle": "A bill for an act relating to the title of the office of citizens' aide. (FormerlyHSB 39) Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 199",
+      "billTitle": "A bill for an act relating to the administration of the streamlined sales and use tax agreement by the department of revenue. (FormerlyHSB 101) Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 225",
+      "billTitle": "A bill for an act relating to pollution prevention and waste management assistance. (FormerlyHSB 73) Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 324",
+      "billTitle": "A bill for an act relating to the termination of the targeted small business financial assistance program and transferring funds for assistance to targeted small businesses. (FormerlyHSB 63) Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 358",
+      "billTitle": "A bill for an act relating to the boards of directors of public corporations. (FormerlyHSB 100) Effective 7-1-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 458",
+      "billTitle": "A bill for an act providing for the department of agriculture and land stewardship's administration of programs regarding a conservation practices revolving loan fund, the state metrologist, pesticide regulation, and motor fuel standards, and including effective date provisions. (FormerlyHSB 129) Effective 7-1-13, with exception of Division IV, effective 3-28-13.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "HF 496",
+      "billTitle": "A bill for an act relating to the service of notice of no-contact orders and protective orders, and including effective date provisions. (FormerlyHSB 138) Effective 4-1-14.",
+      "dateSigned": "2013-03-28"
+    },
+    {
+      "billNumber": "SF 347",
+      "billTitle": "A bill for an act relating to record checks of prospective and current health care employees and certain students and including effective date and applicability provisions.  (FormerlySSB 1131.) Effective 4-5-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 14",
+      "billTitle": "A bill for an act relating to the enforcement of weight limitations for vehicles with retractable axles. Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 131",
+      "billTitle": "A bill for an act authorizing charitable giving payroll deductions for community college employees. (FormerlyHSB 57) Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 307",
+      "billTitle": "A bill for an act establishing the department of homeland security and emergency management. (FormerlyHSB 40) Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 417",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections.  (FormerlyHSB 161) Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 469",
+      "billTitle": "A bill for an act relating to business corporations, including by providing for their organization and operation; providing for the relationship between shareholders, directors, and officers; and including effective date provisions. (FormerlyHSB 143) Effective 1-1-14, with exception of Division II, effective upon repeal of Iowa Acts chapter 2.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 486",
+      "billTitle": "A bill for an act relating to persons offering orthotic, prosthetic, and pedorthic services to the public, and relating to the scope of orthotic, prosthetic, and pedorthic services which may be ordered by certain health care providers, and including transition provisions. (FormerlyHF 166) Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "HF 591",
+      "billTitle": "A bill for an act relating to estates and trusts and including retroactive and other applicability provisions. (FormerlyHSB 175) Effective 7-1-13.",
+      "dateSigned": "2013-04-05"
+    },
+    {
+      "billNumber": "SF 183",
+      "billTitle": "A bill for an act relating to matters under the purview of the credit union division of the department of commerce, and making penalties applicable. (FormerlySSB 1128.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 184",
+      "billTitle": "A bill for an act relating to programs and services under the purview of the department on aging.  (FormerlySSB 1056.) Effective 7-1-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 203",
+      "billTitle": "A bill for an act relating to mental health and disability services requirements involving the department of human services and including effective date and retroactive applicability provisions.  (FormerlySSB 1130.)  Various effective dates; see sections 6 and 9 of bill.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 327",
+      "billTitle": "A bill for an act concerning the municipal fire and police retirement system and including effective date and retroactive applicability provisions. (FormerlySSB 1201.)  Various effective dates; see section 12 of bill.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 349",
+      "billTitle": "A bill for an act relating to the deadline for obtaining a registration fee credit for a vehicle that is sold, transferred, or junked or for a motor vehicle purchased by a lessee, and including effective date provisions. (FormerlySSB 1179.)  Effective 1-1-14.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 351",
+      "billTitle": "A bill for an act relating to service providers under Medicaid home and community-based services waivers.  (FormerlySSB 1133.) Effective 7-1-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 357",
+      "billTitle": "A bill for an act relating to Medicaid program integrity, and providing penalties.  (FormerlySSB 1127.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 390",
+      "billTitle": "A bill for an act relating to certain title abstracts to property with private sewage disposal systems and providing effective date and retroactive applicability provisions.  (FormerlySSB 1219.) Effective 4-5-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "SF 394",
+      "billTitle": "A bill for an act relating to informal conferences on contested citations or regulatory insufficiencies in health care facilities or assisted living programs and including applicability provisions.  (FormerlySSB 1105.) Effective 7-1-13.",
+      "dateSigned": "2013-04-08"
+    },
+    {
+      "billNumber": "HF 397",
+      "billTitle": "A bill for an act relating to the administration of duties and programs by the economic development authority. (FormerlyHSB 62) Effective 7-1-13.",
+      "dateSigned": "2013-04-10"
+    },
+    {
+      "billNumber": "HF 488",
+      "billTitle": "A bill for an act concerning the alcoholic beverages division of the department of commerce and alcoholic beverage control, and making penalties applicable. (FormerlyHSB 147) Effective 7-1-13.",
+      "dateSigned": "2013-04-10"
+    },
+    {
+      "billNumber": "HF 544",
+      "billTitle": "A bill for an act relating to the Iowa veterans home and providing for the consideration of contributions to support as repayment receipts. (FormerlyHSB 130) Effective 7-1-13.",
+      "dateSigned": "2013-04-10"
+    },
+    {
+      "billNumber": "SF 114",
+      "billTitle": "A bill for an act relating to the filing of a certificate of deposit by the owner of a motor vehicle as proof of financial responsibility.  (FormerlySSB 1021.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 142",
+      "billTitle": "A bill for an act providing that certain activities relating to business opportunity promotions are unlawful practices punishable as consumer fraud and making a penalty applicable.  (FormerlySSB 1030.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 182",
+      "billTitle": "A bill for an act relating to credit for reinsurance, including transition, applicability, and effective date provisions.  (FormerlySSB 1052.) Effective 1-1-14.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 189",
+      "billTitle": "A bill for an act relating to a risk management framework for insurers and insurance groups and including penalty and applicability provisions. (FormerlySSB 1079.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 282",
+      "billTitle": "A bill for an act relating to procedural requirements in in rem forfeiture proceedings.  (FormerlySF 152.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 288",
+      "billTitle": "A bill for an act relating to the placement of a juvenile on youthful offender status and the prosecution of a juvenile in juvenile or district court, and access to child abuse records by a juvenile court intake officer. (FormerlySSB 1151.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 298",
+      "billTitle": "A bill for an act relating to the definition of the term \"sex act\" in the criminal code, lascivious acts with a child, and providing penalties. (FormerlySSB 1198.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 316",
+      "billTitle": "A bill for an act relating to farm tenancies of less than forty acres by providing procedures for termination.  (FormerlySF 200.) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 318",
+      "billTitle": "A bill for an act relating to the administration of the judicial branch including provisions pertaining to shorthand reporters and the practice of law, and making appropriations.  (FormerlySSB 1039.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 332",
+      "billTitle": "A bill for an act related to the administration of the national guard educational assistance program.  (FormerlySF 174.) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 340",
+      "billTitle": "A bill for an act relating to the length of on-duty periods and required rest periods for drivers of rail crew transport vehicles, and providing penalties.  (FormerlySF 172.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 343",
+      "billTitle": "A bill for an act authorizing tribal governments to establish a force of reserve peace officers.  (FormerlySF 213.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 355",
+      "billTitle": "A bill for an act relating to the regulation of vehicles of excessive size and weight, establishing fees, and providing penalties.  (FormerlySSB 1148.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 362",
+      "billTitle": "A bill for an act relating to the use of the term relative in child in need of assistance and termination of parental rights proceedings.  (FormerlySF 249.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 380",
+      "billTitle": "A bill for an act authorizing charitable auctions for alcoholic spirits. (FormerlySSB 1067.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 384",
+      "billTitle": "A bill for an act relating to removing or attempting to remove a communication or control device from the possession of a peace officer or correctional officer, interference with official acts, and providing penalties.  (FormerlySF 151.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "SF 388",
+      "billTitle": "A bill for an act relating to sponsor projects under the water resource restoration sponsor program.  (FormerlySF 245.) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 112",
+      "billTitle": "A bill for an act relating to the forfeiture of bail in a criminal case. (FormerlyHSB 25) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 197",
+      "billTitle": "A bill for an act relating to certification of adult day services programs and including effective date and retroactive applicability provisions. (FormerlyHF 102) Effective 4-24-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 210",
+      "billTitle": "A bill for an act relating to the practices and procedures of the state public defender. (FormerlyHSB 34) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 212",
+      "billTitle": "A bill for an act relating to conducting condemnation proceedings. (FormerlyHSB 8) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 223",
+      "billTitle": "A bill for an act concerning issuance of a license or users permit for specified activities regarding explosives. (FormerlyHF 12) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 311",
+      "billTitle": "A bill for an act relating to water quality. (FormerlyHSB 72) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 312",
+      "billTitle": "A bill for an act providing for certification requirements by persons involved in the management of manure, and including provisions for contingent implementation. (FormerlyHSB 87) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 361",
+      "billTitle": "A bill for an act providing for the issuance of special hunting licenses to certain nonresident disabled veterans and disabled members of the armed forces serving on active federal service.  (FormerlyHF 130) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 394",
+      "billTitle": "A bill for an act establishing a lifetime fur harvester license for residents who are sixty-five years of age or older. (FormerlyHF 82) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 395",
+      "billTitle": "A bill for an act relating to the alteration of the community of a motor vehicle franchisee. (FormerlyHSB 77) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 457",
+      "billTitle": "A bill for an act providing for the leasing of agricultural land by the department of natural resources to beginning farmers. (FormerlyHSB 97) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 472",
+      "billTitle": "A bill for an act relating to school district funding by establishing a supplementary weighting program for shared operational functions of school districts and area education agencies. (FormerlyHF 140) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 484",
+      "billTitle": "A bill for an act relating to boiler inspections and including effective date provisions. (FormerlyHSB 169) Effective 4-24-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 522",
+      "billTitle": "A bill for an act relating to the prevention and control of aquatic invasive species in the state and providing penalties. (FormerlyHSB 209) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 530",
+      "billTitle": "A bill for an act relating to the governor's office of drug control policy and certain advisory councils. (FormerlyHSB 68) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 541",
+      "billTitle": "A bill for an act relating to dam reconstruction standards.  (FormerlyHSB 163) Effective 7-1-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 575",
+      "billTitle": "A bill for an act relating to the technical administration of state financial and regulatory matters, including administration of income taxes, sales and use taxes, currency exchange licenses, and the wireless surcharge for enhanced 911 emergency telephone systems, and including effective date and retroactive applicability provisions. (FormerlyHSB 160) Effective 7-1-13, with exception of sections 3, 4, 8, and 16, effective 4-24-13.",
+      "dateSigned": "2013-04-24"
+    },
+    {
+      "billNumber": "HF 533",
+      "billTitle": "A bill for an act providing for entrepreneurial education funds for student organizations and clubs and including effective date and applicability provisions. (FormerlyHF 227) Effective 4-25-13.",
+      "dateSigned": "2013-04-25"
+    },
+    {
+      "billNumber": "SF 146",
+      "billTitle": "A bill for an act extending a provision relating to the use of certain increases in watercraft registration fees by the natural resource commission.  (FormerlySF 10.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 186",
+      "billTitle": "A bill for an act relating to funds transfers under the uniform commercial code, and including effective date provisions.  (FormerlySSB 1094.) Effective 4-26-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 317",
+      "billTitle": "A bill for an act prohibiting the disbursement of a certain plant, including its seeds, commonly classified as garlic mustard, oriental bittersweet, Japanese knotweed, and Japanese hop within this state, and making penalties applicable.  (FormerlySF 7.) Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 389",
+      "billTitle": "A bill for an act relating to hunter safety and ethics education course requirements.  (FormerlySSB 1223.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 419",
+      "billTitle": "A bill for an act providing for vision screening for school children. (FormerlySSB 1159.)  Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 427",
+      "billTitle": "A bill for an act relating to the licensing of plumbing, mechanical, HVAC-refrigeration, sheet metal, or hydronic professionals, including transition provisions, including effective date provisions, and making penalties applicable.  (FormerlySSB 1190.)  Effective 4-26-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "HF 351",
+      "billTitle": "A bill for an act providing that children who are enrolled in the statewide preschool program are of compulsory attendance age.  (FormerlyHF 144) Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "HF 538",
+      "billTitle": "A bill for an act authorizing alternate members of the board of parole. (FormerlyHSB 174) Effective 7-1-13.",
+      "dateSigned": "2013-04-26"
+    },
+    {
+      "billNumber": "SF 115",
+      "billTitle": "A bill for an act relating to intermediate drivers licenses and special minors licenses, making a penalty applicable, and including effective date provisions.  (FormerlySSB 1019.) Effective 1-1-14.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 202",
+      "billTitle": "A bill for an act relating to programs and services under the purview of the department of public health.  (FormerlySSB 1016.) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 224",
+      "billTitle": "A bill for an act relating to the period of validity of driver's licenses and nonoperator's identification cards, the fee charged for the issuance of duplicate driver's licenses and nonoperator's identification cards, and including effective date provisions.  (FormerlySSB 1154.)  Various effective dates; see section 5 of bill.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 358",
+      "billTitle": "A bill for an act concerning title to real estate.  (FormerlySSB 1220.) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 368",
+      "billTitle": "A bill for an act relating to the consumer credit code by modifying a reference to the federal Truth in Lending Act.  (FormerlySSB 1040.) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 445",
+      "billTitle": "A bill for an act relating to the transfer of real estate and the filing of a mortgage release certificate, providing for a fee and making remedies applicable, and including effective date provisions.  (FormerlySSB 1073andSF 305.)  Effective 5-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 152",
+      "billTitle": "A bill for an act relating to drainage or levee districts by providing for agreements with owners of land located within districts, providing for the management of districts by a board of trustees, and including effective date provisions. (FormerlyHSB 49) Effective 5-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 211",
+      "billTitle": "A bill for an act requiring in-state construction contracts and disputes thereof to be governed by Iowa law and including effective date provisions. (FormerlyHSB 31) Effective 1-1-14.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 454",
+      "billTitle": "A bill for an act relating to education by modifying the duties and operations of the department of education, community colleges, the school budget review committee, and local school boards, and eliminating a reporting requirement relating to vocational education funds. (FormerlyHSB 89) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 524",
+      "billTitle": "A bill for an act relating to city utilities and city enterprises by making changes to requirements related to commercial rental property. (FormerlyHSB 200) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 556",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities. (FormerlyHSB 193) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 613",
+      "billTitle": "A bill for an act relating to the war orphans educational assistance fund by transferring the moneys in the fund to the veterans trust fund and transferring duties for providing educational assistance to orphaned children of veterans to the commission on veterans affairs. (FormerlyHSB 93) (FormerlyHF 280) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "HF 630",
+      "billTitle": "A bill for an act providing a sales tax exemption for hydroelectricity conversion property. (FormerlyHSB 180) Effective 7-1-13.",
+      "dateSigned": "2013-05-01"
+    },
+    {
+      "billNumber": "SF 438",
+      "billTitle": "A bill for an act relating to real estate broker and real estate salesperson licensing fees and allocations from those fees, and making an appropriation. (FormerlySSB 1225andSF 426.) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "SF 451",
+      "billTitle": "A bill for an act relating to the taxation of rate-regulated water utilities by establishing a rate-regulated water utility replacement tax, imposing a statewide rate-regulated water utility property tax, providing for the administration of the replacement tax and statewide property tax, providing penalties, and including effective date and retroactive applicability provisions.  (FormerlySSB 1252.)  Effective 5-9-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 356",
+      "billTitle": "A bill for an act relating to the statute of limitation periods in bringing suit and executing a judgment in an action on a claim for rent. (FormerlyHSB 13) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 487",
+      "billTitle": "A bill for an act relating to a manufactured or mobile home retailer's application to a county treasurer for a certificate of title for a used mobile home or manufactured home. (FormerlyHF 191) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 495",
+      "billTitle": "A bill for an act relating to the residential landlord and tenant laws and related forcible entry and detainer laws and making penalties applicable. (FormerlyHSB 28) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 545",
+      "billTitle": "A bill for an act creating a new category of allowable expenditures from the veterans trust fund. (FormerlyHF 348) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 565",
+      "billTitle": "A bill for an act relating to mechanic's liens and the mechanics' notice and lien registry. (FormerlyHF 258) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 607",
+      "billTitle": "A bill for an act relating to the state government, by providing for the transfer of powers and duties from the agricultural development authority to the Iowa finance authority, the composition of the Iowa finance authority board of directors, implementation of law by the board, and including effective date provisions. (FormerlyHSB 162) Effective 7-1-13, with exception of Division IV, effective 5-9-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "HF 631",
+      "billTitle": "A bill for an act modifying provisions applicable to the propane education and research council. (FormerlyHSB 76) (FormerlyHF 543) Effective 7-1-13.",
+      "dateSigned": "2013-05-09"
+    },
+    {
+      "billNumber": "SF 247",
+      "billTitle": "A bill for an act providing for the possession of cats classified as bengals and savannahs.  (FormerlySSB 1115.)  Effective 7-1-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "SF 386",
+      "billTitle": "A bill for an act relating to matters under the purview of the department of transportation, including the use of information contained in electronic driver and nonoperator identification records, the form of motor vehicle financial liability coverage cards, motor truck registration periods, grounds for disqualification of commercial vehicle operators, provisions for the issuance of temporary restricted licenses for persons convicted of operating while intoxicated, county issuance of driver's licenses, and the administration of highway contracts.  (FormerlySSB 1224.)  Various effective dates; see section 21 of bill.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HJR 13",
+      "billTitle": "A joint resolution relating to the location and exhibition of the statue of James Harlan, currently on display in the United States capitol. Effective 7-1-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 355",
+      "billTitle": "A bill for an act relating to driver's licenses, including the renewal of driver's licenses electronically and including effective date and transition provisions. (FormerlyHSB 56) Effective 5-15-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 471",
+      "billTitle": "A bill for an act relating to parental rights, including the payment of reasonable attorney fees in juvenile court or appellate proceedings relating to a termination of parental rights petition and the awarding of visitation when a history of crimes against a minor is involved, and including effective, retroactive, and applicability date provisions. (FormerlyHF 104) Effective 7-1-13, with exception of section 1, effective 5-15-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 512",
+      "billTitle": "A bill for an act providing for the determination of animal units which are part of confinement feeding operations, and making penalties applicable. (FormerlyHSB 171) Effective 7-1-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 527",
+      "billTitle": "A bill for an act requiring certain aggravated misdemeanants to submit a DNA sample and including effective date provisions.  (FormerlyHSB 51) Effective 7-1-14.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 566",
+      "billTitle": "A bill for an act to establish requirements relating to the transfer of an interest in real estate by or on behalf of certain entities formed or organized on a profit, cooperative, or not-for-profit basis, and including warranties and a limitation on actions. (FormerlyHSB 208) Effective 7-1-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "HF 627",
+      "billTitle": "A bill for an act establishing a property tax exemption for fairgrounds owned by a county or a fair and including applicability provisions. (FormerlyHSB 230) Effective 7-1-13.",
+      "dateSigned": "2013-05-15"
+    },
+    {
+      "billNumber": "SF 432",
+      "billTitle": "A bill for an act relating to the administration of the tax and related laws of the department of revenue, including administration of income taxes, sales and use and excise taxes, an environmental protection charge, and property taxes, and including effective date and retroactive applicability provisions.  (FormerlySSB 1243.) Various effective dates; see section 8 of bill.",
+      "dateSigned": "2013-05-16"
+    },
+    {
+      "billNumber": "SF 433",
+      "billTitle": "A bill for an act relating to the requirements and administration of the targeted jobs withholding credit pilot project and including applicability provisions.  (Formerly SFs 122 and 205.)  Effective 7-1-13.",
+      "dateSigned": "2013-05-16"
+    },
+    {
+      "billNumber": "SF 436",
+      "billTitle": "A bill for an act relating to the historic preservation and cultural and entertainment district tax credit by modifying the definition of substantial rehabilitation, the qualifications for certain projects, and including effective date and applicability provisions.  (FormerlySSB 1240.)  Various effective dates; see section 4 of bill.",
+      "dateSigned": "2013-05-16"
+    },
+    {
+      "billNumber": "HF 119",
+      "billTitle": "A bill for an act relating to county attorney duties when representing the department of human services in juvenile court.  (FormerlyHSB 14) Effective 7-1-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 586",
+      "billTitle": "A bill for an act relating to the rulemaking process and state agency decision making. (FormerlyHSB 192) Effective 7-1-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 590",
+      "billTitle": "A bill for an act relating to child abuse reporting, assessment procedures, and placement on the central registry for child abuse, and including effective date and applicability provisions.  (FormerlyHF 415) Effective 1-1-14, with exception of section 4, s.s. 16, effective 5-24-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 592",
+      "billTitle": "A bill for an act relating to payments from the indigent defense fund by the state public defender. (FormerlyHSB 159) Effective 7-1-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 615",
+      "billTitle": "A bill for an act relating to the innovation fund investment tax credit and including effective date and retroactive applicability provisions. (FormerlyHSB 198) (FormerlyHF 585) Effective 5-24-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 632",
+      "billTitle": "A bill for an act relating to the assessment of certain real estate used in the cultivation and production of algae, and including effective date and retroactive applicability provisions. (FormerlyHF 349) Effective 5-24-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 641",
+      "billTitle": "A bill for an act authorizing the establishment of reinvestment districts following approval of the economic development authority board, providing for the remittance of certain state sales tax revenues and certain state hotel and motel tax revenues to municipalities, establishing a state reinvestment district fund, and making appropriations. (FormerlyHSB 234) Effective 7-1-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 644",
+      "billTitle": "A bill for an act relating to enhanced E911 emergency communication systems, and providing penalties. (FormerlyHSB 133) (FormerlyHF 510) Effective 7-1-13.",
+      "dateSigned": "2013-05-24"
+    },
+    {
+      "billNumber": "HF 215",
+      "billTitle": "A bill for an act relating to and providing for education reform involving student, teacher, and administrator programs and activities under the purview of the department of education, the state board of education, the college student aid commission, school districts, and accredited nonpublic schools; providing for independent private instruction for students; providing for private instruction for students; concerning driver education by a teaching parent; making appropriations and providing for the establishment and retention of certain fees; and including effective date provisions. (FormerlyHSB 4) Various effective dates, see bill.",
+      "dateSigned": "2013-06-03"
+    },
+    {
+      "billNumber": "HF 625",
+      "billTitle": "A bill for an act relating to revenue and taxation, including retailers maintaining a place of business in this state for purposes of sales and use taxes, agreements relating to the collection of sales and use taxes, sales of tangible personal property and services to state agencies, modifying the school tuition organization income tax credit, and including effective date and retroactive applicability provisions. (FormerlyHSB 225) Effective 7-1-13, with exception of Division II, effective 6-11-13.",
+      "dateSigned": "2013-06-11"
+    },
+    {
+      "billNumber": "SF 295",
+      "billTitle": "A bill for an act relating to state and local finances by establishing a business property tax credit for commercial, industrial, and railway property, establishing and modifying property assessment limitations, providing for commercial and industrial property tax replacement payments, providing for the classification of multiresidential property, modifying provisions for the taxation of telecommunications company property, providing for the study of the taxation of telecommunications company property, providing a taxpayers trust fund tax credit, modifying provisions relating to the property assessment appeal board, modifying the amount of the earned income tax credit, making appropriations, providing penalties, and including effective date, implementation, retroactive applicability, and other applicability provisions.  (FormerlySSB 1135.)  Various effective dates; see sections 22, 30, 38, 45, and 64 of bill.",
+      "dateSigned": "2013-06-12"
+    },
+    {
+      "billNumber": "SF 435",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government entities involved with agriculture, natural resources, and environmental protection.  (FormerlySSB 1245.) Various effective dates; see section 52 of bill.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "SF 442",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch. (FormerlySSB 1248.)  Effective 7-1-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 489",
+      "billTitle": "A bill for an act relating to various matters involving insurance and the insurance division of the department of commerce, providing penalties, and including applicability and effective date provisions. (FormerlyHSB 83) Effective 7-1-13, with exception of section 10, effective 6-17-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 599",
+      "billTitle": "A bill for an act relating to beginning farmers by modifying the agricultural assets transfer tax credit, providing a custom farming contract tax credit, and terminating the agricultural loan assistance program, and including effective date and retroactive applicability provisions. (FormerlyHSB 69) (FormerlyHF 252) Effective 7-1-13, with exception of Division I, effective 6-17-13 and all of Division II except for section 25, s.s. 2, effective 12-31-17.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 602",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund. (FormerlyHSB 214) Effective 7-1-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 603",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters. (FormerlyHSB 219) Effective 7-1-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 614",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other nonstate sources, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated and including effective date and retroactive applicability provisions. (FormerlyHSB 221) Effective 7-1-13, with exception of Division II, effective 6-17-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 620",
+      "billTitle": "A bill for an act relating to the economic development financial assistance duties and powers of the economic development authority by authorizing and creating fees, affecting the aggregate tax credit limit for certain economic development programs and the tax credit for the endow Iowa tax credit, making appropriations, and including effective date and retroactive applicability provisions.  (FormerlyHSB 132) (FormerlyHF 584) Effective 7-1-13, with exception of Divisions I, II and III, effective 6-17-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 640",
+      "billTitle": "A bill for an act relating to liquids which are flammable or combustible, by providing for the storage, marketing, and distribution of such liquids, providing for the marketing and distribution of liquids classified as motor fuel, including a conventional blendstock for oxygenate blending, and blended and unblended gasoline and diesel fuel, extending the period for determining the rates of the motor fuel tax based on calculating the distribution of ethanol blended gasoline and other motor fuel, including fees and penalties, and including effective date provisions. Effective 7-1-13, with exception of Division IV, effective 6-17-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "HF 649",
+      "billTitle": "A bill for an act relating to the liability of a land holder for the public use of private lands and waters for a recreational purpose or urban deer control. (FormerlyHSB 240) Effective 7-1-13.",
+      "dateSigned": "2013-06-17"
+    },
+    {
+      "billNumber": "SF 396",
+      "billTitle": "A bill for an act relating to government operations and efficiency and other related matters, and including effective date and applicability provisions. (FormerlySSB 1106.)  Item vetoed.  Various effective dates; see section 46 of bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "SF 406",
+      "billTitle": "A bill for an act relating to involuntary commitments for persons with substance-related disorders, mental illness, and intellectual disabilities, and providing for the creation of a mental health advocate division in the department of inspections and appeals and including effective date provisions.  (FormerlySSB 1192.)  Item vetoed.  Various effective dates; see section 35 of bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "SF 430",
+      "billTitle": "A bill for an act relating to appropriations to the department of cultural affairs, the economic development authority, the department of workforce development, the Iowa finance authority, and the public employment relations board, providing for other properly related matters, and including effective date and retroactive applicability provisions.  (FormerlySSB 1246.)  Item vetoed.  Various effective dates; see section 46 of bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "SF 446",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and including other related provisions and appropriations, providing penalties, and including effective, retroactive, and applicability date provisions.  (FormerlySSB 1251.)  Item vetoed.  Various effective dates; see bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "SF 447",
+      "billTitle": "A bill for an act relating to appropriations to the justice system and including effective dates.  (FormerlySSB 1249.)  Item vetoed.  Various effective dates; see sections 39 and 46 of bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "SF 452",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for fees, providing for legal responsibilities, providing for certain employee benefits, and providing for regulatory, taxation, and properly related matters, and including penalties and effective date and retroactive and other applicability provisions.  Item vetoed.  Various effective dates; see bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "HF 604",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, the economic development authority, the department of workforce development, and the state board of regents, and providing for related matters.  (FormerlyHSB 220) Item vetoed. Effective 7-1-13.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "HF 638",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund and the technology reinvestment fund, providing for related matters, and including effective date provisions. (FormerlyHSB 235) Item vetoed. Various effective dates, see bill.",
+      "dateSigned": "2013-06-20"
+    },
+    {
+      "billNumber": "HF 648",
+      "billTitle": "A bill for an act relating to state and local finances by making transfers and appropriations and including effective date and applicability provisions. (FormerlyHSB 239) Item vetoed. Effective 6-20-13.",
+      "dateSigned": "2013-06-20"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.v1.agencies import router as agencies_router
+from src.api.v1.openlaws import router as openlaws_router
 
 app = FastAPI(
     title="Iowa Regulatory Code API",
@@ -22,6 +23,12 @@ app.include_router(
     agencies_router,
     prefix="/api/v1/agencies",
     tags=["agencies"]
+)
+
+app.include_router(
+    openlaws_router,
+    prefix="/api/v1/openlaws",
+    tags=["openlaws"]
 )
 
 @app.get("/")

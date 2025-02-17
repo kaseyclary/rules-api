@@ -1,0 +1,691 @@
+{
+  "year": 2016,
+  "totalBills": 137,
+  "bills": [
+    {
+      "billNumber": "SF 2035",
+      "billTitle": "A bill for an act relating to the reimbursement rate for juvenile shelter care homes and including effective date and retroactive applicability provisions.  (FormerlySSB 3005.)  Effective 2-29-16.",
+      "dateSigned": "2016-02-29"
+    },
+    {
+      "billNumber": "SF 2288",
+      "billTitle": "A bill for an act relating to the confidentiality of juvenile court records in delinquency proceedings.  (FormerlySF 2070.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-09"
+    },
+    {
+      "billNumber": "HF 2147",
+      "billTitle": "A bill for an act relating to absentee voting by uniformed and overseas citizens. Effective 7-1-16.",
+      "dateSigned": "2016-03-10"
+    },
+    {
+      "billNumber": "HF 2118",
+      "billTitle": "A bill for an act concerning reports of financial irregularities filed by the state auditor with a county attorney. Effective 7-1-16.",
+      "dateSigned": "2016-03-11"
+    },
+    {
+      "billNumber": "HF 2271",
+      "billTitle": "A bill for an act relating to the criminal offense of identity theft, and providing penalties. Effective 7-1-16.",
+      "dateSigned": "2016-03-11"
+    },
+    {
+      "billNumber": "HF 2277",
+      "billTitle": "A bill for an act relating to utility facilities of electric transmission owners within public road rights-of-way. Effective 7-1-16.",
+      "dateSigned": "2016-03-11"
+    },
+    {
+      "billNumber": "HF 2433",
+      "billTitle": "A bill for an act relating to state taxation by temporarily updating the Code references to the Internal Revenue Code, decoupling from certain federal bonus depreciation provisions, rescinding certain administrative rules and rule amendments and modifying the sales tax exemptions related to the purchase of items used in manufacturing and other activities, and including effective date and retroactive applicability provisions. Effective 3-21-16.",
+      "dateSigned": "2016-03-21"
+    },
+    {
+      "billNumber": "SF 2151",
+      "billTitle": "A bill for an act relating to alcoholic beverage control and matters under the purview of the alcoholic beverages division of the department of commerce.  (FormerlySSB 3068.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2170",
+      "billTitle": "A bill for an act modifying the notice requirements for public improvement projects.  (FormerlySSB 3040.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2181",
+      "billTitle": "A bill for an act relating to the funding and operation of programs to collect and dispose of household hazardous materials.  (FormerlySSB 3045.) Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2189",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections.  (FormerlySSB 3111.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2200",
+      "billTitle": "A bill for an act concerning instruction provided through the Iowa learning online initiative.  (FormerlySSB 3091.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2221",
+      "billTitle": "A bill for an act relating to public utilities and sanitary sewage or storm water drainage disposal system providers.  (FormerlySSB 3099.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2257",
+      "billTitle": "A bill for an act concerning the issuance of bonds authorized by the Iowa finance authority relating to projects and bond issuers regardless of location.  (FormerlySSB 3153.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2180",
+      "billTitle": "A bill for an act relating to requirements for the transfer of township funds raised for purposes of acquiring or repairing a public hall. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2265",
+      "billTitle": "A bill for an act relating to the disclosure of an address confidentiality program participant's address in certain legal proceedings. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2267",
+      "billTitle": "A bill for an act related to civil service employees by providing cities with the authority to eliminate state residency requirements and modifying a city's authority to set distance or travel-based residency requirements. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2268",
+      "billTitle": "A bill for an act concerning the confidentiality of public employee support information submitted to the public employment relations board. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2325",
+      "billTitle": "A bill for an act authorizing the severance of territory and transfer of services of a sanitary district by resolution.  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2339",
+      "billTitle": "A bill for an act allowing benefited recreational lake districts and water quality districts to become members of watershed management authorities. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2343",
+      "billTitle": "A bill for an act relating to possession and storage of game or fur-bearing animals and their pelts and including penalties.  Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2354",
+      "billTitle": "A bill for an act relating to electronic recordings of court proceedings within a magistrate's jurisdiction. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2356",
+      "billTitle": "A bill for an act providing for the towing of certain implements of husbandry in tandem among manufacturers, retail sellers, and farm purchasers. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2357",
+      "billTitle": "A bill for an act relating to turtle harvesting in the state and including effective date provisions. Effective 3-23-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "HF 2364",
+      "billTitle": "A bill for an act relating to public notice and the accessibility of meetings of governmental bodies. Effective 7-1-16.",
+      "dateSigned": "2016-03-23"
+    },
+    {
+      "billNumber": "SF 2159",
+      "billTitle": "A bill for an act relating to public health including public health modernization and boards of health.  (FormerlySSB 3072.) Effective 7-1-16.",
+      "dateSigned": "2016-03-24"
+    },
+    {
+      "billNumber": "SF 2115",
+      "billTitle": "A bill for an act creating the criminal offense of interference with official acts against a jailer, and providing penalties. (FormerlySSB 3007.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "SF 2231",
+      "billTitle": "A bill for an act relating to disaster aid payment authorization requirements under specified circumstances.  (FormerlySSB 3039.) Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "SF 2234",
+      "billTitle": "A bill for an act relating to the credit hours of educational assistance under the national guard educational assistance program.  (FormerlySF 2131.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "SF 2279",
+      "billTitle": "A bill for an act relating to the credit union division and its regulatory matters.  (FormerlySSB 3018.)  Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2146",
+      "billTitle": "A bill for an act authorizing the dispensing of lottery tickets and products by self-service kiosks, and including effective date provisions. Effective 3-30-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2261",
+      "billTitle": "A bill for an act authorizing political subdivisions to invest in certain joint investment trusts that are operated in accordance with the governmental accounting standards board. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2266",
+      "billTitle": "A bill for an act concerning unclaimed cremated remains. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2275",
+      "billTitle": "A bill for an act relating to the disbursement of all Iowa opportunity scholarships. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2278",
+      "billTitle": "A bill for an act relating to the limitations of criminal actions in kidnapping or human trafficking offenses, and providing penalties. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2336",
+      "billTitle": "A bill for an act relating to the duties and authority of the state board of education, the department of education, and local school districts and to the programs and activities under the purview of the state board and the department. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2342",
+      "billTitle": "A bill for an act relating to signatures and other writing on applications for hunting, fishing, and fur harvester licenses.  Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2377",
+      "billTitle": "A bill for an act relating to the rural Iowa primary care and the rural Iowa advanced registered nurse practitioner and physician assistant loan repayment programs. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2387",
+      "billTitle": "A bill for an act requiring the dental board to offer an alternative examination for licensure. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2400",
+      "billTitle": "A bill for an act providing for voidable commercial transactions and including applicability provisions. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2401",
+      "billTitle": "A bill for an act prohibiting persons from opening or using a credit card in the name of a minor without the consent of the minor's parent, guardian, or legal custodian, and providing criminal penalties. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2420",
+      "billTitle": "A bill for an act relating to untested sexual abuse evidence collection kits stored at law enforcement agencies. Effective 7-1-16.",
+      "dateSigned": "2016-03-30"
+    },
+    {
+      "billNumber": "HF 2269",
+      "billTitle": "A bill for an act providing for certain excise taxes imposed on the sale of cattle and including effective date provisions. Effective 3-31-16.",
+      "dateSigned": "2016-03-31"
+    },
+    {
+      "billNumber": "HF 2279",
+      "billTitle": "A bill for an act relating to possessing and transferring firearm suppressors, providing penalties, and including effective date provisions. Effective 3-31-16.",
+      "dateSigned": "2016-03-31"
+    },
+    {
+      "billNumber": "HF 2353",
+      "billTitle": "A bill for an act removing prohibitions on emergency management organization employees from holding elective office. Effective 7-1-16.",
+      "dateSigned": "2016-03-31"
+    },
+    {
+      "billNumber": "HF 2386",
+      "billTitle": "A bill for an act relating to grounds for termination of parental rights of an individual relative to sexual abuse. Effective 7-1-16.",
+      "dateSigned": "2016-03-31"
+    },
+    {
+      "billNumber": "SF 174",
+      "billTitle": "A bill for an act establishing the state percent of growth and including effective date provisions.  (FormerlySSB 1143.) Effective 4-6-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 175",
+      "billTitle": "A bill for an act establishing the categorical state percent of growth and including effective date provisions.  (FormerlySSB 1144.)  Effective 4-6-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 378",
+      "billTitle": "A bill for an act relating to reimbursement of defense costs of peace officers and corrections officers.  (FormerlySF 250.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2022",
+      "billTitle": "A bill for an act relating to criminal jurisdiction on the Sac and Fox Indian settlement.  (FormerlySSB 3002.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2059",
+      "billTitle": "A bill for an act relating to persons on probation, parole, or work release at the violator facility or a residential facility operated by the judicial district department of correctional services.  (FormerlySSB 3024.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2102",
+      "billTitle": "A bill for an act relating to access to the information program for drug prescribing and dispensing administered by the board of pharmacy.  (FormerlySSB 3003.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2110",
+      "billTitle": "A bill for an act relating to persons examining and obtaining their own criminal history data.  (FormerlySSB 3025.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2111",
+      "billTitle": "A bill for an act providing that certain peace officers and law enforcement officials are not required to use a notarial stamp when administering oaths or acknowledging signatures.  (FormerlySSB 3009.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2144",
+      "billTitle": "A bill for an act relating to the disclosure of behavioral health information for the purpose of patient care coordination, and including effective date provisions.  (FormerlySF 2032.)  Various effective dates; see sections 3 and 6 of bill.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2147",
+      "billTitle": "A bill for an act including certain board of regents institution peace officers and civil commitment unit for sex offenders employees in the protection occupation category of the Iowa public employees' retirement system.  (FormerlySSB 3052.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2162",
+      "billTitle": "A bill for an act providing for the use of an electronic filing system for administrative proceedings by the administrative hearings division of the department of inspections and appeals.  (FormerlySSB 3022.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2164",
+      "billTitle": "A bill for an act relating to the expungement of criminal offenses for alcohol consumption in public, public intoxication, simulated public intoxication, or similar local ordinances, or when a finding of contempt has been entered, and including applicability provisions.  (FormerlySF 2023.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2194",
+      "billTitle": "A bill for an act concerning administrative law judges appointed or employed by the public employment relations board.  (FormerlySF 2129.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2214",
+      "billTitle": "A bill for an act relating to the dispensing of additional quantities of a prescription within the limitations of the prescription.  (FormerlySF 2079.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2218",
+      "billTitle": "A bill for an act relating to the possession and administration of emergency drugs by first responders and other persons in a position to assist for purposes of treating drug overdose victims and including contingent implementation provisions.  (FormerlySF 2008.)  Effective 4-6-16, as specified in House File 2460.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2242",
+      "billTitle": "A bill for an act relating to the administration of city elections by permitting the county commissioner of elections to designate a city clerk to receive city candidate filings.  (FormerlySSB 3147.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2258",
+      "billTitle": "A bill for an act concerning child welfare, including provisions relating to children under the custody, control, and supervision of the department of human services and provisions relating to children who are sex trafficking victims.  (FormerlySSB 3114.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2276",
+      "billTitle": "A bill for an act relating to the standards for land surveying, including requirements for recorded document formatting, monument preservation certificates, and retracement plats of survey.  (FormerlySSB 3150.) Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2300",
+      "billTitle": "A bill for an act relating to the administration of programs by the economic development authority by creating a renewable chemical production tax credit program, modifying the high quality jobs program, and including effective date and other applicability provisions.  (FormerlySSB 3001andSF 2285.) Various effective dates; see section 15 of bill.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 228",
+      "billTitle": "A bill for an act relating to transitional coaching authorizations issued by the board of educational examiners and making penalties applicable. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 588",
+      "billTitle": "A bill for an act relating to the issuance of persons with disabilities removable windshield parking placards, and including effective date and applicability provisions. Effective 1-1-17.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 617",
+      "billTitle": "A bill for an act providing for special vehicle registration plates displaying a decal designed and issued by a nonprofit organization, providing fees, making a penalty applicable, and including effective date provisions. Effective 1-1-17.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2282",
+      "billTitle": "A bill for an act relating to the appointment of a guardian ad litem in an adoption proceeding. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2283",
+      "billTitle": "A bill for an act relating to carrying a firearm while operating or riding on a snowmobile or an all-terrain vehicle. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2341",
+      "billTitle": "A bill for an act relating to the operation of certain schools under the purview of the college student aid commission. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2345",
+      "billTitle": "A bill for an act relating to annual reports by county engineers and the department of transportation, including reports on the use of road use tax fund moneys to replace or repair structurally deficient bridges under county jurisdiction. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2359",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective date provisions. Effective 7-1-16, with exception of section 187, effective 4-6-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2363",
+      "billTitle": "A bill for an act relating to member attendance at a closed session of a governmental body. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2370",
+      "billTitle": "A bill for an act relating to exemptions from registration of postsecondary schools by the college student aid commission.  Effective 4-6-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "HF 2385",
+      "billTitle": "A bill for an act relating to littering and illegal dumping and modifying penalties. Effective 7-1-16.",
+      "dateSigned": "2016-04-06"
+    },
+    {
+      "billNumber": "SF 2191",
+      "billTitle": "A bill for an act establishing an office within the department of public safety to oversee efforts to combat human trafficking.  (FormerlySF 2082.) Effective 7-1-16.",
+      "dateSigned": "2016-04-07"
+    },
+    {
+      "billNumber": "SF 2196",
+      "billTitle": "A bill for an act relating to reading and literacy requirements for practitioner preparation programs.  (FormerlySSB 3046.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-07"
+    },
+    {
+      "billNumber": "HF 2264",
+      "billTitle": "A bill for an act concerning varsity athletics eligibility of students in open enrollment subjected to harassment or bullying and including effective date provisions. Effective 4-7-16.",
+      "dateSigned": "2016-04-07"
+    },
+    {
+      "billNumber": "SF 503",
+      "billTitle": "A bill for an act relating to certain fees collected by the county sheriff. (FormerlySSB 1273.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2116",
+      "billTitle": "A bill for an act adding substances to schedule I of the controlled substance schedules, and providing penalties.  (FormerlySSB 3004.) Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2185",
+      "billTitle": "A bill for an act relating to a criminal trespass that results in a violation of a person's expectation of privacy, and modifying penalties for invasion of privacy.  (FormerlySSB 3121.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2228",
+      "billTitle": "A bill for an act relating to the activities of motor vehicle dealers and wholesalers, including the electronic submission of applications for motor vehicle registration and issuance of certificates of title, the use of licenses and advertisements, the furnishing of surety bonds, and the assessment of documentary fees, and making penalties applicable.  (FormerlySSB 3078.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2233",
+      "billTitle": "A bill for an act creating the uniform deployed parents custody and visitation Act, and repealing current Code provisions relating to parents on active military duty.  (FormerlySSB 3144.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2260",
+      "billTitle": "A bill for an act relating to disclosure of ownership and control information for nonprofit corporations under the Medicaid program, and including effective date provisions.  (FormerlySF 2091.) Effective 4-13-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2273",
+      "billTitle": "A bill for an act relating licensure of home food establishments.  (FormerlySF 2036.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "HF 2270",
+      "billTitle": "A bill for an act including fathers whose paternity has been lawfully established in the definition of parent for the purposes of juvenile justice proceedings. Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "HF 2335",
+      "billTitle": "A bill for an act relating to civil law provisions, including notice requirements for the disposition of the real property of an estate, notice and document delivery under the trust code, the powers of an agent under a power of attorney, and liability for refusing to accept an acknowledged power of attorney, and including effective date and retroactive and other applicability provisions.  Effective 4-13-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "HF 2344",
+      "billTitle": "A bill for an act requiring that agreements to terminate farm tenancies be in writing. Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "HF 2415",
+      "billTitle": "A bill for an act concerning veterans preference information.  Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "HF 2429",
+      "billTitle": "A bill for an act concerning gambling game licensure fees, and including penalty and applicability provisions. Effective 7-1-16.",
+      "dateSigned": "2016-04-13"
+    },
+    {
+      "billNumber": "SF 2219",
+      "billTitle": "A bill for an act requiring carbon monoxide alarms in certain dwellings and multiple-unit residential buildings, making penalties applicable, and including effective date provisions.  (FormerlySSB 3017.)  Effective 7-1-18.",
+      "dateSigned": "2016-04-14"
+    },
+    {
+      "billNumber": "SF 453",
+      "billTitle": "A bill for an act relating to the board of pharmacy, including nonresident pharmacy and outsourcing facility licensure, pharmacist supervision of pharmacy technicians, alternate board members, and enforcement authority. (FormerlySSB 1021.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "SF 2259",
+      "billTitle": "A bill for an act concerning treatment of a person with a serious mental impairment who fails to comply with an outpatient treatment order. (FormerlySSB 3151.)  Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "SF 2306",
+      "billTitle": "A bill for an act establishing the facilitating business rapid response to state-declared disasters Act, and including effective date and retroactive applicability provisions.  (FormerlySSB 3115.)  Effective 4-21-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "HF 2274",
+      "billTitle": "A bill for an act concerning documentation of age for purposes of obtaining a child labor permit. Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "HF 2373",
+      "billTitle": "A bill for an act relating to the organization and administration of limited partnerships and limited liability companies doing business in Iowa. Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "HF 2437",
+      "billTitle": "A bill for an act relating to matters under the purview of the department of transportation, providing fees, and making penalties applicable. Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "HF 2445",
+      "billTitle": "A bill for an act excluding certain promotional play receipts from the definition of adjusted gross receipts for purposes of the wagering tax on gambling games and relating to other matters involving gambling games regulation. Effective 7-1-16.",
+      "dateSigned": "2016-04-21"
+    },
+    {
+      "billNumber": "HF 2439",
+      "billTitle": "A bill for an act relating to the distribution and permissible expenditures of the emergency communications service surcharge and the duties of the E911 communications council. Effective 7-1-16.",
+      "dateSigned": "2016-04-29"
+    },
+    {
+      "billNumber": "HF 2414",
+      "billTitle": "A bill for an act providing for the regulation of transportation network companies and taxicabs, providing penalties, and including effective date and applicability provisions. Effective 1-1-17.",
+      "dateSigned": "2016-05-09"
+    },
+    {
+      "billNumber": "HF 2331",
+      "billTitle": "A bill for an act concerning investment of certain public funds in and public contracts with companies that boycott Israel. Effective 7-1-16.",
+      "dateSigned": "2016-05-10"
+    },
+    {
+      "billNumber": "SF 2326",
+      "billTitle": "A bill for an act relating to the funding of the statewide interoperable communications system and the expenditure of moneys from the E911 emergency communications fund.  (FormerlySSB 3189.) Various effective dates, as specified in House File 2458.",
+      "dateSigned": "2016-05-11"
+    },
+    {
+      "billNumber": "HF 2064",
+      "billTitle": "A bill for an act relating to the criminal offenses of child endangerment and robbery and criminal drug offenses, and providing penalties. Effective 7-1-16.",
+      "dateSigned": "2016-05-12"
+    },
+    {
+      "billNumber": "HF 2464",
+      "billTitle": "A bill for an act relating to environmental protection by modifying and eliminating allocations from the statutory allocations fund to the Iowa comprehensive petroleum underground storage tank fund and the renewable fuel infrastructure fund, making related changes, including changes related to the repeal of the environmental protection charge on petroleum diminution, and including effective date provisions. Effective 5-16-16, with exception of Division I effective 12-31-16.",
+      "dateSigned": "2016-05-16"
+    },
+    {
+      "billNumber": "SF 2309",
+      "billTitle": "A bill for an act providing for tax credits and refunds relating to renewable fuels including their component biofuels and including effective date provisions.  (FormerlySF 2052andSF 2223.) Various effective dates; see section 15 of bill.",
+      "dateSigned": "2016-05-24"
+    },
+    {
+      "billNumber": "SF 2301",
+      "billTitle": "A bill for an act relating to the Iowa educational savings plan trust and including effective date and retroactive applicability provisions. (FormerlySF 2100.)  Effective 5-25-16.",
+      "dateSigned": "2016-05-25"
+    },
+    {
+      "billNumber": "HF 2392",
+      "billTitle": "A bill for an act providing for academic and career guidance and career and technical education programs and requirements and workplace learning programs, and including effective date provisions. Effective 7-1-16, with exception of Division I effective 5-26-16.",
+      "dateSigned": "2016-05-26"
+    },
+    {
+      "billNumber": "HF 2443",
+      "billTitle": "A bill for an act relating to the programs and duties of the economic development authority by making changes relative to the use of life cycle cost analyses, by making technical changes related to the high quality jobs program, by making changes relative to authority assistance for certain federal small business programs, by allowing counties, cities, and the authority to amend certain economic development enterprise zones agreements, and by making changes to the historic preservation and cultural and entertainment district tax credit, including transferring administrative oversight of the tax credit from the department of cultural affairs to the economic development authority, and including effective date provisions. Effective 7-1-16, with exception of Division I effective 5-26-16 and Division V effective 8-15-16.",
+      "dateSigned": "2016-05-26"
+    },
+    {
+      "billNumber": "SF 492",
+      "billTitle": "A bill for an act creating a disaster case management grant fund and program.  (FormerlySF 307andSF 411.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2109",
+      "billTitle": "A bill for an act relating to financial and regulatory matters by supplementing appropriations for the fiscal year beginning July 1, 2015, making standing appropriations, and including effective date provisions. (FormerlySSB 3074.)  Various effective dates; see bill.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2187",
+      "billTitle": "A bill for an act relating to the issuance of driver's licenses marked to reflect veteran status.  (FormerlySSB 3083.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2188",
+      "billTitle": "A bill for an act relating to prescription authority for certain psychologists and making penalties applicable.  (FormerlySF 2075.) Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2299",
+      "billTitle": "A bill for an act relating to the early childhood Iowa initiative. (FormerlySSB 3128.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2304",
+      "billTitle": "A bill for an act relating to standards for and certification and inspection of children's residential facilities.  (FormerlySSB 3172.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2308",
+      "billTitle": "A bill for an act relating to economic development by establishing an enhance Iowa board to assume the powers and duties of the vision Iowa board and additional powers and duties, establishing an enhance Iowa fund, establishing a sports tourism program and fund, making appropriations, and including transition provisions. (FormerlySSB 3094andSF 2280.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2311",
+      "billTitle": "A bill for an act relating to the department of public defense by providing for the gold star military museum.  (FormerlySSB 3041andSF 2073.) Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2312",
+      "billTitle": "A bill for an act modifying the state sales tax rebate to the owner or operator of a baseball and softball tournament facility and movie site. (FormerlySSB 3146andSF 2212.)  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2313",
+      "billTitle": "A bill for an act relating to employment services programs administered by the department of workforce development by providing for conformity with federal law concerning the workforce development board, authorizing the department to carry out certain actions relating to the unemployment insurance program, making an appropriation, and including effective date provisions.  (FormerlySSB 3176.)  Effective 5-27-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2316",
+      "billTitle": "A bill for an act relating to the collection of delinquent court debt and associated installment agreements.  (FormerlySSB 3182.) Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2320",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund, the primary road fund, the state aviation fund, and the federal surface transportation block grant program.  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "SF 2324",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, the state bond repayment fund, the technology reinvestment fund, and the prison bonding fund, providing for related matters, and including effective date and retroactive applicability provisions.  (FormerlySSB 3188.)  Various effective dates; see sections 14 and 25 of bill.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 493",
+      "billTitle": "A bill for an act relating to the right of residents, owners, tenants, and landlords to summon emergency assistance and preempting related local ordinances, rules, and regulations.  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2273",
+      "billTitle": "A bill for an act relating to elections administration with respect to the address confidentiality program, the printing of ballots, satellite absentee voting, and the conduct of school district elections. Effective 7-1-16, with exception of Division II effective 5-27-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2394",
+      "billTitle": "A bill for an act relating to various matters involving insurance and the insurance division of the department of commerce, and including penalties and applicability provisions. Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2413",
+      "billTitle": "A bill for an act relating to reading proficiency assessments and intensive summer reading programs administered and provided by school districts. Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2436",
+      "billTitle": "A bill for an act relating to real estate appraisal, including by requiring the superintendent of banking to regulate appraisal management companies and supervise the Iowa real estate appraiser board, making penalties applicable, and including effective date provisions. Effective 1-1-17.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2446",
+      "billTitle": "A bill for an act relating to county medical examiner fees.  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2449",
+      "billTitle": "A bill for an act concerning the implementation and administration of Acts of the general assembly through administrative rulemakings and including effective date and retroactive applicability provisions. Effective 5-27-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2454",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government entities involved with agriculture, natural resources, and environmental protection, and including effective date provisions. Item vetoed. Various effective dates; see bill.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2455",
+      "billTitle": "A bill for an act making appropriations to the department of cultural affairs, the economic development authority, the Iowa finance authority, the public employment relations board, the department of workforce development, and the state board of regents and certain regents institutions, and properly related matters.  Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2456",
+      "billTitle": "A bill for an act relating to county levy authority for mental health and disability services funding. Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2457",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch. Effective 7-1-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2458",
+      "billTitle": "A bill for an act relating to appropriations to the justice system, and including effective date provisions. Effective 7-1-16, with exception of section 23 effective 5-27-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2459",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for legal and regulatory responsibilities, concerning taxation, providing penalties, providing for other properly related matters, and including effective date and retroactive and other applicability provisions.  Item vetoed. Effective 7-1-16, with exception of Division VII effective 5-27-16.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2460",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and veterans and including other related provisions and appropriations, and including effective date and retroactive and other applicability provisions. Item vetoed. Various effective dates; see bill.",
+      "dateSigned": "2016-05-27"
+    },
+    {
+      "billNumber": "HF 2468",
+      "billTitle": "A bill for an act relating to the administration of the tax and related laws by the department of revenue, including the renewable energy tax credit, the solar energy system tax credit, appeal procedures for certain centrally assessed property, an extension of the utility replacement tax task force, requiring background checks for job applicants and persons performing work for the department of revenue, a sales and use tax exemption for certain items used in performance of a construction contract with designated exempt entities, a geothermal tax credit, the adoption tax credit, and including effective date and retroactive and other applicability provisions. Various effective dates; see bill.",
+      "dateSigned": "2016-05-27"
+    }
+  ]
+}

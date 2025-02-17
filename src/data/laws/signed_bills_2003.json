@@ -1,0 +1,936 @@
+{
+  "year": 2003,
+  "totalBills": 186,
+  "bills": [
+    {
+      "billNumber": "SF 36",
+      "billTitle": "A bill for an act supplementing appropriations made for the fiscal year beginning July 1, 2002, to the departments of human services, corrections, and public safety, and to the state public defender, and providing effective date and applicability provisions.  Effective 2-17-03.",
+      "dateSigned": "2003-02-17"
+    },
+    {
+      "billNumber": "SF 211",
+      "billTitle": "A bill for an act providing for the establishment of the state percent of growth for purposes of the state school foundation program and providing an applicability date.  (FormerlySSB 1111.) Effective 7-1-03.",
+      "dateSigned": "2003-03-03"
+    },
+    {
+      "billNumber": "HF 66",
+      "billTitle": "A bill for an act requiring motor vehicle operators to take certain precautions when passing stationary utility maintenance or municipal maintenance vehicles and making a penalty applicable.  Effective 7-01-03.",
+      "dateSigned": "2003-03-05"
+    },
+    {
+      "billNumber": "SF 127",
+      "billTitle": "A bill for an act establishing a special breast cancer awareness motor vehicle registration plate and appropriating fees from such plates for breast cancer screening.  Effective 7-1-03.",
+      "dateSigned": "2003-03-12"
+    },
+    {
+      "billNumber": "HF 215",
+      "billTitle": "A bill for an act eliminating certain public disclosure requirements by state banks. Effective 7-01-03.",
+      "dateSigned": "2003-03-12"
+    },
+    {
+      "billNumber": "HF 311",
+      "billTitle": "A bill for an act modifying the duties of county recorders.  Effective 7-01-03.",
+      "dateSigned": "2003-03-24"
+    },
+    {
+      "billNumber": "HF 343",
+      "billTitle": "A bill for an act relating to enforcement of motor vehicle law provisions and making penalties applicable. Effective 7-01-03.",
+      "dateSigned": "2003-03-24"
+    },
+    {
+      "billNumber": "HF 290",
+      "billTitle": "A bill for an act authorizing the issuance of special registration plates to owners of motor trucks. Effective 7-01-03.",
+      "dateSigned": "2003-03-25"
+    },
+    {
+      "billNumber": "SF 97",
+      "billTitle": "A bill for an act relating to highway, aviation, motor vehicle transportation and public transit, including regulation of junkyards along highways and placement of political signs, elimination of the aviation hangar revolving loan fund, applications for certificates of title by motor vehicle dealers, fees charged for driver's licenses and nonoperator's identification cards and making an appropriation, security interests in motor vehicles, charges financed in a motor vehicle retail installment transaction, confidentiality of motor vehicle accident reports, requirements for motor carrier safety rules, exemptions for certain motor vehicle operators from motor carrier safety rules and hazardous materials transportation regulations, load limits for vehicles transporting construction machinery, urban public transit funding, and tariffs charged by motor carriers of household goods, and including effective and retroactive applicability date provisions.  (FormerlySSB 1003.1.)  Various effective dates; see section 29 of bill.",
+      "dateSigned": "2003-03-28"
+    },
+    {
+      "billNumber": "SF 357",
+      "billTitle": "A bill for an act relating to election or appointment of trustees of a city hospital or health care facility.  (FormerlySSB 1126.) Effective 7-1-03.",
+      "dateSigned": "2003-03-28"
+    },
+    {
+      "billNumber": "SF 376",
+      "billTitle": "A bill for an act relating to the surcharge for certain dishonored negotiable instruments.  (FormerlySSB 1061.)  Effective 7-1-03.",
+      "dateSigned": "2003-03-28"
+    },
+    {
+      "billNumber": "SF 424",
+      "billTitle": "A bill for an act relating to urban renewal indebtedness reporting and providing an effective date.  (FormerlySSB 1176.)  Effective 3-28-03.",
+      "dateSigned": "2003-03-28"
+    },
+    {
+      "billNumber": "HF 504",
+      "billTitle": "A bill for an act relating to fraudulent use of a credit card, scanning device, or reencoder, and providing a penalty. Effective 7-01-03.",
+      "dateSigned": "2003-03-31"
+    },
+    {
+      "billNumber": "HF 175",
+      "billTitle": "A bill for an act relating to the use of physical plant and equipment levy revenue, and providing an effective date. Effective 4-09-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 216",
+      "billTitle": "A bill for an act relating to intelligence data and intelligence assessment dissemination to an agency, organization, or person, and providing an effective date. Effective 4-09-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 240",
+      "billTitle": "A bill for an act relating to the composition of the Iowa egg council. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 249",
+      "billTitle": "A bill for an act relating to the manufacture, delivery, possession with the intent to manufacture or deliver, or conspiring to manufacture, deliver, or possess with the intent to manufacture or deliver flunitrazepam, and providing a penalty. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 254",
+      "billTitle": "A bill for an act providing that revenues deposited in the state conservation fund are temporarily exempt from reversion and providing an effective date. Effective 4-09-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 289",
+      "billTitle": "A bill for an act relating to electronic financial transactions with county treasurers. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 341",
+      "billTitle": "A bill for an act relating to personnel and instructors employed by community colleges. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 342",
+      "billTitle": "A bill for an act relating to the use of sick leave by certain members of the Iowa department of public safety peace officers' retirement, accident, and disability system who are temporarily incapacitated for duty and providing an effective date. Effective 4-09-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 479",
+      "billTitle": "A bill for an act designating advanced registered nurse practitioners as providers of health care services pursuant to managed care or prepaid services contracts under the medical assistance program. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 503",
+      "billTitle": "A bill for an act relating to the authorization of podiatrists to administer anesthesia. Effective 7-01-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "HF 615",
+      "billTitle": "A bill for an act to legalize the proceedings of the City Council of the City of Urbandale relating to the approval of a partial exemption from property taxation of actual value added to industrial real estate, and providing for effective and applicability dates. Effective 4-09-03.",
+      "dateSigned": "2003-04-09"
+    },
+    {
+      "billNumber": "SJR 1",
+      "billTitle": "A joint resolution authorizing the temporary use and consumption of wine in the State Capitol in conjunction with the awards ceremony of the World Food Prize Foundation.  Effective 7-1-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "SF 134",
+      "billTitle": "A bill for an act relating to the various duties of the county treasurer and providing an effective date. (FormerlySF 57.) Various effective dates; see section 10 of bill.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "SF 224",
+      "billTitle": "A bill for an act relating to appeals filed in child in need of assistance and termination of parental rights proceedings.  (FormerlySSB 1026.) Effective 7-1-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "SF 401",
+      "billTitle": "A bill for an act relating to tobacco retailers and providing penalties and providing applicability provisions and an effective date.  (FormerlySSB 1117.)  Effective 4-11-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "SF 436",
+      "billTitle": "A bill for an act making a supplemental appropriation to the environment first fund from the cash reserve fund and including an effective date. (FormerlySSB 1185.)  Effective 4-11-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "HF 180",
+      "billTitle": "A bill for an act relating to character education and service learning in Iowa's elementary and secondary schools. Effective 7-01-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "HF 339",
+      "billTitle": "A bill for an act relating to snowmobile franchises by requiring the repurchase of certain inventory upon termination of a franchise and providing effective and retroactive applicability dates.  Effective 4-11-03.",
+      "dateSigned": "2003-04-11"
+    },
+    {
+      "billNumber": "SF 237",
+      "billTitle": "A bill for an act relating to fees charged to certain private water supply contractors, establishing a private water supply system account within the water quality protection fund, and appropriating moneys in the account. (FormerlySSB 1081.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 85",
+      "billTitle": "A bill for an act relating to tip-up fishing in the waters of the Missouri and Big Sioux rivers and subjecting violators to an existing penalty. Effective 7-01-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 381",
+      "billTitle": "A bill for an act relating to anatomical gifts including bone marrow and organ donation by state employees and grants from the anatomical gift public awareness and transplantation fund.  Effective 7-01-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 396",
+      "billTitle": "A bill for an act relating to disaster preparedness and providing an effective date. Effective 4-14-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 472",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other federal grants, allocating portions of federal block grants, and providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated. Effective 7-01-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 612",
+      "billTitle": "A bill for an act relating to the exemption from land ownership restrictions for nonresident aliens under the new jobs and income program. Effective 7-01-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 636",
+      "billTitle": "A bill for an act relating to legislative branch consolidation of functions by combining the legislative service bureau, legislative fiscal bureau, and legislative computer support bureau into a single central legislative staff agency, providing for legislative publications procedures, modifying the sales tax exemption for items sold or services provided by the new agency, including related matters, and providing an effective date. Effective 4-14-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "HF 659",
+      "billTitle": "A bill for an act relating to ownership of alternate energy production facilities by public utilities, making related changes, and providing an effective date. Effective 4-11-03.",
+      "dateSigned": "2003-04-14"
+    },
+    {
+      "billNumber": "SF 272",
+      "billTitle": "A bill for an act relating to conflicts of interest in public contracts. (FormerlySSB 1075.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 411",
+      "billTitle": "A bill for an act providing resident license fees for hunting, fishing, trapping, and related activities to certain persons in the armed forces of the United States. Effective 7-01-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 412",
+      "billTitle": "A bill for an act relating to the amount of mussels and shells which may be taken pursuant to a sport fishing license. Effective 7-01-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 456",
+      "billTitle": "A bill for an act relating to contract choice-of-law provisions referring to the uniform computer information transactions Act, and related matters and providing an effective date. Effective 4-17-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 601",
+      "billTitle": "A bill for an act relating to campaign finance, including political party committees, campaign disclosure reports, independent expenditures, and income tax checkoff provisions. Effective 7-01-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 623",
+      "billTitle": "A bill for an act relating to registration with the United States selective service system by application for a driver's license or nonoperator's identification card or for renewal of a driver's license or nonoperator's identification card. Effective 7-01-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "HF 652",
+      "billTitle": "A bill for an act relating to and making transportation and other infrastructure-related appropriations to the state department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund, and providing for the nonreversion of certain moneys. Effective 7-01-03, with exception of section 4, effective 4-17-03.",
+      "dateSigned": "2003-04-17"
+    },
+    {
+      "billNumber": "SF 3",
+      "billTitle": "A bill for an act relating to the inclusion of certain information in a termination of pregnancy report.  Effective 7-1-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 119",
+      "billTitle": "A bill for an act relating to real estate appraiser certification. (FormerlySSB 1010.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 155",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective and retroactive applicability date provisions.  (FormerlySSB 1045.) Various effective dates; see section 116 of bill.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 201",
+      "billTitle": "A bill for an act relating to a review of statistical information compiled by the board of educational examiners from Praxis II examinations administered to initial, provisional teaching license applicants.  (FormerlySSB 1054.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 236",
+      "billTitle": "A bill for an act relating to the time periods that unclaimed demutualization proceeds and wages are presumed to be abandoned and providing an effective date.  (FormerlySSB 1018.)  Various effective dates; see section 5 of bill.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 303",
+      "billTitle": "A bill for an act relating to the contents of certain child abuse assessment reports.  Effective 7-1-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "SF 395",
+      "billTitle": "A bill for an act relating to assistance services provided to the department of agriculture and land stewardship, including for the filing of documents and the payment of fees and civil penalties, and the authorization to assess additional charges.  (FormerlySSB 1163.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 170",
+      "billTitle": "A bill for an act relating to the criminal offense of identity theft by making changes in the elements of the offense. Effective 7-01-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 344",
+      "billTitle": "A bill for an act allowing a refund of motor fuel taxes paid by a benefited fire district. Effective 7-01-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 349",
+      "billTitle": "A bill for an act relating to the representation of indigent persons and indigent defense claims. Effective 7-01-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 380",
+      "billTitle": "A bill for an act providing for the administration of funds for animal agriculture, including moneys transferred from and deposited into these funds, and providing an effective date. Effective 4-21-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 389",
+      "billTitle": "A bill for an act providing for miscellaneous technical and substantive changes relating to controlled and precursor substances. Effective 7-01-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 395",
+      "billTitle": "A bill for an act relating to the extension of credit without discrimination under the consumer credit code. Effective 7-01-03.",
+      "dateSigned": "2003-04-21"
+    },
+    {
+      "billNumber": "HF 446",
+      "billTitle": "A bill for an act relating to dealership agreements, and providing for the Act's applicability. Effective 7-01-03.",
+      "dateSigned": "2003-04-22"
+    },
+    {
+      "billNumber": "HF 502",
+      "billTitle": "A bill for an act relating to damage disclosure statements required for transfer of ownership of motor vehicles and providing a penalty. Effective 7-01-03.",
+      "dateSigned": "2003-04-22"
+    },
+    {
+      "billNumber": "HF 604",
+      "billTitle": "A bill for an act requiring state government annual reports made to the general assembly to include certain financial information.  Effective 7-01-03.",
+      "dateSigned": "2003-04-22"
+    },
+    {
+      "billNumber": "HF 616",
+      "billTitle": "A bill for an act prohibiting a cancellation penalty upon cancellation of a purchase agreement for cemetery merchandise, funeral merchandise, and funeral services. Effective 7-01-03.",
+      "dateSigned": "2003-04-22"
+    },
+    {
+      "billNumber": "HF 634",
+      "billTitle": "A bill for an act relating to the conversion of cooperative associations originally organized as business corporations.  Effective 7-01-03.",
+      "dateSigned": "2003-04-22"
+    },
+    {
+      "billNumber": "HF 65",
+      "billTitle": "A bill for an act relating to motor vehicle operating while intoxicated offenses. Effective 7-01-03.",
+      "dateSigned": "2003-04-24"
+    },
+    {
+      "billNumber": "HF 397",
+      "billTitle": "A bill for an act relating to community development block grants to the department of economic development and including effective and retroactive applicability dates. Effective 4-24-03.",
+      "dateSigned": "2003-04-24"
+    },
+    {
+      "billNumber": "HF 489",
+      "billTitle": "A bill for an act relating to programs and services under the purview of the department of human services, and providing for retroactive applicability and effective dates. Effective 7-01-03, with exception of section 4 effective 4-24-03.",
+      "dateSigned": "2003-04-24"
+    },
+    {
+      "billNumber": "HF 509",
+      "billTitle": "A bill for an act relating to deer and elk chronic wasting disease by establishing a task force and requiring departmental cooperation in the implementation of a chronic wasting disease administrative strategy, and providing an effective date. Effective 4-24-03.",
+      "dateSigned": "2003-04-24"
+    },
+    {
+      "billNumber": "SF 180",
+      "billTitle": "A bill for an act relating to the procedures for handling abandoned property and property presumed to be abandoned.  (FormerlySSB 1019.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 221",
+      "billTitle": "A bill for an act relating to the criminal offense of sexual exploitation of a minor.  (FormerlySSB 1032.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 340",
+      "billTitle": "A bill for an act relating to business entities, based on revisions related to the Iowa business corporation Act, including addition of a savings clause and addition of provisions related to director and officer liability, duty, and indemnification for certain insurance companies and indemnification for cooperative associations.  (FormerlySSB 1109.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 352",
+      "billTitle": "A bill for an act relating to the training of an individual who intends to become certified as a law enforcement officer.  (FormerlySF 218.) Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 361",
+      "billTitle": "A bill for an act relating to emergency procedures for the temporary detention and treatment of persons who are incapacitated or impaired due to substance abuse or mental health problems.  (FormerlySSB 1099.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 394",
+      "billTitle": "A bill for an act relating to the regulation of the grain industry, and making penalties applicable.  (FormerlySSB 1142.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-25"
+    },
+    {
+      "billNumber": "SF 172",
+      "billTitle": "A bill for an act relating to the establishment of a public charter school pilot program and providing effective and applicability dates. (FormerlySF 31.)  Effective 4-28-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 230",
+      "billTitle": "A bill for an act relating to the procedure for reducing the number of members of a city council from five to three in certain cities and providing an effective date.  Effective 4-28-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 351",
+      "billTitle": "A bill for an act relating to child care requirements involving prohibitions against involvement with child care, record checks and evaluations performed by the department of human services, eligibility for state assistance, and child care fraud program sanctions, and making penalties applicable. (FormerlySSB 1157.) Effective 7-1-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 379",
+      "billTitle": "A bill for an act relating to certain agricultural liens.  (FormerlySSB 1158.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 386",
+      "billTitle": "A bill for an act requiring the insurance division of the department of commerce to establish a school health insurance reform team study and to make recommendations to the general assembly.  (FormerlySF 212.)  Effective 7-1-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 392",
+      "billTitle": "A bill for an act relating to the animal agriculture compliance Act, providing for penalties, and providing an effective date.  (FormerlySSB 1174.) Effective 4-28-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "SF 397",
+      "billTitle": "A bill for an act relating to the issuance of hunting licenses for antlerless deer, providing for the disposition of harvested deer meat to public institutions, requiring a report, and providing a penalty.  Effective 7-1-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 204",
+      "billTitle": "A bill for an act relating to massage therapy by providing for a study regarding the modalities associated with massage therapy and providing a temporary exemption from licensure requirements.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 390",
+      "billTitle": "A bill for an act relating to economic development programs for targeted small businesses. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 392",
+      "billTitle": "A bill for an act relating to economic growth strategic planning.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 480",
+      "billTitle": "A bill for an act relating to the shelter assistance fund.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 493",
+      "billTitle": "A bill for an act relating to the powers and duties of the department of agriculture and land stewardship by providing for the elimination of administrative requirements. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 505",
+      "billTitle": "A bill for an act to prohibit unauthorized computer access to operational or support data of a rural water district and a municipal utility and providing a penalty. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 545",
+      "billTitle": "A bill for an act relating to the requirements for newspapers designated for official publication purposes. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 547",
+      "billTitle": "A bill for an act providing for evidence of financial responsibility filed by commercial pesticide applicators, and providing an effective date. Effective 4-28-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 548",
+      "billTitle": "A bill for an act relating to law enforcement officer training at the Iowa law enforcement academy, and providing for a fee.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 551",
+      "billTitle": "A bill for an act providing for a fee for transporting an inmate for medical or dental care. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 557",
+      "billTitle": "A bill for an act relating to liability of certain health care facilities and health care providers participating in the volunteer health care provider program. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 603",
+      "billTitle": "A bill for an act providing an exception to licensing requirements for certain bingo occasions conducted by nonprofit organizations.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 617",
+      "billTitle": "A bill for an act requiring that dealers of certain swine file evidence of financial responsibility with the department of agriculture and land stewardship. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 641",
+      "billTitle": "A bill for an act providing for changes relating to programs under the purview of the Iowa department of public health. Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 647",
+      "billTitle": "A bill for an act relating to insurance, including various filing and information privacy requirements throughout the insurance code, calculation of assessments by the Iowa individual health benefit reinsurance association, payment of certain insurance fees, certain self-funded insurance plans by school corporations or political subdivisions, designation of the commissioner of insurance as process agent for various entities conducting insurance business in this state, notification provisions relating to the effective date of cancellation of insurance, beneficial stock ownership filings, funding agreements, creating an insurable interest in active or retired employee lives for the benefit of an employer, providing for an interstate insurance product regulation compact, and providing for retroactive applicability and an effective date. Effective 7-01-03, with exception of Sections 26 and 53, effective 4-28-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 648",
+      "billTitle": "A bill for an act relating to the consolidation of the management of state archives and records and making conforming changes.  Effective 7-01-03.",
+      "dateSigned": "2003-04-28"
+    },
+    {
+      "billNumber": "HF 628",
+      "billTitle": "A bill for an act relating to physician assistant licensure, and providing an effective date. Effective 4-30-03.",
+      "dateSigned": "2003-04-30"
+    },
+    {
+      "billNumber": "SF 102",
+      "billTitle": "A bill for an act relating to the chief executive officer of the Iowa public employees' retirement system and providing an effective and retroactive applicability date.  (FormerlySSB 1011.) Effective 5-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 366",
+      "billTitle": "A bill for an act relating to the Iowa probate code, including provisions relating to state inheritance, gift taxes, and trusts and including an applicability date provision.  (FormerlySSB 1106.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 372",
+      "billTitle": "A bill for an act relating to the licensing of persons providing money transmission and currency exchange services, providing penalties, and providing an effective date.  (FormerlySSB 1161.) Effective 10-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 375",
+      "billTitle": "A bill for an act relating to enforcement enhancements relative to certain tobacco product manufacturers, providing appropriations and penalties, and providing effective dates.  (FormerlySSB 1128.) Effective 5-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 416",
+      "billTitle": "A bill for an act relating to dependent adult abuse including elder abuse emergency shelter and support services projects. (FormerlySF 132.) Effective 7-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 438",
+      "billTitle": "A bill for an act relating to the establishment of the office of grants enterprise management in the department of management to assist the state in receiving more nonstate funds and providing a standing limited appropriation.  (FormerlySSB 1133&SF 427.) Effective 7-1-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 319",
+      "billTitle": "A bill for an act permitting written demand via regular mail prior to an action under the uniform commercial code for recovery of civil damages for a dishonored check, draft, or order, when supported by an affidavit of service. Effective 7-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 387",
+      "billTitle": "A bill for an act relating to mental health and developmental disabilities by expanding an exemption to health care licensing requirements for certain residential programs that receive funding under a medical assistance home and community-based services waiver and approval from the department of human services, and revising membership requirements for the mental health and developmental disabilities commission, and providing an effective date. Effective 5-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 454",
+      "billTitle": "A bill for an act relating to mandatory universal newborn and infant hearing screening. Effective 7-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 541",
+      "billTitle": "A bill for an act relating to the fee and use of fee for a certificate of birth. Effective 7-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 600",
+      "billTitle": "A bill for an act regulating organic agricultural products, providing for fees and penalties, and providing an effective date.  Effective 5-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "HF 656",
+      "billTitle": "A bill for an act relating to fees charged for special fire fighter motor vehicle registration plates. Effective 7-01-03.",
+      "dateSigned": "2003-05-01"
+    },
+    {
+      "billNumber": "SF 275",
+      "billTitle": "A bill for an act relating to the taxation of utilities, including establishment of a natural gas delivery tax rate for new electric power generating plants, establishment of a replacement transmission tax for certain municipal utilities, methods of allocation of replacement generation tax incurred by certain new stand-alone electric power generating plants, a formula for determining taxable value for property generating replacement tax annually, extending the task force, and providing for applicability. (FormerlySSB 1070.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "SF 353",
+      "billTitle": "A bill for an act requiring establishment of county child protection assistance teams.  (FormerlySF 59.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 171",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections and including effective and retroactive applicability date provisions.  Effective 7-01-03, with exception of Sections 24, 125-128, 132, effective 5-02-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 404",
+      "billTitle": "A bill for an act authorizing a sentencing court to issue no-contact orders against persons arrested for any public offense.  Effective 7-01-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 516",
+      "billTitle": "A bill for an act relating to composition and responsibilities of the Iowa comprehensive petroleum underground storage tank fund board. Effective 7-01-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 529",
+      "billTitle": "A bill for an act directing the mental health and developmental disabilities commission to make recommendations for redesigning the mental health and developmental disabilities services system for adults and providing an effective date. Effective 5-02-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 619",
+      "billTitle": "A bill for an act relating to health care including reimbursement of health care facilities based on resident program eligibility and providing effective dates and a contingent effective date.  Effective 7-01-03, with exception of Section 3; Section 7, s.s. 4; Sections 11, 12 and Section 13, s.s. 1 effective 5-02-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "HF 650",
+      "billTitle": "A bill for an act relating to the assessment of a correctional fee by a county or municipality, and to the prosecution of certain criminal offenses committed in a municipality located in two or more counties. Effective 7-01-03.",
+      "dateSigned": "2003-05-02"
+    },
+    {
+      "billNumber": "SF 94",
+      "billTitle": "A bill for an act providing for the confidentiality of certain veterans' records maintained by county recorders.  Effective 7-1-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "SF 341",
+      "billTitle": "A bill for an act regulating the balance of competitive forces in swine and beef production by enhancing the welfare of the farming community and by preventing processors from gaining control of beef or swine production, providing for the transfer of provisions, making a penalty applicable, and providing for an effective date.  (FormerlySSB 1144.)  Effective 5-9-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "SF 405",
+      "billTitle": "A bill for an act relating to the authority of a city to acquire equity interests in business entities for the purpose of participating in electric energy transmission service.  (FormerlySSB 1116.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "HF 457",
+      "billTitle": "A bill for an act expanding requirements for the transition of an individual from the child welfare services system to adulthood.  Effective 7-01-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "HF 560",
+      "billTitle": "A bill for an act relating to medical assistance home and community-based services waivers. Effective 7-01-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "HF 599",
+      "billTitle": "A bill for an act relating to property insurance, including establishment of a mandatory plan to assure fair access to insurance requirements, and providing for an effective date and retroactive applicability. Effective 5-09-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "HF 680",
+      "billTitle": "A bill for an act relating to licenses for bait dealers by creating resident and nonresident wholesale bait dealer licenses, providing reciprocity, and providing an effective date. Effective 5-09-03.",
+      "dateSigned": "2003-05-09"
+    },
+    {
+      "billNumber": "SF 444",
+      "billTitle": "A bill for an act relating to the requirements for receiving a property tax exemption for open prairies and wildlife habitats and including an applicability date provision.  (FormerlySSB 1194.) Effective 7-1-03.",
+      "dateSigned": "2003-05-12"
+    },
+    {
+      "billNumber": "SF 459",
+      "billTitle": "A bill for an act relating to Iowa agricultural industry finance corporations, by providing for the assignment of an Iowa agricultural industry finance loan, and providing an effective date.  (FormerlySSB 1208.)  Effective 5-12-03.",
+      "dateSigned": "2003-05-12"
+    },
+    {
+      "billNumber": "HF 558",
+      "billTitle": "A bill for an act authorizing the department of human services to disclose information regarding the listing of an individual in the child or dependent abuse registry or the sex offender registry when it is necessary for the protection of a child or a dependent adult.  Effective 7-01-03.",
+      "dateSigned": "2003-05-12"
+    },
+    {
+      "billNumber": "HF 565",
+      "billTitle": "A bill for an act relating to the healthy and well kids in Iowa program. Effective 7-01-03.",
+      "dateSigned": "2003-05-12"
+    },
+    {
+      "billNumber": "HF 677",
+      "billTitle": "A bill for an act relating to new capital investment for businesses and new jobs by creating a new capital investment program, creating tax incentives, and amending the new jobs and income program.  Effective 7-01-03.",
+      "dateSigned": "2003-05-12"
+    },
+    {
+      "billNumber": "SF 368",
+      "billTitle": "A bill for an act relating to advanced telecommunications services, including rate provisions.  Effective 7-1-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "HF 304",
+      "billTitle": "A bill for an act relating to the payment by a county of the agricultural land tax credit and reimbursement to the county of its payment and providing an effective date. Effective 5-15-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "HF 492",
+      "billTitle": "A bill for an act relating to soil conservation by providing for the acquisition of land by soil and water conservation districts, and eliminating certain reporting requirements. Effective 7-01-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "HF 576",
+      "billTitle": "A bill for an act relating to the enterprise zone program and including effective date provisions. Effective 7-01-03, with exception of Sections 1, 5 and 6 effective 5-15-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "HF 665",
+      "billTitle": "A bill for an act relating to property taxation of certain lands leased to others by the department of corrections or department of human services and providing for the Act's applicability. Effective 7-01-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "HF 676",
+      "billTitle": "A bill for an act establishing a veterans trust fund under the control of the commission of veterans affairs and providing a contingent appropriation. Effective 7-01-03.",
+      "dateSigned": "2003-05-15"
+    },
+    {
+      "billNumber": "SF 402",
+      "billTitle": "A bill for an act relating to the admissibility of prior criminal offenses into evidence in the prosecution of certain sexual offenses.  (FormerlySSB 1029.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-16"
+    },
+    {
+      "billNumber": "SF 441",
+      "billTitle": "A bill for an act relating to the transfer of certain property-related tax credits and including effective and retroactive applicability date provisions.  Effective 5-16-03.",
+      "dateSigned": "2003-05-16"
+    },
+    {
+      "billNumber": "HF 455",
+      "billTitle": "A bill for an act requiring licensed health-related professionals to report certain burn injuries to a law enforcement agency.  Effective 7-01-03.",
+      "dateSigned": "2003-05-16"
+    },
+    {
+      "billNumber": "HF 543",
+      "billTitle": "A bill for an act relating to minimum mammography examination coverage, and making related changes. Effective 7-01-03.",
+      "dateSigned": "2003-05-16"
+    },
+    {
+      "billNumber": "HF 671",
+      "billTitle": "A bill for an act relating to the recycling property exemption from property tax and including an applicability date. Effective 7-01-03.",
+      "dateSigned": "2003-05-16"
+    },
+    {
+      "billNumber": "SF 393",
+      "billTitle": "A bill for an act relating to the agricultural development authority by providing for its organization and administration.  (FormerlySSB 1173.) Effective 7-1-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "SF 396",
+      "billTitle": "A bill for an act providing for the animal unit capacity of fowl for purposes of regulation under the animal agriculture compliance Act, and providing an effective date.  (FormerlySF 288.) Effective 5-21-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "SF 442",
+      "billTitle": "A bill for an act updating the Iowa Code references to the Internal Revenue Code, providing for decoupling with the Internal Revenue Code for a certain bonus depreciation provision, and providing retroactive applicability dates and an effective date.  (FormerlySSB 1186.)  Effective 5-21-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "HF 225",
+      "billTitle": "A bill for an act modifying workers' compensation laws and providing an effective date. Effective 7-01-03, with exception of Section 3 effective 5-21-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "HF 386",
+      "billTitle": "A bill for an act relating to the department of elder affairs including provisions relating to the elder Iowans Act. Effective 7-01-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "HF 674",
+      "billTitle": "A bill for an act relating to income tax deductions and exemptions for military service personnel and organizations, and including effective and applicability date provisions. Effective 5-21-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "HF 682",
+      "billTitle": "A bill for an act relating to wine by providing for native wine permits, providing wine gallonage tax revenue to support grape and wine development, providing for fees, and providing an effective date and retroactive applicability. Effective 5-21-03.",
+      "dateSigned": "2003-05-21"
+    },
+    {
+      "billNumber": "SF 425",
+      "billTitle": "A bill for an act relating to and making appropriations involving state government, including provisions affecting agriculture and natural resources.  (FormerlySSB 1154.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "SF 435",
+      "billTitle": "A bill for an act relating to and making appropriations to the judicial branch.  (FormerlySSB 1181.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "SF 439",
+      "billTitle": "A bill for an act relating to and making appropriations to the justice system and providing an effective date.  (FormerlySSB 1180.)  Various effective dates; see section 19 of bill.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "SF 451",
+      "billTitle": "A bill for an act providing for the jurisdiction and funding of roads by transferring funding for and jurisdiction of certain primary and farm-to-market roads, modifying the procedure for classification of area service \"C\" roads, and establishing a street construction fund distribution advisory committee, and making appropriations. (FormerlySSB 1196.) Effective 7-1-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 534",
+      "billTitle": "A bill for an act providing for the reorganization of certain state departments by establishing a department of administrative services, making related changes, providing penalties, and providing an effective date. Effective 7-01-03, with exception of Sections 20, 125 and 156 effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 577",
+      "billTitle": "A bill for an act providing for a waiver of deadline requirements relating to whole-grade sharing agreements in specified school districts, and providing an effective date. Effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 594",
+      "billTitle": "A bill for an act relating to the registration of electrical and mechanical amusement devices and the registration of manufacturers and distributors thereof, establishing fees, making an appropriation, making penalties applicable, and providing an effective date. Effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 595",
+      "billTitle": "A bill for an act relating to certain voluntary annexations and to involuntary annexations and providing an effective date.  Effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 624",
+      "billTitle": "A bill for an act regulating farm deer, providing for penalties, and providing an effective date. Effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 667",
+      "billTitle": "A bill for an act relating to and making appropriations for health and human services to the department of elder affairs, the Iowa department of public health, the department of inspections and appeals, the department of human services, and the commission of veterans affairs, and providing effective dates. Effective 7-01-03, with exception of Section 18, s.s. 3, 15a and Sections 34, 42, 43, 57 and Division VI effective 5-23-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 681",
+      "billTitle": "A bill for an act relating to tax credits and associated refunds for cooperatives engaged in the production of value-added agricultural products, and providing for its applicability.  Effective 7-01-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "HF 694",
+      "billTitle": "A bill for an act relating to the judicial branch including by establishing a judicial district and judicial election district redistricting process, making changes to the nomination, appointment, and retention of judges, expanding magistrate courts, eliminating the position of alternate district associate judge, permitting district judgeships to be apportioned or transferred to another judicial district, requiring the county sheriff to serve a summons in certain delinquency proceedings, eliminating the participation of the foster care review board in voluntary foster care placements, waiving the filing fee and court costs in certain contempt actions, changing the duties of and the procedures related to the clerk of the district court, providing that interest on a judgment be calculated upon the one year treasury constant maturity plus two percent, expanding the access of the deferred judgment docket, prohibiting regional litigation centers, modifying the schedule of the probate court, providing for a fee, and providing for a study. Effective 7-01-03.",
+      "dateSigned": "2003-05-23"
+    },
+    {
+      "billNumber": "SF 348",
+      "billTitle": "A bill for an act relating to fishing by establishing fees, allocating fishing license revenue to fish habitat development, modifying trout fishing fee requirements, and providing effective and applicability dates. (FormerlySSB 1035.)  Effective 12-15-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 354",
+      "billTitle": "A bill for an act implementing the federal Indian Child Welfare Act. (FormerlySF 312.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 359",
+      "billTitle": "A bill for an act relating to landlords, tenants, and actions for forcible entry or detention and providing a penalty.  Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 417",
+      "billTitle": "A bill for an act relating to the purchase of a police service dog by the department of corrections.  (FormerlySF 220.)  Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 422",
+      "billTitle": "A bill for an act relating to criminal sentencing and procedure by modifying the penalties for certain offenses related to controlled substances by permitting the reopening of a sentence that requires a maximum accumulation of earned time credits of fifteen percent of the total term of confinement and by changing the parole and work release eligibility of a person serving such a sentence, repealing certain determinate sentences, and providing a penalty.  Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 433",
+      "billTitle": "A bill for an act relating to and making appropriations to the department of economic development, certain board of regents institutions, department of workforce development, and the public employment relations board and related matters.  (FormerlySSB 1179.)  Item veto.  Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 445",
+      "billTitle": "A bill for an act relating to the establishment of a school infrastructure financing program by providing for the sharing of revenues from local option sales and services taxes for school infrastructure purposes and providing for the use of the revenues from the local option tax for school infrastructure or property tax relief purposes and including an effective date.  (FormerlySSB 1093&SF 314.)  Effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 452",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, environment first fund, and tobacco settlement trust fund, relating to the capitol complex parking structure, and authorizing fees.  (FormerlySSB 1203.)  Item veto. Effective 7-1-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 453",
+      "billTitle": "A bill for an act relating to state and local government financial and regulatory matters, making and reducing appropriations, providing a fee, increasing civil penalties, and providing applicability and effective dates. Item veto.  Various effective dates; see sections 13, 36, 43, and 121 of bill.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "SF 458",
+      "billTitle": "A bill for an act relating to public expenditure and regulatory matters, compensating public employees, making and reducing appropriations, modifying sales and use taxes, modifying the investment tax credits and premium taxes on mutual insurance associations, providing for related matters, making penalties applicable, and providing effective dates.  Item veto.  Various effective dates; see sections 10, 47, 84, 159, and 180 of bill.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 329",
+      "billTitle": "A bill for an act relating to site preparation for targeted economic development. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 391",
+      "billTitle": "A bill for an act establishing a pilot program for the development of cogeneration facilities, providing for the development of ratemaking principles and rates for pilot program facilities, and providing for a future repeal. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 394",
+      "billTitle": "A bill for an act relating to the purposes of the community attraction and tourism program. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 549",
+      "billTitle": "A bill for an act relating to the duties and operations of the department of education, the board of educational examiners, the state board of regents and its universities, and school boards, and to property tax school reorganization incentives; requiring the establishment of a reading instruction pilot program; and including effective and retroactive applicability date provisions.  Effective 7-01-03, with exception of Sections 9, 10 & 35 effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 583",
+      "billTitle": "A bill for an act relating to governmental ethics disclosure reports, including reports related to receptions for members of the general assembly during session detailing food, beverage, and entertainment received by public officials and public employees, and reports filed by clients of lobbyists before the general assembly and the executive branch pertaining to moneys paid for lobbying purposes. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 584",
+      "billTitle": "A bill for an act providing for exceptions to liability for certain activities. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 644",
+      "billTitle": "A bill for an act providing for manure application requirements, providing for fees, making penalties applicable, and providing effective dates. Effective 5-30-03, with exception of Section 4 effective 1-01-04.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 654",
+      "billTitle": "A bill for an act relating to the exemption of sand handling and core and mold making equipment used in the mold making process from sales and use taxes, providing refunds, and including effective and retroactive applicability date provisions. Effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 655",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 662",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of cultural affairs, the department of education, and the state board of regents and including an effective date and retroactive applicability date provision. Effective 7-01-03, with exception of Sections 6, 8, 14 & 21 effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 672",
+      "billTitle": "A bill for an act relating to the regulation of adult day services, providing for penalties, and providing an effective date. Effective 7-01-03, with exception of Section 22 effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 675",
+      "billTitle": "A bill for an act relating to the regulation of elder family homes, elder group homes, and assisted living programs, providing for fees, and providing penalties. Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 685",
+      "billTitle": "A bill for an act relating to and making appropriations from the healthy Iowans tobacco trust and the tobacco settlement trust fund.  Effective 7-01-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 689",
+      "billTitle": "A bill for an act relating to ethanol blended gasoline, by providing for tax credits and for their retroactive applicability, providing for refunds, and providing for an effective date.  Effective 5-30-03.",
+      "dateSigned": "2003-05-30"
+    },
+    {
+      "billNumber": "HF 683",
+      "billTitle": "A bill for an act relating to economic development, financial, taxation, and regulatory matters, making and revising appropriations, modifying penalties, providing a fee, and including effective, applicability, and retroactive applicability provisions.  Various effective dates, see bill.",
+      "dateSigned": "2003-06-19"
+    },
+    {
+      "billNumber": "HF 692",
+      "billTitle": "A bill for an act concerning regulatory, taxation, and statutory requirements affecting individuals and business relating to taxation of property, income and utilities, liability reform, workers' compensation, financial services, unemployment compensation employer surcharges, economic development, and including effective date, applicability, and retroactive applicability provisions. Effective 7-01-03, with exception of Division I effective 7-01-05 and Section 42, Divisions VIII and XVIII effective 6-19-03.",
+      "dateSigned": "2003-06-19"
+    }
+  ]
+}

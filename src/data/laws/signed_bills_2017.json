@@ -1,0 +1,876 @@
+{
+  "year": 2017,
+  "totalBills": 174,
+  "bills": [
+    {
+      "billNumber": "SF 130",
+      "billTitle": "A bill for an act relating to public funding and regulatory matters and making, reducing, transferring, and supplementing appropriations for expenditures in the fiscal year beginning July 1, 2016, and including effective date provisions.  (FormerlySSB 1018.)  Effective 2-1-17.",
+      "dateSigned": "2017-02-01"
+    },
+    {
+      "billNumber": "SF 166",
+      "billTitle": "A bill for an act relating to the state school foundation program, by modifying requirements for the enactment of the state percents of growth, establishing state percents of growth, modifying provisions relating to school district property tax replacement payments, and including effective date and applicability provisions. (FormerlySSB 1028.) Effective 2-8-17.",
+      "dateSigned": "2017-02-08"
+    },
+    {
+      "billNumber": "HF 291",
+      "billTitle": "A bill for an act relating to employment matters involving public employees including collective bargaining, educator employment matters, personnel records and settlement agreements, city civil service requirements, and health insurance matters, making penalties applicable, and including effective date, applicability, and transition provisions. (FormerlyHSB 84.) Effective 2-17-17.",
+      "dateSigned": "2017-02-17"
+    },
+    {
+      "billNumber": "HF 231",
+      "billTitle": "A bill for an act relating to the powers and programs of the economic development authority, including apprentice eligibility under the apprenticeship training program, and including effective date and applicability provisions. (FormerlyHSB 40.)  Effective 3-1-17.",
+      "dateSigned": "2017-03-01"
+    },
+    {
+      "billNumber": "HF 293",
+      "billTitle": "A bill for an act concerning state purchasing from prison industries for products manufactured in this state. (FormerlyHSB 49.) Effective 7-1-17.",
+      "dateSigned": "2017-03-10"
+    },
+    {
+      "billNumber": "HF 305",
+      "billTitle": "A bill for an act relating to the prescribing of biological products and making penalties applicable. (FormerlyHSB 38.) Effective 7-1-17.",
+      "dateSigned": "2017-03-10"
+    },
+    {
+      "billNumber": "HF 217",
+      "billTitle": "A bill for an act relating to disciplinary actions taken against a licensed school employee required to be reported to the board of educational examiners. (FormerlyHSB 17.) Effective 7-1-17.",
+      "dateSigned": "2017-03-16"
+    },
+    {
+      "billNumber": "HF 311",
+      "billTitle": "A bill for an act relating to provisions applicable to life insurance companies and associations, and credit for reinsurance, and including retroactive applicability provisions. (FormerlyHSB 22.) Effective 7-1-17.",
+      "dateSigned": "2017-03-16"
+    },
+    {
+      "billNumber": "HF 312",
+      "billTitle": "A bill for an act permitting motor vehicles to stand unattended without first stopping the engine. (FormerlyHSB 66.) Effective 7-1-17.",
+      "dateSigned": "2017-03-16"
+    },
+    {
+      "billNumber": "SF 331",
+      "billTitle": "A bill for an act relating to energy efficiency reporting requirements applicable to certain gas and electric utilities. (FormerlySSB 1044.) Effective 7-1-17.",
+      "dateSigned": "2017-03-22"
+    },
+    {
+      "billNumber": "SF 357",
+      "billTitle": "A bill for an act modifying licensing provisions applicable to electricians and electrical contractors. (FormerlySF 290.)  Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "SF 376",
+      "billTitle": "A bill for an act relating to disclosure of asbestos bankruptcy trust claims in civil asbestos actions, asbestos and silica claims prioritization, and successor corporation asbestos-related liability, and including applicability provisions. (FormerlySSB 1095.)  Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "SF 409",
+      "billTitle": "A bill for an act relating to state credit union examinations and board meetings called by the superintendent of credit unions, and providing penalties. (FormerlySSB 1098.) Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "HF 203",
+      "billTitle": "A bill for an act authorizing the use of primary road fund moneys for the secondary road and municipal street systems. (FormerlyHSB 9.) Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "HF 303",
+      "billTitle": "A bill for an act relating to notifications made by the commissioner of insurance of the potential need for a receivership for certain preneed sellers and cemeteries. (FormerlyHSB 21.) Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "HF 372",
+      "billTitle": "A bill for an act relating to turns against red lights made by vehicular traffic. (FormerlyHSB 71.) Effective 7-1-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "HF 577",
+      "billTitle": "A bill for an act relating to exemptions from disciplinary action for persons licensed to practice health-related professions based on their treatment of Lyme disease or other tick-borne diseases, and including effective date provisions. (FormerlyHF 112.) Effective 3-23-17.",
+      "dateSigned": "2017-03-23"
+    },
+    {
+      "billNumber": "SF 447",
+      "billTitle": "A bill for an act providing for certain court actions involving an allegation of a public or private nuisance or the interference with a person\u2019s comfortable use and enjoyment of life or property caused by an animal feeding operation, providing for the award of damages, costs, and expenses, and including effective date provisions. (FormerlySSB 1144.)  Effective 3-29-17.",
+      "dateSigned": "2017-03-29"
+    },
+    {
+      "billNumber": "HF 215",
+      "billTitle": "A bill for an act requiring certain health insurance policies, contracts, or plans to provide coverage of applied behavior analysis for treatment of autism spectrum disorder for certain individuals, and including applicability and effective date provisions. (FormerlyHSB 41.) Effective 7-1-17, with exception of sections 1, 2 and 3 effective 1-1-18.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 289",
+      "billTitle": "A bill for an act relating to the issuance of driver\u2019s licenses, nonoperator\u2019s identification cards, and persons with disabilities identification devices by certain counties, and including effective date provisions. (FormerlyHF 116.) Effective 3-30-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 295",
+      "billTitle": "A bill for an act prohibiting counties and cities from establishing certain regulations relating to employment matters and the sale or marketing of consumer merchandise, providing for properly related matters, and including effective date provisions. (FormerlyHSB 92.) Effective 3-30-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 445",
+      "billTitle": "A bill for an act relating to public utilities and other infrastructure, including the confidentiality of certain information relating to cyber security or critical infrastructure, the authority of utilities to make temporary rate changes, and presiding officers at public information meetings held for electric transmission line franchise petitions. (FormerlyHSB 76.) Effective 7-1-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 462",
+      "billTitle": "A bill for an act providing for the confidentiality of certain records provided by gambling licensees to the racing and gaming commission. (FormerlyHSB 110.) Effective 7-1-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 518",
+      "billTitle": "A bill for an act relating to workers\u2019 compensation and including effective date and applicability provisions. (FormerlyHSB 169.) Effective 7-1-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 531",
+      "billTitle": "A bill for an act relating to oversight of public assistance programs, and including effective date provisions. (FormerlyHSB 172.) Effective 3-30-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 544",
+      "billTitle": "A bill for an act including personal degradation as a form of dependent adult abuse by caretakers in facilities and programs regulated by the department of inspections and appeals, and including effective date provisions. (FormerlyHSB 146.) Effective 3-30-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "HF 548",
+      "billTitle": "A bill for an act relating to continuous quality improvement for the care of individuals with stroke. (FormerlyHF 274.) Effective 7-1-17.",
+      "dateSigned": "2017-03-30"
+    },
+    {
+      "billNumber": "SF 332",
+      "billTitle": "A bill for an act making changes to the controlled substance schedules, and providing penalties, and including effective date provisions. (FormerlySSB 1085.)  Effective 4-7-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "SF 351",
+      "billTitle": "A bill for an act providing for the elimination of the Iowa emergency response commission. (FormerlySSB 1081.)  Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "SF 405",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective date provisions. (FormerlySSB 1132.)  Various effective dates; see section 169 of bill.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "SF 410",
+      "billTitle": "A bill for an act relating to a declaration concerning the final disposition of a person\u2019s remains and including applicability provisions. (FormerlySSB 1111.)  Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "SF 448",
+      "billTitle": "A bill for an act relating to insurers in possession of salvage motor vehicles. (FormerlySSB 1178.)  Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "HF 464",
+      "billTitle": "A bill for an act relating to the crossing of highways by all-terrain vehicles and off-road utility vehicles, and making a penalty applicable. (FormerlyHF 302.) Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "HF 586",
+      "billTitle": "A bill for an act relating to financial matters, including mechanic\u2019s liens, and the Iowa finance authority by establishing a rent subsidy program, modifying shelter assistance fund grant award requirements, and revising filing requirements for certain bonds and notes issued by the authority. (FormerlyHSB 153.) Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "HF 593",
+      "billTitle": "A bill for an act authorizing mental health professionals to perform certain functions relating to persons with substance-related disorders and persons with mental illness. (FormerlyHF 319.) Effective 7-1-17.",
+      "dateSigned": "2017-04-07"
+    },
+    {
+      "billNumber": "SF 230",
+      "billTitle": "A bill for an act concerning payment of insurance premium costs by members and full-time employees of the general assembly and including effective date and applicability provisions. (FormerlySF 212.)  Effective 4-12-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 257",
+      "billTitle": "A bill for an act relating to bass fishing in the state. (FormerlySF 143.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 358",
+      "billTitle": "A bill for an act relating to search warrants, by allowing an application for and the issuance of a search warrant by electronic means, and allowing for the written inventory of any property seized to be filed with the clerk of the district court, and including effective date provisions. (FormerlySSB 1091.) Contingent effective date; see section 9 of bill.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 439",
+      "billTitle": "A bill for an act relating to the disposal or return of certain notices and certificates filed or recorded during certain periods of time. (FormerlySSB 1100.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 462",
+      "billTitle": "A bill for an act relating to the transfer of moneys collected by the office of the chief information officer for furnishing certified abstracts of drivers\u2019 operating records. (FormerlySSB 1038.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 472",
+      "billTitle": "A bill for an act relating to snowmobile registration and use of moneys from the special snowmobile fund. (FormerlySSB 1171.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 479",
+      "billTitle": "A bill for an act relating to the performance of educational services by licensed dental hygienists. (FormerlySSB 1164.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 52",
+      "billTitle": "A bill for an act relating to the criminal offense of interference with official acts and certain county-provided bailiff services, and providing penalties. Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 133",
+      "billTitle": "A bill for an act relating to guardians ad litem, attorneys for minor children, child custody investigators, and child and family reporters involved in child custody and visitation proceedings. (FormerlyHSB 5.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 183",
+      "billTitle": "A bill for an act relating to service of copies of court documents on certain persons relating to the receipt of emergency protective services by a dependent adult. (FormerlyHSB 6.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 202",
+      "billTitle": "A bill for an act relating to the solid waste environmental management systems program and beautification grants. (FormerlyHSB 16.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 218",
+      "billTitle": "A bill for an act increasing the maximum allowable length for single trucks operated on the highways of this state. (FormerlyHSB 12.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 241",
+      "billTitle": "A bill for an act concerning the administration of the duties of the county commissions of veteran affairs. (FormerlyHSB 53.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 254",
+      "billTitle": "A bill for an act relating to tagging requirements for deer carcasses and including penalties. (FormerlyHF 36.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 306",
+      "billTitle": "A bill for an act relating to the requirements for nurse aide training and testing programs. (FormerlyHSB 72.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 307",
+      "billTitle": "A bill for an act relating to the procedures for granting a waterworks or sewer services franchise by a city and including effective date provisions. (FormerlyHSB 59.) Effective 4-12-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 309",
+      "billTitle": "A bill for an act relating to certificates of insurance, including penalties and effective date and applicability provisions. (FormerlyHSB 23.) Effective 4-12-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 467",
+      "billTitle": "A bill for an act including law enforcement communications systems within the scope of state communications included in the Iowa communications network. (FormerlyHSB 83.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 469",
+      "billTitle": "A bill for an act relating to the election of commissioners of soil and water conservation districts. (FormerlyHF 244.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 488",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections. (FormerlyHSB 128.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 511",
+      "billTitle": "A bill for an act relating to the administration of the state forest nurseries. (FormerlyHF 391.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 529",
+      "billTitle": "A bill for an act providing for conformity with federal law relating to civil penalties for violations of the state occupational safety and health law and including effective date provisions. (FormerlyHSB 145.) Effective 4-12-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 547",
+      "billTitle": "A bill for an act relating to background investigations conducted by the department of human services. (FormerlyHSB 177.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 576",
+      "billTitle": "A bill for an act relating to background investigations of individuals employed through temporary staffing agencies with certain health care providers. (FormerlyHSB 147.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 584",
+      "billTitle": "A bill for an act concerning the duties of the department of veterans affairs relative to veteran exposure to Agent Orange. (FormerlyHSB 155.) Effective 7-1-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "HF 591",
+      "billTitle": "A bill for an act relating to physician supervision of physician assistants, and including effective date and retroactive applicability provisions. (FormerlyHF 189.) Effective 4-12-17.",
+      "dateSigned": "2017-04-12"
+    },
+    {
+      "billNumber": "SF 250",
+      "billTitle": "A bill for an act establishing a notification requirement for mammogram reports to patients, and including effective date provisions. (FormerlySF 77.) Effective 4-13-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "SF 355",
+      "billTitle": "A bill for an act relating to municipal utilities, by restricting the regulatory authority of the Iowa utilities board with regard to certain services, and authorizing city utilities to require deposits for gas or electric services for residential rental properties. (FormerlySSB 1004.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "SF 373",
+      "billTitle": "A bill for an act relating to service in the national guard and reserve components of the armed forces, including applicability of reemployment protections, and military justice jurisdiction and statutes of limitation. (FormerlySSB 1077.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "SF 413",
+      "billTitle": "A bill for an act relating to statute-of-repose periods for improvements to real property and including applicability provisions. (FormerlySSB 1010.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "SF 438",
+      "billTitle": "A bill for an act relating to bidding and contracting for public improvement projects, making penalties applicable, and including effective date and applicability provisions. (FormerlySSB 1145.) Effective 4-13-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 441",
+      "billTitle": "A bill for an act relating to the use of child labor in laundry occupations. (FormerlyHF 43.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 471",
+      "billTitle": "A bill for an act relating to election precinct boundaries and consolidations. (FormerlyHSB 114.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 475",
+      "billTitle": "A bill for an act relating to the use of a straight wall cartridge rifle to hunt deer and including penalties. (FormerlyHF 210.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 517",
+      "billTitle": "A bill for an act relating to offensive and dangerous weapons, and the justifiable use of reasonable and deadly force, including carrying, possessing, transferring, and acquiring weapons, the purchase and regulation of such weapons, providing penalties, and including effective date and applicability provisions. (FormerlyHSB 133.) Effective 7-1-17, with exception of sections 28, 29, Division VI and section 51 effective 4-13-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 533",
+      "billTitle": "A bill for an act relating to disqualification from eligibility for unemployment benefits and including effective date provisions. (FormerlyHSB 143.) Effective 7-2-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 541",
+      "billTitle": "A bill for an act relating to licensed real estate professionals and real estate disclosure statements. (FormerlyHSB 125.) Effective 7-1-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 542",
+      "billTitle": "A bill for an act relating to eligibility requirements for individuals claiming unemployment insurance benefits in consecutive benefit years and including effective date provisions. (FormerlyHSB 144.) Effective 7-2-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 568",
+      "billTitle": "A bill for an act relating to pari-mutuel wagering, including horse and dog racing medication requirements and the applicability of certain setoff procedures to advance deposit wagering operators and including effective date provisions. (FormerlyHSB 137.) Effective 7-1-17, with exception of sections 1 and 2 effective 4-13-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "HF 572",
+      "billTitle": "A bill for an act relating to employment services programs administered by the department of workforce development by modifying the membership requirements and duties of the Iowa workforce development board and authorizing the department to carry out unemployment insurance systems modernization, making appropriations, and including effective date provisions. (FormerlyHSB 168.) Effective 4-13-17.",
+      "dateSigned": "2017-04-13"
+    },
+    {
+      "billNumber": "SF 234",
+      "billTitle": "A bill for an act relating to the use of electronic communication devices to write, send, or view electronic messages while driving as a primary offense, and making penalties applicable. (FormerlySSB 1002.) Effective 7-1-17.",
+      "dateSigned": "2017-04-17"
+    },
+    {
+      "billNumber": "SF 444",
+      "billTitle": "A bill for an act relating to public safety on highways, including the use of electronic communication devices while driving where such use results in death and the establishment of a statewide sobriety and drug monitoring program, and providing penalties. (FormerlySSB 1101.) Effective 7-1-17.",
+      "dateSigned": "2017-04-17"
+    },
+    {
+      "billNumber": "SF 51",
+      "billTitle": "A bill for an act relating to a cytomegalovirus public health initiative and the testing of newborns for congenital cytomegalovirus. Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 237",
+      "billTitle": "A bill for an act relating to the practice of public accountants. (FormerlySSB 1033.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 333",
+      "billTitle": "A bill for an act relating to a fiduciary\u2019s access to digital assets and including applicability provisions. (FormerlySSB 1086.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 362",
+      "billTitle": "A bill for an act barring claims against fairs for damages arising out of the transmission of pathogens from certain animals housed on the fairgrounds. (FormerlySF 210.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 406",
+      "billTitle": "A bill for an act exempting motor vehicles carrying an implement of husbandry from certain permit requirements. (FormerlySF 211.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 493",
+      "billTitle": "A bill for an act relating to the authority of combined benefited recreational lake and water quality districts when issuing bonds. (FormerlySSB 1125.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "HF 263",
+      "billTitle": "A bill for an act relating to the criminal offenses of domestic abuse and unauthorized placement of a global positioning device, and providing penalties. Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "HF 314",
+      "billTitle": "A bill for an act relating to the definition of utility maintenance vehicle. (FormerlyHSB 10.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "HF 473",
+      "billTitle": "A bill for an act relating to high school equivalency programs and assessments and including effective date provisions. (FormerlyHSB 97.) Effective 4-20-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "HF 543",
+      "billTitle": "A bill for an act relating to child in need of assistance and child abuse cases involving certain drugs and other substances. (FormerlyHF 276.) Effective 7-1-17.",
+      "dateSigned": "2017-04-20"
+    },
+    {
+      "billNumber": "SF 275",
+      "billTitle": "A bill for an act relating to termination of parental rights proceedings based upon safety or security concerns. (FormerlySF 189.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 374",
+      "billTitle": "A bill for an act relating to providing legal assistance to indigent persons in criminal proceedings, and including effective date provisions. (FormerlySSB 1023.) Various effective dates; see section 7 of bill.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 403",
+      "billTitle": "A bill for an act relating to the theft of equipment rental property, and making penalties applicable. (FormerlySSB 1127.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 411",
+      "billTitle": "A bill for an act relating to contractor registration and licensing by the department of public health and the department of workforce development and related fees and including effective date provisions. (FormerlySSB 1113.) Effective 4-21-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 419",
+      "billTitle": "A bill for an act relating to the nurse licensure compact, including provisions for assessments against party states, and including effective date provisions. (FormerlySSB 1076.) Effective 7-21-17; see section 3 of bill.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 451",
+      "billTitle": "A bill for an act relating to certain payments made through a county treasurer\u2019s internet site. (FormerlySSB 1152.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 484",
+      "billTitle": "A bill for an act relating to pharmacy regulation, including alternate board of pharmacy members, drug disposal program funding, an impaired professionals program, and pharmacy internet sites. (FormerlySSB 1074.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 497",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure-related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund. (FormerlySSB 1185.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 134",
+      "billTitle": "A bill for an act relating to the authority of cities to regulate and restrict the occupancy of residential rental property. (FormerlyHSB 3.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 146",
+      "billTitle": "A bill for an act relating to notice requirements for actions for forcible entry and detainer. Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 232",
+      "billTitle": "A bill for an act relating to pronouncements of death by registered nurses and physician assistants. (FormerlyHSB 19.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 234",
+      "billTitle": "A bill for an act relating to reports filed with the court by mental health advocates for persons with mental health disorders. (FormerlyHF 50.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 253",
+      "billTitle": "A bill for an act relating to proceedings and actions regarding paternity and the obligation for support. (FormerlyHSB 30.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 308",
+      "billTitle": "A bill for an act concerning the release of certain military personnel records. (FormerlyHF 130.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 396",
+      "billTitle": "A bill for an act relating to the definition of child foster care for purposes of child care provided by a relative of a child. (FormerlyHSB 81.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 410",
+      "billTitle": "A bill for an act classifying Palmer amaranth as a primary noxious weed and an invasive plant and making penalties applicable. (FormerlyHF 175.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 485",
+      "billTitle": "A bill for an act allowing city council members to serve a city\u2019s volunteer fire department without compensation in any position or capacity. (FormerlyHF 264.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 534",
+      "billTitle": "A bill for an act relating to exceptions from child care facility licensing requirements. (FormerlyHF 277.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 545",
+      "billTitle": "A bill for an act relating to the public disclosure of information regarding founded child abuse involving a child fatality or near fatality. (FormerlyHSB 80.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "HF 626",
+      "billTitle": "A bill for an act eliminating filing fees for requests for independent review of certain determinations under long-term care insurance policies. (FormerlyHF 216&HSB 20.) Effective 7-1-17.",
+      "dateSigned": "2017-04-21"
+    },
+    {
+      "billNumber": "SF 274",
+      "billTitle": "A bill for an act relating to computer science education by providing for education standards by the state board of education, for instructor endorsements and authorizations issued by the board of educational examiners, for establishment of a computer science professional development incentive fund, and for the establishment of a computer science education work group. (FormerlySSB 1047.) Effective 7-1-17.",
+      "dateSigned": "2017-04-28"
+    },
+    {
+      "billNumber": "SF 465",
+      "billTitle": "A bill for an act relating to medical malpractice claims, including noneconomic damage awards and expert witnesses, and including applicability provisions. (FormerlySSB 1087.) Effective 7-1-17.",
+      "dateSigned": "2017-05-05"
+    },
+    {
+      "billNumber": "SF 471",
+      "billTitle": "A bill for an act relating to limitations on and prerequisites for an abortion, providing for licensee discipline, providing civil penalties, and including effective date provisions. (FormerlySF 53.) Effective 5-5-17.",
+      "dateSigned": "2017-05-05"
+    },
+    {
+      "billNumber": "SF 504",
+      "billTitle": "A bill for an act relating to mental health and disabilities, including the funding of mental health and disability services by modifying the mental health and disability services property tax levy, providing for the expenditure and deposit of certain county hospital property tax revenues, requiring the use of specified excess cash flow funds, including certain law enforcement notification provisions, and including effective date and applicability provisions. (FormerlySSB 1187.) Effective 5-5-17.",
+      "dateSigned": "2017-05-05"
+    },
+    {
+      "billNumber": "HF 516",
+      "billTitle": "A bill for an act relating to the conduct and administration of elections, including voter registration, absentee voting, voter identity verification, signature verification, polling place prohibitions, commissioner duties and certifications, voter misconduct information and reporting, straight party voting, the voting age at primary elections, candidate filing deadlines, and post-election audits, creating an electronic poll book and polling place technology revolving loan fund, providing penalties, and including effective date and applicability provisions. (FormerlyHSB 93.) Various effective dates, see bill.",
+      "dateSigned": "2017-05-05"
+    },
+    {
+      "billNumber": "SF 32",
+      "billTitle": "A bill for an act relating to private sector employee drug testing. Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 431",
+      "billTitle": "A bill for an act relating to the siting of small wireless facilities. (FormerlySSB 1138.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 433",
+      "billTitle": "A bill for an act relating to termination of parental rights and adoption proceedings, and providing penalties. (FormerlySSB 1093.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 446",
+      "billTitle": "A bill for an act relating to asset forfeiture by prohibiting civil asset forfeiture for property valued at less than a minimum amount, raising the standard of proof for asset forfeiture, requiring a proportionality review for property to be forfeited, and requiring law enforcement agencies to retain certain records related to asset forfeiture and including applicability provisions. (FormerlySSB 1148.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 489",
+      "billTitle": "A bill for an act relating to the possession, sale, transfer, purchase, and use of fireworks, providing penalties, and including effective date provisions. (FormerlySSB 1051andSF 236.) Effective 5-9-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 505",
+      "billTitle": "A bill for an act providing for the establishment of first-time homebuyer savings accounts in Iowa, including related individual income tax exemptions, and including applicability provisions. (FormerlySSB 1056andSF 425.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "HF 526",
+      "billTitle": "A bill for an act relating to the criminal offense of harassment or invasion of privacy, providing penalties, and making penalties applicable. (FormerlyHF 148.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "HF 569",
+      "billTitle": "A bill for an act concerning authorized investment vehicles in a tax-sheltered investment program established by the department of administrative services. (FormerlyHSB 115.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "HF 607",
+      "billTitle": "A bill for an act relating to alcoholic beverage control and matters under the purview of the alcoholic beverages division of the department of commerce. (FormerlyHF 521andHSB 108.) Effective 7-1-17.",
+      "dateSigned": "2017-05-09"
+    },
+    {
+      "billNumber": "SF 399",
+      "billTitle": "A bill for an act relating to the conduct of elections, including general election ballot vacancies, voter registration, elections administration, absentee voting, and vacancies on school boards and merged area governing boards and including effective date and applicability provisions. (FormerlySSB 1104.) Various effective dates; see section 11 of bill.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "SF 401",
+      "billTitle": "A bill for an act relating to civil protective orders in domestic abuse and sexual abuse cases, and making penalties and remedies applicable. (FormerlySF 22.) Effective 7-1-17.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "SF 445",
+      "billTitle": "A bill for an act relating to law enforcement including the establishment of a law enforcement officer privilege, criminal sentencing, and local enforcement of certain restrictions, and modifying certain criminal penalties. (FormerlySF 241.) Effective 7-1-17.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "SF 467",
+      "billTitle": "A bill for an act relating to restrictions on the receipt by certain felons of certain insurance proceeds and other benefits. (FormerlySF 171.) Effective 7-1-17.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "HF 233",
+      "billTitle": "A bill for an act relating to the use of step therapy protocols for prescription drugs by health carriers, health benefit plans, and utilization review organizations, and including applicability provisions. (FormerlyHSB 26.) Effective 7-1-17.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "HF 573",
+      "billTitle": "A bill for an act relating to the exercise, by school districts, of any broad and implied powers not inconsistent with the laws of the general assembly, and to the construction of statutes related to school district boards and school districts. (FormerlyHF 26.) Effective 7-1-17.",
+      "dateSigned": "2017-05-10"
+    },
+    {
+      "billNumber": "SF 1",
+      "billTitle": "A bill for an act requiring jobs impact statements for administrative rules. Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 238",
+      "billTitle": "A bill for an act relating to the criminal offense of sexual exploitation by a school employee, and making penalties applicable. (FormerlySF 83.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 240",
+      "billTitle": "A bill for an act relating to statewide assessments of student progress utilizing core academic indicators, and including effective date provisions. (FormerlySSB 1001.) Effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 260",
+      "billTitle": "A bill for an act relating to the liability of possessors and occupants of land for injury to trespassers and including applicability provisions. (FormerlySSB 1011.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 404",
+      "billTitle": "A bill for an act relating to the use of experimental treatments for patients with a terminal illness. (FormerlySSB 1115.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 408",
+      "billTitle": "A bill for an act requiring licensure rather than registration of architects practicing in this state. (FormerlySSB 1122.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 442",
+      "billTitle": "A bill for an act concerning persons voluntarily excluded from gambling facilities. (FormerlySSB 1103.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 466",
+      "billTitle": "A bill for an act relating to judicial administration by requiring the master list for juror service to be updated annually using an electronic data processing system, eliminating jury commissions, placing shorthand reporters in exempt status, and requiring the supreme court to supervise the board of examiners of shorthand reporters. (FormerlySSB 1084.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 488",
+      "billTitle": "A bill for an act relating to the workforce housing tax incentives program by requiring allocations to certain housing projects and by increasing the allowable average dwelling unit cost and the percentage of investment for tax incentives for certain housing projects. (FormerlySSB 1035.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 498",
+      "billTitle": "A bill for an act appropriating federal funds made available from federal block grants and other nonstate sources, allocating portions of federal block grants, providing procedures if federal funds are more or less than anticipated or if federal block grants are more or less than anticipated, and including effective date and retroactive applicability provisions. (FormerlySSB 1181.) Various effective dates; see section 21 of bill.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 499",
+      "billTitle": "A bill for an act prohibiting the use of certain monitoring devices in certain locations open to the public, and including effective date provisions. (FormerlySSB 1184.) Effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 500",
+      "billTitle": "A bill for an act relating to 911 emergency telephone and internet communication systems and making appropriations. (FormerlySSB 1082andSF 454.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 501",
+      "billTitle": "A bill for an act relating to certain fees collected by the county sheriff. (FormerlySSB 1052.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 502",
+      "billTitle": "A bill for an act relating to banks, credit unions, and certain consumer credit transactions. (FormerlySSB 1118andSF 418.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 503",
+      "billTitle": "A bill for an act providing for the deferral of unpaid installments and deferral charges for certain interest-bearing consumer credit transactions. (FormerlySSB 1016andSF 177.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 69",
+      "billTitle": "A bill for an act relating to criminal trespass and modifying penalties. Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 89",
+      "billTitle": "A bill for an act authorizing a retirement system merger relating to an alternative retirement system for certain school district employees. Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 184",
+      "billTitle": "A bill for an act relating to information required to be contained in petitions for administration of small estates and including applicability provisions. (FormerlyHSB 29.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 195",
+      "billTitle": "A bill for an act relating to requests for notice of probate proceedings. (FormerlyHSB 4.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 242",
+      "billTitle": "A bill for an act relating to the individual income tax checkoff for the Iowa election campaign fund by providing for the future repeal of the tax checkoff and the Iowa election campaign fund, and including effective date provisions. (FormerlyHF 6.) Effective 7-1-17, with exception of Division II effective 7-1-18.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 296",
+      "billTitle": "A bill for an act relating to controlled substances, including by temporarily designating substances as controlled substances, modifying the penalties for imitation controlled substances and certain controlled substances, modifying the controlled substances listed in schedules I, III, and IV, modifying requirements for electronic prescriptions, and providing penalties. (FormerlyHSB 61.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 313",
+      "billTitle": "A bill for an act requiring the removal of motor vehicles involved in certain accidents from the roadway, and providing a penalty. (FormerlyHSB 70.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 371",
+      "billTitle": "A bill for an act relating to attorney fees and court costs in an action to quiet title after a request for a quitclaim deed. (FormerlyHSB 31.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 393",
+      "billTitle": "A bill for an act relating to programs and activities under the purview of the department of public health, including effective date provisions and providing for a repeal. (FormerlyHSB 25.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 463",
+      "billTitle": "A bill for an act relating to the enforcement of motor vehicle laws and the regulation of commercial motor vehicles and certain operators by the department of transportation, and including effective date provisions. (FormerlyHSB 69.) Effective 7-1-17, with exception of section 4 effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 472",
+      "billTitle": "A bill for an act relating to eligibility requirements for grant and loan forgiveness programs administered by the college student aid commission that provide assistance to elementary and secondary school teachers in this state, and including effective date and applicability provisions. (FormerlyHSB 96.) Effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 478",
+      "billTitle": "A bill for an act relating to property tax assessments by modifying requirements for the determination of value, modifying provisions related to the property assessment appeal board by striking the future repeal of provisions relating to the board, modifying procedures and requirements for appeals to the board, modifying requirements for assessors and deputy assessors, and including effective date, applicability, and retroactive applicability provisions. (FormerlyHSB 44.) Various effective dates, see bill.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 523",
+      "billTitle": "A bill for an act providing medical examiners access to information in the drug prescribing and dispensing information program. (FormerlyHF 332.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 564",
+      "billTitle": "A bill for an act relating to school district funding and authorized expenditures and transfers and including effective date, applicability, and retroactive applicability provisions. (FormerlyHSB 178.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 565",
+      "billTitle": "A bill for an act relating to public school funding by authorizing the establishment of school district flexibility accounts and authorizing the transfer and expenditure of certain unexpended and unobligated funds. (FormerlyHF 446.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 566",
+      "billTitle": "A bill for an act relating to political subdivision elections by changing the date of the election of directors of local school districts, merged areas, and area education agency boards, by providing for the combined administration of regular and special school and city elections, making changes to the administration of elections for political subdivisions located in more than one county, establishing requirements for ballot arrangement and placement for political subdivision offices, and including effective date and applicability and transition provisions. (FormerlyHF 166.) Effective 7-1-17, with exception of Divisions I and II effective 7-1-19.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 601",
+      "billTitle": "A bill for an act relating to the confidentiality of certain physical infrastructure, cyber security, and critical infrastructure information and records developed, maintained, or held by a government body. (FormerlyHSB 185.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 608",
+      "billTitle": "A bill for an act relating to the technical administration of the tax laws by the department of revenue, including administration of the research activities credit, income taxes, and the flood mitigation program, and including effective date and retroactive applicability provisions. (FormerlyHSB 121.) Effective 7-1-17, with exception of sections 1, 10 and 11 effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 609",
+      "billTitle": "A bill for an act providing for the imposition of the local hotel and motel tax by a land use district. Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 617",
+      "billTitle": "A bill for an act providing for the department of agriculture and land stewardship\u2019s administration of certain functions, relating to forest and fruit tree reservation requirements, the name of the state soil conservation committee, financing of soil conservation and water quality practices, the health of agricultural animals, issuance of two-year licenses and the collection of related fees imposed upon persons engaged in the marketing of agricultural animals and mining operations, license fees imposed upon pesticide dealers, tickets for delivering commodities in bulk, labeling of motor fuel pumps dispensing certain ethanol blended gasoline, the use of scales, providing for penalties, making penalties applicable, and including effective date provisions. (FormerlyHF 550&HSB 120.) Various effective dates, see bill.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 621",
+      "billTitle": "A bill for an act relating to programs and projects administered by the economic development authority. (FormerlyHF 555&HSB 36.) Effective 7-1-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "HF 625",
+      "billTitle": "A bill for an act eliminating a requirement that taxpayers indicate on their tax returns the presence or absence of health care coverage for their dependent children and apply for certain public health care coverage, and including effective date and retroactive applicability provisions. (FormerlyHSB 183.) Effective 5-11-17.",
+      "dateSigned": "2017-05-11"
+    },
+    {
+      "billNumber": "SF 508",
+      "billTitle": "A bill for an act relating to appropriations to the judicial branch. (FormerlySSB 1194.) Effective 7-1-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "SF 509",
+      "billTitle": "A bill for an act relating to appropriations to the justice system. (FormerlySSB 1193.) Effective 7-1-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "SF 510",
+      "billTitle": "A bill for an act relating to and making appropriations and related statutory changes involving state government entities involved with agriculture, natural resources, and environmental protection, and including effective date provisions. (FormerlySSB 1195.) Item veto.  Various effective dates; see sections 25 and 35 of bill.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "SF 513",
+      "billTitle": "A bill for an act making appropriations to the department of cultural affairs, the economic development authority, the Iowa finance authority, the public employment relations board, the department of workforce development, and the state board of regents and certain regents institutions, and properly related matters. (FormerlySSB 1196.) Item vetoed.  Various effective dates; see section 49 of bill.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "SF 516",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for legal and regulatory responsibilities, concerning taxation, and providing for other properly related matters, and including effective date and retroactive applicability provisions. (FormerlySSB 1198.) Various effective dates; see bill.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "HF 524",
+      "billTitle": "A bill for an act relating to medical cannabidiol and prescription drugs, including the establishment of the medical cannabidiol Act, the federal scheduling of a cannabidiol investigational product, and the exchange of prescription drug information, providing for civil and criminal penalties and fees, and including effective date provisions. (FormerlyHSB 89.) Effective 5-12-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "HF 640",
+      "billTitle": "A bill for an act relating to and making appropriations to certain state departments, agencies, funds, and certain other entities, providing for regulatory authority, and other properly related matters and including effective date provisions. (FormerlyHSB 199.) Effective 7-1-17, with exception of sections 57, 58 and 59 effective 5-12-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "HF 642",
+      "billTitle": "A bill for an act relating to the funding of, the operation of, and appropriation of moneys to the college student aid commission, the department for the blind, the department of education, and the state board of regents, and providing for related matters. (FormerlyHSB 200.) Effective 7-1-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "HF 643",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund, the state bond repayment fund, the technology reinvestment fund, and the revenue bonds capitals fund, providing for related matters, and including effective date provisions. (FormerlyHSB 204.) Item vetoed. Effective 7-1-17, with exception of sections 12 and 14 effective 5-12-17.",
+      "dateSigned": "2017-05-12"
+    },
+    {
+      "billNumber": "HF 653",
+      "billTitle": "A bill for an act relating to appropriations for health and human services and veterans and including other related provisions and appropriations, providing penalties, and including effective date and retroactive and other applicability date provisions. (FormerlyHSB 206.) Item vetoed. Various effective dates, see bill.",
+      "dateSigned": "2017-05-12"
+    }
+  ]
+}

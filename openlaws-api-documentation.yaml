@@ -1,0 +1,619 @@
+---
+openapi: 3.1.0
+info:
+  title: OpenLaws API Documentation
+  version: 1.0.1
+servers:
+  - url: https://api.openlaws.us
+tags:
+  - name: Jurisdictions
+    description: All data (statutes, regulations, caselaw opinions) in OpenLaws are organized into jurisdictions. This allows you to scope searches and lookups to a specific state or federal jurisdiction (or both).
+  - name: Laws
+    description: Laws represent a specific law type in a Jurisdiction. For example, Code of Federal Regulations belongs to the FED Jurisdiction and is represented by the law_key `FED-CFR`. Florida Statutes belongs to the FL Jurisdiction and is represented by the law_key `FL-STAT`. Note that case law and case opinions are represented as Opinions that belong to Courts and Jurisdictions rather than Laws.
+  - name: Law Divisions
+    description: Divisions represent the hierarchical documents that make up statutes, regulations, and constitutions. Each document has a 'path' which uniquely identifies the document and where it resides in the hierarchy of the law.
+  - name: Opinions
+    description: Opinions represent published and unpublished case law opinions. Opinions belong to a Court and Jurisdiction.
+  - name: Courts
+    description: Courts issue Opinions and belong to a Jurisdiction.
+paths:
+  "/api/v1/jurisdictions":
+    get:
+      summary: List all Jurisdictions
+      description: Returns all valid jurisdictions, coverage data, and metadata for OpenLaws Jurisdictions
+      tags:
+        - Jurisdictions
+      responses:
+        '200':
+          description: GET jurisdictions returns all jurisdictions
+          content:
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Jurisdiction"
+  "/api/v1/jurisdictions/{jurisdiction_id}/laws/{law_key}/divisions/{path}":
+    get:
+      summary: Get Division by Jurisdiction and OpenLaws path
+      description: A precise way of retrieving one Division object with its unique path
+      tags:
+        - Laws
+        - Law Divisions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: FED
+        - $ref: "#/components/parameters/lawKeyParam"
+          schema:
+            example: FED-CFR
+        - name: path
+          in: path
+          required: true
+          schema:
+            type: string
+            example: "title_12.chapter_i.part_4.subpart_d.section_4_62"
+      responses:
+        '200':
+          description: Get Law Division by path
+          content:
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Division"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/laws/search":
+    get:
+      summary: Keyword Search within a Jurisdiction
+      description: Heuristic keyword search within a specific Jurisdiction (and optionally, federal Laws at the same time with `with_federal`). The search scope will include statutes, rules, regulations, and constitutions. See "Keyword Search Case Opinions" for case law search.
+      tags:
+        - Law Divisions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: CA
+        - $ref: "#/components/parameters/keywordQueryParam"
+          schema:
+            example: apple
+        - $ref: "#/components/parameters/queryTypeParam"
+        - $ref: "#/components/parameters/withFederalParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        '200':
+          $ref: "#/components/responses/okArrayOfDivisions"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/laws/{law_key}/search":
+    get:
+      summary: Keyword Search by Law Type and Jurisdiction
+      description: Heuristic keyword search within a specific law, such as a "New York Rules and Regulations" => law_key `NY-RR`
+      tags:
+        - Law Divisions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: NY
+        - $ref: "#/components/parameters/lawKeyParam"
+          schema:
+            example: NY-RR
+        - $ref: "#/components/parameters/keywordQueryParam"
+          schema:
+            example: apple banana
+        - $ref: "#/components/parameters/queryTypeParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        '200':
+          $ref: "#/components/responses/okArrayOfDivisions"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/laws/citations":
+    get:
+      summary: Lookup by Jurisdiction and Bluebook legal citation for a statute, regulation, or constitution
+      tags:
+        - Law Divisions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: FED
+        - $ref: "#/components/parameters/citationQueryParam"
+          schema:
+            example: 12 CFR § 1002.1
+      responses:
+        '200':
+          description: GET by citation returns a Division
+          content:
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Division"
+        '404':
+          description: GET by citation for non-existent citation returns a 404
+          content:
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Error"
+  "/api/v1/jurisdictions/{jurisdiction_id}/laws":
+    get:
+      summary: Get Laws by Jurisdiction
+      tags:
+        - Laws
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+      responses:
+        '200':
+          $ref: "#/components/responses/okArrayOfLaws"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/courts":
+    get:
+      summary: Get Courts by Jurisdiction
+      tags:
+        - Courts
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+      responses:
+        '200':
+          description: List Courts by Jurisdiction
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  "$ref": "#/components/schemas/Court"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/courts/{court_key}":
+    get:
+      summary: Get single Court
+      tags:
+        - Courts
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: FED
+        - $ref: "#/components/parameters/courtKeyParam"
+          schema:
+            example: scotus
+      responses:
+        '200':
+          description: Get one Court by courtKey
+          content:
+            application/json:
+              schema:
+                "$ref": "#/components/schemas/Court"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/opinions/search":
+    get:
+      summary: Keyword Search Case Opinions
+      tags:
+        - Opinions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: FED
+        - $ref: "#/components/parameters/keywordQueryParam"
+          schema:
+            example: elections
+        - $ref: "#/components/parameters/queryTypeParam"
+        - $ref: "#/components/parameters/withFederalParam"
+        - name: filing_start_date
+          in: query
+          required: false
+          schema:
+            $ref: "#/components/schemas/Date"
+            default: '-Infinity'
+            example: '2020-01-01'
+        - name: filing_end_date
+          in: query
+          required: false
+          schema:
+            $ref: "#/components/schemas/Date"
+            default: 'Infinity'
+            example: '2020-12-31'
+          description: ISO date representing the inclusive ending date to filter Opinion filed dates.
+        - name: court_keys
+          in: query
+          required: false
+          schema:
+            type: string
+            default: false
+            example: ca1,scotus
+          description: Comma delimited list of court_keys. See GET /jurisdictions/{jurisdiction_id}/courts for valid court_keys. For the FED jurisdiction, 'first_circuit'...'eleventh_circuit', 'dc_circuit', and 'federal_circuit' are also valid values which expand to all courts in that circuit.
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        '200':
+          $ref: "#/components/responses/okArrayOfOpinions"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/jurisdictions/{jurisdiction_id}/opinions/citations":
+    get:
+      summary: Lookup Case Opinion by Jurisdiction and Bluebook legal citation for a case
+      tags:
+        - Opinions
+      parameters:
+        - $ref: "#/components/parameters/jurisdictionIdParam"
+          schema:
+            example: FED
+        - $ref: "#/components/parameters/caseCitationQueryParam"
+          schema:
+            example: 1 U.S. 22
+      responses:
+        '200':
+          $ref: "#/components/responses/okArrayOfOpinions"
+        '404':
+          $ref: "#/components/responses/notFound"
+  "/api/v1/laws":
+    get:
+      summary: Get all Laws
+      description: Laws in OpenLaws represent statutes, rules and regulations, and constitutions
+      tags:
+        - Laws
+      responses:
+        '200':
+          "$ref": "#/components/responses/okArrayOfLaws"
+components:
+  securitySchemes:
+    bearerAuth:
+      description: Authenticate API requests via a bearer token
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    Jurisdiction:
+      type: object
+      properties:
+        name:
+          type: string
+        abbreviation:
+          type: string
+        postal_abbreviation:
+          type: string
+        laws:
+          type: array
+          items:
+            $ref: "#/components/schemas/Law"
+        courts:
+          type: array
+          items:
+            $ref: "#/components/schemas/Court"
+      required:
+        - name
+        - laws
+    Law:
+      type: object
+      properties:
+        key:
+          type: string
+          description: OpenLaws identifier for the Law.
+          nullable: false
+        state:
+          type: string
+          description: State or province when applicable.
+        law_type:
+          type: string
+          nullable: false
+          description: Type of Law, including statutes, rules, regulations, constitution, caselaw
+        name:
+          type: string
+          nullable: false
+          description: Jurisdiction's name for the Law
+        aliases:
+          nullable: true
+        features:
+          type: array
+          items:
+            $ref: '#/components/schemas/LawFeature'
+      required:
+        - key
+        - state
+        - law_type
+        - name
+        - aliases
+        - url
+    Court:
+      type: object
+      properties:
+        key:
+          type: string
+          description: Unique identifier for the court
+        jurisdiction:
+          type: string
+          description: Two to three letter Jurisdiction ID
+        parent_court_key:
+          type: string
+          description: Parent court key if applicable
+        name:
+          type: string
+        short_name:
+          type: string
+        abbreviation:
+          type: string
+        start_date:
+          $ref: "#/components/schemas/Date"
+        end_date:
+          $ref: "#/components/schemas/Date"
+    Division:
+      type: object
+      properties:
+        law_key:
+          type: string
+          description: A unique identifier for OpenLaws Laws. A `law_key` is a combination of a jurisdiction_id and an abbreviation of a law type.
+        label:
+          type: string
+          description: Human-readable identifier for the Division; guaranteed to be unique among its sibling Divisions
+        path:
+          type: string
+          description: The concatenation of all of the Division's ancestors's labels resulting in a filepath-like string
+        division_type:
+          type: string
+          description: OpenLaws standardization of the Division document type
+        identifier:
+          type: string
+          description: The source document's identifier
+        range_end_identifier:
+          nullable: true
+          description: If the Division is part a range, this contains the ending value for the identifier range, e.g., §§ 100 to 200 -> 200 is the range_end_identifier.
+        name:
+          type: string
+          nullable: true
+          description: The name of the document from the source document.
+        effective_date:
+          type: string
+          description: If the source document and annotations contain an effective date, this field will be contain the start and end date as a range. Positive and negative infinity indicate the effective date is unbounded.
+        description:
+          nullable: true
+          description: OpenLaws' internal notes for the Division.
+        aliases:
+          nullable: true
+          description: Contains short or common names for the Division
+        plaintext_content:
+          type: string
+          description: Plaintext content without rich text formatting and markup to define pincite locations. Suitable for use with LLMs.
+        markdown_content:
+          type: string
+          description: Rich text content in Commonmark with CSS annotations. Meant to be rendered into human-readable HTML along with the OpenLaws Markdown CSS.
+        annotations:
+          nullable: true
+          description: Annotations and interpretations if available from the official source.
+        source_url:
+          type: string
+          description: Authoritative Source URL for law. Deep-links to the source where supported. **(Law Firm and Enterprise plans only.)**
+        is_repealed:
+          nullable: true
+          description: (Experimental) Whether the Division is repealed, contingent repealed, or no longer effective.
+        is_reserved:
+          nullable: true
+          description: (Experimental) Whether the Division identifier and range_end_identifier are reserved by the Jurisdiction
+        renumbered:
+          nullable: true
+          description: (Experimental) Contains the new identifier and location where the Division was renumbered to.
+      required:
+        - law_key
+        - label
+        - path
+        - division_type
+        - identifier
+        - range_end_identifier
+        - name
+        - effective_date
+        - description
+        - aliases
+        - plaintext_content
+        - markdown_content
+        - annotations
+        - source_url
+        - is_repealed
+        - is_reserved
+        - renumbered
+        - url
+    Opinion:
+      description: Court opinion
+      type: object
+      properties:
+        case_name:
+          type: string
+          nullable: false
+          description: Full case name including first and second parties
+        jurisdiction:
+          type: string
+          nullable: false
+          description: Two to three letter Jurisdiction ID
+        court:
+          type: object
+          description: Court
+          $ref: '#/components/schemas/Court'
+        docket_number:
+          type: string
+          description: Court docket identifier for the opinion
+        date_filed:
+          type: date
+          description: Date which the opinion was filed (ISO formatted date)
+        judges:
+          type: string
+          description: Name of judges if available
+        attorneys:
+          type: string
+          description: Name of attorneys if available
+        first_party:
+          type: string
+        second_party:
+          type: string
+        precedential_status:
+          type: string
+          description: Published or unpublished
+        headmatter:
+          type: string
+          description: Markdown of headmatter if available
+        extracted_by_ocr:
+          type: boolean
+          description: Whether or not OCR was used to extract the text
+        plaintext:
+          type: string
+          description: Plain text representation of the opinion text, if available. Otherwise, empty string.
+        updated_at:
+          $ref: '#/components/schemas/DateTime'
+        citations:
+          description: Array of possible citations for the case. Can be empty for unpublished opinions.
+          type: array
+          items: string
+      required:
+        - case_name
+        - jurisdiction
+        - court
+    Error:
+      description: RFC9457 Problem Details
+      type: object
+      properties:
+        status:
+          type: string
+          nullable: false
+        title:
+          type: string
+          nullable: false
+        instance:
+          type: string
+        type:
+          type: string
+        details:
+          type: string
+        errors:
+          type: array
+          items: string
+      required:
+        - status
+        - title
+    LawFeature:
+      description: Describes whether a Law has a type of data, e.g., rich text content, formatted tables
+      type: object
+      properties:
+        name:
+          type: string
+          nullable: false
+        available:
+          type: boolean
+          nullable: false
+    Date:
+      description: ISO Date
+      type: string
+      oneOf:
+        - type: string
+          format: date
+        - type: string
+          enum: [ "-Infinity", "Infinity" ]
+    DateTime:
+      description: ISO DateTime
+      type: string
+      format: date-time
+  parameters:
+    jurisdictionIdParam:
+      name: jurisdiction_id
+      in: path
+      required: true
+      schema:
+        type: string
+        example: FED
+      description: Two to three letter Jurisdiction ID. `FED` for federal and generally, the postal abbreviation for most U.S. states and territories.
+    keywordQueryParam:
+      name: query
+      in: query
+      required: true
+      schema:
+        type: string
+        example: apple
+      description: One or more keywords to search by
+    citationQueryParam:
+      name: query
+      in: query
+      required: true
+      schema:
+        type: string
+        example: 48 CFR 52.249-2
+      description: Bluebook legal citation for a statute, regulation, or constitution
+    caseCitationQueryParam:
+      name: query
+      in: query
+      required: true
+      schema:
+        type: string
+        example: 1 U.S. 22
+      description: Bluebook legal citation for a case
+    queryTypeParam:
+      name: type
+      in: query
+      required: false
+      schema:
+        type: string
+        default: or
+        enum:
+          - or
+          - and
+          - phrase
+      description: Search type. Default is 'or'.
+    lawKeyParam:
+      name: law_key
+      in: path
+      required: true
+      schema:
+        type: string
+        example: NY-RR
+      description: A unique identifier for OpenLaws Laws. A `law_key` is a combination of a jurisdiction_id and an abbreviation of a law type.
+    courtKeyParam:
+      name: court_key
+      in: path
+      required: true
+      schema:
+        type: string
+        example: scotus
+      description: Unique identifier for a Court. See the /jurisdictions/{jurisdiction_id}/courts endpoint for possible values.
+    withFederalParam:
+      name: with_federal
+      in: query
+      required: false
+      schema:
+        type: boolean
+        default: false
+      description: When `true` with a state jurisdiction_id, the Federal jurisdiction will also be included in the search scope.
+    limitParam:
+      name: limit
+      in: query
+      required: false
+      schema:
+        type: integer
+        minimum: 1
+        default: 10
+  responses:
+    okArrayOfLaws:
+      description: Array of Laws
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              "$ref": "#/components/schemas/Law"
+    okArrayOfDivisions:
+      description: Array of Divisions
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              "$ref": "#/components/schemas/Division"
+    okArrayOfOpinions:
+      description: Array of Opinions
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              "$ref": "#/components/schemas/Opinion"
+    notFound:
+      description: Not found
+      content:
+        application/json:
+          schema:
+            "$ref": "#/components/schemas/Error"
+    serverError:
+      description: Server error
+      content:
+        application/json:
+          schema:
+            "$ref": "#/components/schemas/Error"
+security:
+  - bearerAuth: []

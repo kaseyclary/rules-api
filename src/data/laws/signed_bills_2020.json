@@ -1,0 +1,616 @@
+{
+  "year": 2020,
+  "totalBills": 122,
+  "bills": [
+    {
+      "billNumber": "SF 2144",
+      "billTitle": "A bill for an act relating to financial and regulatory matters by making and supplementing appropriations for the fiscal year beginning July 1, 2019, and including effective date provisions. (FormerlySSB 3102.) Effective Date: 02/13/2020",
+      "dateSigned": "2020-02-13"
+    },
+    {
+      "billNumber": "SF 2164",
+      "billTitle": "A bill for an act relating to public school funding by modifying provisions relating to the regular program state cost per pupil and to appropriations to the transportation equity fund and including effective date provisions.  (FormerlySF 2143,SSB 3097.) Effective date: 02/25/2020.",
+      "dateSigned": "2020-02-25"
+    },
+    {
+      "billNumber": "SF 155",
+      "billTitle": "A bill for an act relating to the practice of barbering in movable locations, and including effective date provisions. Effective date: 03/10/2020.",
+      "dateSigned": "2020-03-10"
+    },
+    {
+      "billNumber": "SF 583",
+      "billTitle": "A bill for an act relating to billing methods that may be utilized in connection with distributed generation facilities.  (FormerlySSB 1201.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2025",
+      "billTitle": "A bill for an act relating to the employment of county engineers. Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2091",
+      "billTitle": "A bill for an act providing for exemptions relating to odometer requirements, and including effective date provisions.  (FormerlySSB 3022.) Effective date: 01/01/2021.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2118",
+      "billTitle": "A bill for an act relating to loan repayment for refinanced student loans under the rural physician loan repayment program, the health care professional recruitment program, and the health care loan repayment program, and including effective date and retroactive applicability provisions.  (FormerlySF 2011.) Effective date: 03/12/2020. Applicability date: 01/01/2019.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2131",
+      "billTitle": "A bill for an act relating to credit allowed to domestic ceding insurers for reinsurance ceded to reinsurers, and including applicability provisions.  (FormerlySSB 3048.) Effective date: 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2132",
+      "billTitle": "A bill for an act relating to the legal reserve requirements of life insurance companies.  (FormerlySSB 3003.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2134",
+      "billTitle": "A bill for an act relating to the manufacturing of canned cocktails by a beer manufacturer and including effective date provisions.  (FormerlySSB 3054.) Effective date: 03/12/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2137",
+      "billTitle": "A bill for an act relating to filing requirements applicable to extensions of real estate conveyances or transactions under specified circumstances.  (FormerlySSB 3004.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2142",
+      "billTitle": "A bill for an act relating to public school funding by establishing a state percent of growth and the categorical state percent of growth for the budget year beginning July 1, 2020, modifying provisions and references relating to the property tax replacement payment, and including effective date provisions.  (FormerlySSB 3096.) Effective date: 03/12/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2187",
+      "billTitle": "A bill for an act providing for the application and construction of the uniform protected series Act.  (FormerlySSB 3037.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2198",
+      "billTitle": "A bill for an act relating to notice provisions in connection with designated consumer lending provisions.  (FormerlySSB 3011.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2250",
+      "billTitle": "A bill for an act relating to responsibilities of timber buyers and persons transporting timber, and providing penalties.  (FormerlySSB 3107.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "HF 426",
+      "billTitle": "A bill for an act relating to the insurance fraud bureau, criminal history checks for licenses granted by the insurance division, and resolving inconsistencies.  (FormerlyHSB 92.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "HF 2235",
+      "billTitle": "A bill for an act disqualifying a person convicted of human trafficking involving the use of a commercial motor vehicle from operating a commercial motor vehicle for life.  (FormerlyHSB 541.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "HF 2267",
+      "billTitle": "A bill for an act relating to the regulation of dental hygienists and dental assistants, and the practice of dentistry, and providing administrative penalties.  (FormerlyHSB 153.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-03-12"
+    },
+    {
+      "billNumber": "SF 2408",
+      "billTitle": "A bill for an act relating to state and local finances by making and supplementing appropriations, providing for legal and regulatory responsibilities, providing for other properly related matters, and including effective date provisions. Effective date: 03/17/2020, 07/01/2020.",
+      "dateSigned": "2020-03-17"
+    },
+    {
+      "billNumber": "SF 2357",
+      "billTitle": "A bill for an act relating to the practice and licensure of physician assistants, and including effective date provisions.  (FormerlySSB 3071.) Effective date: 03/18/2020.",
+      "dateSigned": "2020-03-18"
+    },
+    {
+      "billNumber": "SF 537",
+      "billTitle": "A bill for an act relating to taking coyotes while using an artificial source of light.  (FormerlySF 374.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2082",
+      "billTitle": "A bill for an act relating to matters involving the state board of education and the department of education to reflect current practices, technology, and titles, to delete redundancies, and to resolve inconsistencies.  (FormerlySSB 3018.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2119",
+      "billTitle": "A bill for an act relating to controlled substances, including amending the controlled substance schedules, removing certain references to marijuana, making penalties applicable, and including effective date provisions.  (FormerlySSB 3050.) Effective date: 06/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2120",
+      "billTitle": "A bill for an act relating to controlled substances, including information collection and reporting requirements under the Iowa prescription monitoring program.  (FormerlySSB 3051.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2135",
+      "billTitle": "A bill for an act relating to the final disposition and disinterment of human remains.  (FormerlySSB 3056.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2196",
+      "billTitle": "A bill for an act extending the repeal date of the Iowa cell siting Act and including effective date provisions.  (FormerlySSB 3012.) Effective date: 06/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2259",
+      "billTitle": "A bill for an act relating to liability arising from the donation of equipment by a municipality, fire department, emergency medical services provider, or law enforcement agency.  (FormerlySF 2179.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2275",
+      "billTitle": "A bill for an act relating to eluding or attempting to elude a pursuing law enforcement vehicle and providing penalties.  (FormerlySSB 3035.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2299",
+      "billTitle": "A bill for an act relating to background checks for employees and students of certain facilities, providers, programs, and agencies.  (FormerlySSB 3179.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2337",
+      "billTitle": "A bill for an act relating to civil actions involving asbestos and silica, and including applicability provisions.  (FormerlySSB 3167.) Effective date: 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "HF 2454",
+      "billTitle": "A bill for an act relating to qualifications for community college career and technical education instructors.  (FormerlyHSB 644.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "HF 2475",
+      "billTitle": "A bill for an act relating to the review and permitting of sewer extensions and water supply distribution system extensions, and including effective date provisions.  (FormerlyHSB 636.) Effective date: 06/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "HF 2477",
+      "billTitle": "A bill for an act relating to county regulation of certain agricultural experiences.  (FormerlyHSB 650.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "HF 2512",
+      "billTitle": "A bill for an act relating to county zoning procedures, and including effective date and applicability provisions.  (FormerlyHSB 632.) Effective date: 06/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-01"
+    },
+    {
+      "billNumber": "SF 2348",
+      "billTitle": "A bill for an act relating to the restoration of voting rights to certain convicted persons and including effective date provisions. (FormerlySF 2129.) Contingent effective date.",
+      "dateSigned": "2020-06-04"
+    },
+    {
+      "billNumber": "SF 2413",
+      "billTitle": "A bill for an act relating to agriculture and food, including the powers and duties of the department of agriculture and land stewardship, providing penalties, making penalties applicable, and including effective date provisions.  (FormerlySF 2387,SSB 3172.) Effective date: 06/10/2020.",
+      "dateSigned": "2020-06-10"
+    },
+    {
+      "billNumber": "HF 2647",
+      "billTitle": "A bill for an act relating to peace officers, including the certification, training, and prosecution of peace officers and the use of chokeholds by peace officers, and including effective date and retroactive applicability provisions. Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-12"
+    },
+    {
+      "billNumber": "SF 388",
+      "billTitle": "A bill for an act relating to the Iowa medal of honor highway, and including applicability provisions. Effective date: 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2097",
+      "billTitle": "A bill for an act relating to the criminal offense of indecent exposure, providing penalties, and making penalties applicable.   (FormerlySSB 3031.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2182",
+      "billTitle": "A bill for an act relating to the state public defender pilot project and legal representation in child welfare cases.  (FormerlySSB 3039.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2188",
+      "billTitle": "A bill for an act concerning federal financial assistance funding for hazard mitigation.   (FormerlySSB 3057.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2191",
+      "billTitle": "A bill for an act relating to the payment of required medical aid provided to prisoners.  (FormerlySSB 3073.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2195",
+      "billTitle": "A bill for an act providing an exception to the Iowa state elevator code for certain multi-story commercial buildings in specified circumstances.  (FormerlySF 2051.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2225",
+      "billTitle": "A bill for an act relating to the criminal offense of theft in the third degree and making penalties applicable.  (FormerlySSB 3005.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2284",
+      "billTitle": "A bill for an act relating to matters involving the state board of regents and the institutions the state board of regents governs, and including retroactive applicability provisions.  (FormerlySSB 3132.) Effective date: 07/01/2020. Applicability date: 07/01/2019.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2300",
+      "billTitle": "A bill for an act relating to the transfer of real estate as part of the administration of a decedent\u2019s estate, guardianship, conservatorship, or trust, and including applicability provisions.  (FormerlySSB 3124.) Effective date: 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2323",
+      "billTitle": "A bill for an act relating to the initial care plan for minor and adult guardianships and the initial plan and inventory for adult conservatorships, and including effective date and retroactive applicability provisions.  (FormerlySSB 3131.) Effective date: 06/17/2020. Applicability date: 01/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2356",
+      "billTitle": "A bill for an act relating to the education of students with characteristics of dyslexia and to the preparation and licensure of practitioners for such instruction, and establishing an Iowa dyslexia board.  (FormerlySF 2235.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 2398",
+      "billTitle": "A bill for an act establishing a rural veterinarian loan repayment program for veterinary students and certain licensed veterinarians and a rural veterinary care trust fund, and making appropriations.  (FormerlySF 2176.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 717",
+      "billTitle": "A bill for an act concerning appeal rights relating to veterans preference.  (FormerlyHSB 212.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2220",
+      "billTitle": "A bill for an act relating to the definition of young adult for purposes of participation in the preparation for adult living program.  (FormerlyHSB 534.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2236",
+      "billTitle": "A bill for an act concerning fees charged for examining and copying public records relating to claims for veterans benefits.  (FormerlyHF 2022.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2269",
+      "billTitle": "A bill for an act relating to the Medicaid home and community-based services elderly waiver monthly budget maximum.  (FormerlyHF 2051.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2310",
+      "billTitle": "A bill for an act removing the requirement to obtain a permit for vehicles or combinations of vehicles of excessive size transporting divisible loads of hay, straw, stover, or bagged livestock bedding that meet certain width, height, and length requirements.  (FormerlyHSB 525.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2312",
+      "billTitle": "A bill for an act relating to certificate of eligibility affidavits for admission to the veterans home.  (FormerlyHSB 547.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2362",
+      "billTitle": "A bill for an act relating to certain appeals by nonprofit organizations concerning reimbursement of the department of workforce development for the cost of unemployment benefits.  (FormerlyHSB 601.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2382",
+      "billTitle": "A bill for an act relating to confidentiality concerning individuals allowed a disabled veteran tax credit and military tax exemption.  (FormerlyHSB 560.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2402",
+      "billTitle": "A bill for an act relating to the resignations of registered agents serving certain business entities.  (FormerlyHSB 529.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2411",
+      "billTitle": "A bill for an act relating to participation in the sobriety and drug monitoring program.   (FormerlyHSB 571.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2474",
+      "billTitle": "A bill for an act relating to the confidentiality of information filed with the court to secure an arrest warrant.  (FormerlyHSB 613.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2481",
+      "billTitle": "A bill for an act relating to the validity of certificates of the treasurer.  (FormerlyHSB 677.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2535",
+      "billTitle": "A bill for an act relating to nonsubstantive Code corrections, and including effective date and retroactive applicability provisions.  (FormerlyHSB 679.) Effective date: 06/17/2020, 07/01/2020. Applicability date: 07/01/2019.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2536",
+      "billTitle": "A bill for an act relating to statutory corrections which may adjust language to reflect current practices, insert earlier omissions, delete redundancies and inaccuracies, delete temporary language, resolve inconsistencies and conflicts, update ongoing provisions, or remove ambiguities, and including effective date and retroactive applicability provisions.  (FormerlyHSB 692.) Effective date: 06/17/2020, 07/01/2020. Applicability date: 07/01/2019.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2565",
+      "billTitle": "A bill for an act relating to the setoff procedures used by public agencies and including effective date provisions.    (FormerlyHSB 656.) Contingent effective date.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2581",
+      "billTitle": "A bill for an act relating to the regulation of hemp, including by providing for testing methods and the regulation of hemp products, providing penalties, making penalties applicable, and including effective date provisions.  (FormerlyHSB 646.)",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "HF 2623",
+      "billTitle": "A bill for an act relating to gambling licensees concerning setoff requirements on certain winnings on wagers, payments by credit card, and qualified sponsoring organizations.  (FormerlyHF 2196,HSB 502.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-17"
+    },
+    {
+      "billNumber": "SF 272",
+      "billTitle": "A bill for an act relating to the provision of debt management services in connection with educational loans, and making penalties applicable.  (FormerlySSB 1066.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "SF 620",
+      "billTitle": "A bill for an act relating to the procedure for disposal of certain city utilities by sale.  (FormerlySSB 1184.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "SF 2296",
+      "billTitle": "A bill for an act regarding persons who are deemed independent contractors when performing services while operating certain vehicles.  (FormerlySSB 3144.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "SF 2338",
+      "billTitle": "A bill for an act relating to civil actions, including recoverable damages for medical expenses, evidence offered to prove past medical expenses, and civil actions related to the novel coronavirus, and including retroactive applicability provisions.  (FormerlySSB 3150.) Effective date: 07/01/2020. Applicability date: 01/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "HF 716",
+      "billTitle": "A bill for an act relating to firearms requirements for hunting deer.  (FormerlyHF 179.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "HF 2360",
+      "billTitle": "A bill for an act regarding the expiration of driver\u2019s licenses of persons who are age seventy-eight or over and including effective date provisions.  (FormerlyHSB 563.) Effective date: 09/01/2020.",
+      "dateSigned": "2020-06-18"
+    },
+    {
+      "billNumber": "HF 760",
+      "billTitle": "A bill for an act relating to the exemption from the hotel and motel taxes for the renting of lodging.  (FormerlyHF 171.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-24"
+    },
+    {
+      "billNumber": "SF 280",
+      "billTitle": "A bill for an act relating to the residency of members of the armed forces stationed at specified military installations for purposes of hunting, fishing, and trapping privileges.  (FormerlySF 215.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 457",
+      "billTitle": "A bill for an act relating to the criminal and juvenile justice system by modifying criminal penalties, surcharges, fines, fees, and costs, creating and modifying funds, making appropriations and allocating revenues, modifying installment agreements, modifying civil claims for reimbursement, restitution, and collection of court debt, and providing effective date provisions.  (FormerlySSB 1059andSF 225.) Effective date: 06/25/2020, 07/15/2020, 01/01/2021.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 458",
+      "billTitle": "A bill for an act relating to debts for which the homestead is liable by providing that the homestead may be sold to satisfy debts secured by a mechanic\u2019s lien, including principal, interest, attorney fees, and costs, and including effective date provisions.  (FormerlySSB 1147.) Effective date: 06/25/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 2232",
+      "billTitle": "A bill for an act relating to the Iowa trust code, including the creation of directed trusts, the transfer of trust assets into other trusts, and requirements related to notices to beneficiaries.   (FormerlySSB 3036.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 2373",
+      "billTitle": "A bill for an act modifying provisions relating to telecommunicators.  (FormerlySF 2243.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 2400",
+      "billTitle": "A bill for an act relating to broadband service, including matters under the purview of the office of the chief information officer, the empower rural Iowa broadband grant fund, and certain broadband infrastructure tax exemptions, and including effective date and retroactive applicability provisions.  (FormerlySF 2262,SSB 3112.) Effective date: 06/25/2020. Applicability date: 07/01/2015.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 599",
+      "billTitle": "A bill for an act relating to hunting by persons under the age of sixteen.  (FormerlyHF 164.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 684",
+      "billTitle": "A bill for an act providing limited immunity from certain criminal offenses and prohibiting certain disciplinary sanctions for persons under twenty-one years of age who report, seek, or require emergency assistance for alcohol overdoses, and modifying penalties.  (FormerlyHSB 175.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2197",
+      "billTitle": "A bill for an act relating to the medical residency training state matching grants program rural rotation requirement.  (FormerlyHF 2052.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2221",
+      "billTitle": "A bill for an act relating to the licensed health professional member of a local board of health.  (FormerlyHF 2031.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2238",
+      "billTitle": "A bill for an act relating to regulation of foods sold by minors.  (FormerlyHSB 554.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2359",
+      "billTitle": "A bill for an act relating to the reporting of certain assessment scores by approved practitioner preparation programs.  (FormerlyHSB 559.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2363",
+      "billTitle": "A bill for an act relating to unemployment insurance contribution rates for certain landscaping employers.  (FormerlyHSB 603.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2364",
+      "billTitle": "A bill for an act relating to injunctions issued to employers for certain violations of the state unemployment insurance law.  (FormerlyHSB 604.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2365",
+      "billTitle": "A bill for an act relating to certain notifications issued by the department of workforce development concerning claims for unemployment benefits and the voluntary shared work program, and including applicability provisions.  (FormerlyHSB 605.) Effective date: 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2372",
+      "billTitle": "A bill for an act regarding driver\u2019s licenses, including the exemption of certain farmers and hired help operating a special truck from the requirement to be licensed as a chauffeur and the optional inclusion of a mark reflecting autism spectrum disorder status on a person\u2019s driver\u2019s license.  (FormerlyHSB 530.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2389",
+      "billTitle": "A bill for an act relating to the rulemaking process for executive branch agencies and including transition provisions.  (FormerlyHSB 568.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2410",
+      "billTitle": "A bill for an act relating to the issuance of special senior statewide antlerless deer only crossbow deer hunting licenses.  (FormerlyHSB 565.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2412",
+      "billTitle": "A bill for an act relating to the definition of public improvement for public construction bidding purposes.  (FormerlyHSB 589.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2418",
+      "billTitle": "A bill for an act relating to certain information in proceedings before the director of the department of education and the board of educational examiners, certain requests made to the school budget review committee, and including effective date and retroactive applicability provisions.  (FormerlyHF 2147.) Effective date: 06/25/2020. Applicability date: 01/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2445",
+      "billTitle": "A bill for an act relating to the privacy of a victim of a sex offense in a criminal or civil proceeding.   (FormerlyHF 2054.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2452",
+      "billTitle": "A bill for an act relating to the disposal and acquisition of city water utilities, including at-risk systems.  (FormerlyHSB 517.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2455",
+      "billTitle": "A bill for an act allowing the use of a leashed dog to track and retrieve a wounded deer and providing a penalty.  (FormerlyHF 657,HF 363.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2485",
+      "billTitle": "A bill for an act establishing an exception to the number of children allowed to be present for child care at any one time in a child development home under certain conditions.  (FormerlyHF 2378.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2486",
+      "billTitle": "A bill for an act relating to the conduct of elections, including emergency powers, procedures relating to electors, and the use of a county seal on materials related to elections.  (FormerlyHF 2013.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2502",
+      "billTitle": "A bill for an act relating to firearms and weapons, including the storage, carrying, possession, or transportation of weapons and the establishment, use, and maintenance of shooting ranges.  (FormerlyHSB 615.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2528",
+      "billTitle": "A bill for an act relating to persons authorized to request assistance pursuant to the statewide mutual aid compact.  (FormerlyHF 2318.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2561",
+      "billTitle": "A bill for an act relating to protections for certain potential recipients of anatomical gifts.  (FormerlyHF 2118.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2585",
+      "billTitle": "A bill for an act relating to the terminology used in relation to the deaf and hard-of-hearing persons.  (FormerlyHF 2396.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "HF 2627",
+      "billTitle": "A bill for an act relating to governmental and regulatory matters including the granting and renewal of licenses, certificates, and registrations, and including effective date provisions.   (FormerlyHF 2470,HSB 647.) Effective date: 06/25/2020, 01/01/2021.",
+      "dateSigned": "2020-06-25"
+    },
+    {
+      "billNumber": "SF 526",
+      "billTitle": "A bill for an act creating a blue alert program within the department of public safety for the apprehension of a person suspected of killing or seriously injuring a peace officer in the line of duty or due to safety concerns for a peace officer missing while on duty.  (FormerlySSB 1167.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "SF 2261",
+      "billTitle": "A bill for an act relating to the provision of behavioral health services including via telehealth in a school setting.  (FormerlySF 2100.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "SF 2268",
+      "billTitle": "A bill for an act establishing the minimum age relative to various activities relating to tobacco, tobacco products, alternative nicotine products, vapor products, and cigarettes, making penalties applicable, and including effective date provisions.  (FormerlySSB 3016.) Effective date: 06/29/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "SF 2310",
+      "billTitle": "A bill for an act relating to educational instructional requirements and funding flexibility and including effective date and retroactive applicability provisions.  (FormerlySF 2004.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "SF 2360",
+      "billTitle": "A bill for an act relating to classroom management and related practitioner preparation procedures for reporting classroom violence and assaults, to corporal punishment, establishing a grant program and fund for creation of therapeutic classrooms, providing claims reimbursement to school districts for costs relating to therapeutic classrooms, making appropriations, and including effective date provisions.  (FormerlySF 2190,SSB 3080.) Effective date: 06/29/2020, 07/01/2021, 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 310",
+      "billTitle": "A bill for an act relating to the practice of optometry.  (FormerlyHSB 64.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 594",
+      "billTitle": "A bill for an act relating to medical procedures including abortion and limitations regarding the withdrawal of a  life-sustaining procedure from a minor child.  (FormerlyHF 233.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 737",
+      "billTitle": "A bill for an act relating to the regulation of persons involved with animals other than livestock and certain wild animals, providing for criminal offenses and court orders associated with animal mistreatment, and including penalties.  (FormerlyHSB 114.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2259",
+      "billTitle": "A bill for an act relating to human trafficking prevention training and reporting for employees of lodging providers in the state. Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2340",
+      "billTitle": "A bill for an act relating to the Iowa educational savings plan trust by permitting the use of funds for certain beneficiaries to attend out-of-state elementary or secondary schools, and including retroactive applicability provisions.  (FormerlyHF 2024.) Effective date: 07/01/2020. Applicability date: 01/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2540",
+      "billTitle": "A bill for an act concerning alcoholic beverage control, establishing a charity beer, spirits, and wine event permit, providing for alcoholic beverages sales, and including effective date provisions.  (FormerlyHSB 683.) Effective date: 06/29/2020, 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2554",
+      "billTitle": "A bill for an act relating to the offense of continuous sexual abuse of a child and providing penalties.  (FormerlyHSB 595.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2589",
+      "billTitle": "A bill for an act concerning the medical cannabidiol Act and marijuana.  (FormerlyHSB 653.) Effective date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2629",
+      "billTitle": "A bill for an act relating to the future ready Iowa Act and other efforts to strengthen Iowa\u2019s workforce, including provisions relating to apprenticeship training programs, a child care challenge program for working Iowans, computer science educational standards, a scholarship program, and the senior year plus program, and including effective date and retroactive applicability provisions.  (FormerlyHF 2384,HSB 607.) Effective date: 07/01/2021, 07/01/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "HF 2641",
+      "billTitle": "A bill for an act relating to state taxation and related laws of the state, including the administration by the department of revenue of certain tax credits and refunds, income taxes, moneys and credits taxes, sales and use taxes, partnership and pass-through entity audits, and by modifying provisions relating to the reinstatement of business entities, the assessment and valuation of property, the Iowa reinvestment Act, short-term rentals, special registration plates, and animals and food, and providing penalties, and including effective date and retroactive applicability provisions.  (FormerlyHSB 696.) Effective date: 06/29/2020, 07/01/2020. Applicability date: 03/23/2020, 01/01/2019, 07/01/2005, 01/01/2022, 05/30/2014, 06/10/2020, 03/27/2020, 01/01/2020, 07/01/2020.",
+      "dateSigned": "2020-06-29"
+    },
+    {
+      "billNumber": "SF 2403",
+      "billTitle": "A bill for an act relating to the excise taxes on motor fuel and certain special fuel, and including applicability provisions.  (FormerlySF 628,SSB 1246.) Effective date: 07/01/2020. Applicability date: 01/01/2021.",
+      "dateSigned": "2020-06-30"
+    },
+    {
+      "billNumber": "HF 2642",
+      "billTitle": "A bill for an act relating to and making appropriations to state departments and agencies from the rebuild Iowa infrastructure fund and the technology reinvestment fund, and providing for related matters, and including effective date and retroactive applicability provisions.  (FormerlyHSB 712.) Effective date: 06/30/2020, 07/01/2020. Applicability date: 06/01/2020, 07/01/2020.",
+      "dateSigned": "2020-06-30"
+    },
+    {
+      "billNumber": "HF 2643",
+      "billTitle": "A bill for an act relating to state and local finances by making appropriations, providing for legal and regulatory responsibilities, providing for other properly related matters, and including effective date and retroactive applicability provisions.  (FormerlyHSB 710.) Effective date: 06/30/2020, 07/01/2020. Applicability date: 06/01/2020, 03/18/2020, 06/17/2020, 06/30/2020, 07/01/2019, 07/01/2020, 06/26/2020.",
+      "dateSigned": "2020-06-30"
+    },
+    {
+      "billNumber": "HF 2644",
+      "billTitle": "A bill for an act relating to transportation and other infrastructure- related appropriations to the department of transportation, including allocation and use of moneys from the road use tax fund and the primary road fund and other related provisions, and including effective date and retroactive applicability provisions.  (FormerlyHSB 711.) Effective date: 06/30/2020. Applicability date: 07/01/2020.",
+      "dateSigned": "2020-06-30"
+    }
+  ]
+}
