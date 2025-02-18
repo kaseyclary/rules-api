@@ -2,11 +2,13 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.v1.agencies import router as agencies_router
 from src.api.v1.openlaws import router as openlaws_router
+from src.services.cache_service import CacheManager
+import gc
 
 app = FastAPI(
     title="Iowa Regulatory Code API",
     description="API for accessing Iowa Regulatory Code data",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 # Configure CORS
@@ -30,6 +32,18 @@ app.include_router(
     prefix="/api/v1/openlaws",
     tags=["openlaws"]
 )
+
+@app.on_event("startup")
+async def startup():
+    # Initialize different caches for different purposes
+    CacheManager.init_cache("db_cache", max_size=1000)
+    CacheManager.init_cache("file_cache", max_size=1000)
+    CacheManager.init_cache("differences_cache", max_size=500)
+
+@app.on_event("shutdown")
+async def shutdown():
+    CacheManager.clear_all()
+    gc.collect()
 
 @app.get("/")
 async def root():
