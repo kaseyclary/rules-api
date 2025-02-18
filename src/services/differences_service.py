@@ -39,12 +39,13 @@ class DifferencesService:
         Returns:
             List[dict]: A list of year-over-year differences
         """
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
         cached_result = DifferencesService._get_cached_differences(start_year, end_year)
         if cached_result:
             return cached_result
 
         differences = []
-        data_dir = Path("src/data/rules")
         
         for year in range(start_year + 1, end_year + 1):
             current_year = year
@@ -166,8 +167,13 @@ class DifferencesService:
         Returns:
             List[dict]: A list of year-over-year total differences and law counts
         """
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
+        cached_result = DifferencesService._get_cached_differences(start_year, end_year)
+        if cached_result:
+            return cached_result
+
         differences = []
-        data_dir = Path("src/data/rules")
         
         for year in range(start_year + 1, end_year + 1):
             current_year = year
@@ -210,6 +216,7 @@ class DifferencesService:
                 print(f"Warning: Could not find data file for year {year} or {previous_year}")
                 continue
                 
+        DifferencesService._set_differences_cache(start_year, end_year, differences)
         return differences
 
     @staticmethod
@@ -225,7 +232,8 @@ class DifferencesService:
         Returns:
             dict: Detailed changes showing added and removed entities
         """
-        data_dir = Path("src/data/rules")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
         
         # Load data from JSON files
         year1_file = data_dir / f"nested_{year1}.json"
@@ -375,7 +383,8 @@ class DifferencesService:
             List[dict]: A list of total rule counts by year
         """
         totals = []
-        data_dir = Path("src/data/rules")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
         
         for year in range(start_year, end_year + 1):
             file_path = data_dir / f"nested_{year}.json"
@@ -416,7 +425,8 @@ class DifferencesService:
             List[dict]: A list of new rule counts and total laws by year
         """
         new_rule_counts = []
-        data_dir = Path("src/data/rules")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
         
         for year in range(start_year + 1, end_year + 1):
             current_year = year
@@ -478,7 +488,8 @@ class DifferencesService:
             List[dict]: Timeline of agency changes by year
         """
         timeline = []
-        data_dir = Path("src/data/rules")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        data_dir = BASE_DIR / "src" / "data" / "rules"
         
         for year in range(start_year + 1, end_year + 1):
             current_year = year
@@ -542,8 +553,9 @@ class DifferencesService:
             List[dict]: A list of dictionaries containing year, total_rules, and total_word_count.
         """
         volumes = []
-        rules_dir = Path("src/data/rules")
-        word_counts_dir = Path("src/data/rules/word_counts")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        rules_dir = BASE_DIR / "src" / "data" / "rules"
+        word_counts_dir = BASE_DIR / "src" / "data" / "rules" / "word_counts"
         
         for year in range(start_year, end_year + 1):
             # Get total rule count from the rules file.
@@ -591,7 +603,8 @@ def scrape_agency_timeline(start_year: int, end_year: int) -> List[dict]:
         List[dict]: Timeline of agency changes by year
     """
     timeline = []
-    data_dir = Path("src/data/rules")
+    BASE_DIR = Path(__file__).resolve().parent.parent.parent
+    data_dir = BASE_DIR / "src" / "data" / "rules"
     
     for year in range(start_year + 1, end_year + 1):
         current_year = year

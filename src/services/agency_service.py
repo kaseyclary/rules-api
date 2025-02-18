@@ -7,6 +7,7 @@ import asyncio
 from src.services.cache_service import timed_cache
 from src.services.file_service import FileService
 from datetime import datetime
+from pathlib import Path
 
 class AgencyService:
     _db_cache: Dict[str, Any] = {}
@@ -146,14 +147,15 @@ class AgencyService:
 
     @classmethod
     def _get_agency_stats_sync(cls):
-        base_path = "src/data/rules/word_counts/"
-        years = FileService.get_available_years(base_path, "grouped_word_count")
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        base_path = BASE_DIR / "src" / "data" / "rules" / "word_counts"
+        years = FileService.get_available_years(str(base_path), "grouped_word_count")
         if not years:
             raise Exception("No word count files found.")
         recent_year = max(years)
         
         # Load nested data
-        nested_file = f"src/data/rules/nested_{recent_year}.json"
+        nested_file = BASE_DIR / "src" / "data" / "rules" / f"nested_{recent_year}.json"
         nested_data = FileService.read_json_file(nested_file)
         nested_agencies_lookup = {}
         if nested_data.get("agencies", []):
@@ -166,7 +168,7 @@ class AgencyService:
                     nested_agencies_lookup[str(agency_id)] = total_rule_count
         
         # Load data for the most recent year
-        recent_file = os.path.join(base_path, f"grouped_word_count_{recent_year}.json")
+        recent_file = base_path / f"grouped_word_count_{recent_year}.json"
         with open(recent_file, "r") as f:
             recent_data = json.load(f)
         recent_agencies = recent_data.get("agencies", [])
@@ -195,7 +197,7 @@ class AgencyService:
         
         # For each year from 2012 up to the most recent year, populate the agency's yearly stats.
         for year in range(2012, recent_year + 1):
-            file_path = os.path.join(base_path, f"grouped_word_count_{year}.json")
+            file_path = base_path / f"grouped_word_count_{year}.json"
             if os.path.exists(file_path):
                 with open(file_path, "r") as f:
                     data = json.load(f)
@@ -298,7 +300,8 @@ class AgencyService:
                   or None if the agency or file is not found.
         """
         def _sync():
-            file_path = os.path.join("src", "data", "rules", f"nested_{year}.json")
+            BASE_DIR = Path(__file__).resolve().parent.parent.parent
+            file_path = BASE_DIR / "src" / "data" / "rules" / f"nested_{year}.json"
             if not os.path.exists(file_path):
                 return None
             with open(file_path, "r") as f:
@@ -331,7 +334,8 @@ class AgencyService:
             Optional[float]: The complexity score if found, None otherwise
         """
         try:
-            file_path = os.path.join("src", "data", "complexity", "agency_complexity_2024.json")
+            BASE_DIR = Path(__file__).resolve().parent.parent.parent
+            file_path = BASE_DIR / "src" / "data" / "complexity" / "agency_complexity_2024.json"
             if not os.path.exists(file_path):
                 return None
             
