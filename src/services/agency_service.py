@@ -34,7 +34,10 @@ class AgencyService:
         if cached_result is not None:
             return cached_result
 
-        response = supabase.table('agencies').select('*').execute()
+        # Offload the synchronous supabase call to a thread.
+        response = await asyncio.to_thread(
+            lambda: supabase.table('agencies').select('*').execute()
+        )
         AgencyService._set_db_cache(cache_key, response.data)
         return response.data
 
@@ -50,10 +53,13 @@ class AgencyService:
         Returns:
             List[dict]: A list of agency records that have data for the specified year
         """
-        response = supabase.table('agencies')\
-            .select('*, agency_years!inner(id, year, total_word_count)')\
-            .eq('agency_years.year', year)\
-            .execute()
+        # Offload synchronous supabase call
+        response = await asyncio.to_thread(
+            lambda: supabase.table('agencies')
+                .select('*, agency_years!inner(id, year, total_word_count)')
+                .eq('agency_years.year', year)
+                .execute()
+        )
         
         # Remove duplicate agencies and clean up the response
         unique_agencies = {}
@@ -68,7 +74,7 @@ class AgencyService:
                     'created_date': record['created_date'],
                     'last_modified_date': record['last_modified_date'],
                     'agency_year_id': agency_year['id'],
-                    'total_word_count': agency_year['total_word_count']  # Use the agency_year's total_word_count
+                    'total_word_count': agency_year['total_word_count']
                 }
                 unique_agencies[record['id']] = agency_data
         
@@ -86,12 +92,14 @@ class AgencyService:
         Returns:
             List[dict]: A list of chapter records for the specified agency year
         """
-        response = supabase.table('chapters')\
-            .select('*')\
-            .eq('agency_year_id', agency_year_id)\
-            .order('chapter_number')\
-            .execute()
-        
+        # Offload the supabase call to a thread.
+        response = await asyncio.to_thread(
+            lambda: supabase.table('chapters')
+                .select('*')
+                .eq('agency_year_id', agency_year_id)
+                .order('chapter_number')
+                .execute()
+        )
         return response.data
 
     @staticmethod
@@ -106,20 +114,19 @@ class AgencyService:
         Returns:
             List[dict]: A list of rule records with nested subrules
         """
-        response = supabase.table('rules')\
-            .select(
-                '*,' 
-                'subrules:subrules(*)'
-            )\
-            .eq('chapter_id', chapter_id)\
-            .order('citation')\
-            .execute()
+        # Offload the supabase call.
+        response = await asyncio.to_thread(
+            lambda: supabase.table('rules')
+                .select('*, subrules:subrules(*)')
+                .eq('chapter_id', chapter_id)
+                .order('citation')
+                .execute()
+        )
         
         # Process the response to ensure subrules are properly nested
         rules = []
         for rule in response.data:
             subrules = rule.pop('subrules', [])
-            # Sort subrules by subrule_number
             subrules.sort(key=lambda x: x['subrule_number'])
             rule['subrules'] = subrules
             rules.append(rule)
